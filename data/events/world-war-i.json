@@ -1,0 +1,31 @@
+{
+  "id": "world-war-i",
+  "title": "World War I",
+  "years": { "start": 1914, "end": 1918 },
+  "region": ["Europe", "Global"],
+  "key_facts": [
+    "Global conflict triggered by the assassination of Archduke Franz Ferdinand in 1914",
+    "Central Powers vs. Allied Powers across multiple fronts",
+    "Trench warfare and industrialized weaponry defined combat"
+  ],
+  "causes": [
+    "Militarism and arms race among European powers",
+    "Alliance system that escalated regional tensions into global war",
+    "Nationalist movements and imperial rivalries"
+  ],
+  "figures": [
+    { "name": "Franz Ferdinand", "role": "Austro-Hungarian Archduke", "link": "https://en.wikipedia.org/wiki/Archduke_Franz_Ferdinand_of_Austria" },
+    { "name": "Woodrow Wilson", "role": "U.S. President", "link": "https://en.wikipedia.org/wiki/Woodrow_Wilson" },
+    { "name": "Kaiser Wilhelm II", "role": "German Emperor", "link": "https://en.wikipedia.org/wiki/Wilhelm_II" }
+  ],
+  "impacts": [
+    "Redrawn borders and collapse of empires (Ottoman, Austro-Hungarian, Russian)",
+    "Treaty of Versailles set conditions leading to World War II",
+    "Advances in medicine and technology; societal shifts in roles and rights"
+  ],
+  "sources": [
+    { "title": "World War I", "url": "https://en.wikipedia.org/wiki/World_War_I", "publisher": "Wikipedia" },
+    { "title": "Q362", "url": "https://www.wikidata.org/wiki/Q362", "publisher": "Wikidata" }
+  ],
+  "aliases": ["WWI", "First World War", "Great War"]
+}

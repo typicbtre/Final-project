@@ -1,0 +1,31 @@
+{
+  "id": "world-war-ii",
+  "title": "World War II",
+  "years": { "start": 1939, "end": 1945 },
+  "region": ["Europe", "Asia", "Global"],
+  "key_facts": [
+    "Global conflict involving Axis and Allied powers",
+    "Began with Germany's invasion of Poland in 1939",
+    "Holocaust and atomic bombings marked unprecedented human impact"
+  ],
+  "causes": [
+    "Treaty of Versailles grievances and economic instability",
+    "Expansionist policies of Axis powers",
+    "Appeasement and failures of collective security"
+  ],
+  "figures": [
+    { "name": "Franklin D. Roosevelt", "role": "U.S. President", "link": "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt" },
+    { "name": "Winston Churchill", "role": "UK Prime Minister", "link": "https://en.wikipedia.org/wiki/Winston_Churchill" },
+    { "name": "Adolf Hitler", "role": "Nazi Germany Leader", "link": "https://en.wikipedia.org/wiki/Adolf_Hitler" }
+  ],
+  "impacts": [
+    "Formation of the United Nations and new global order",
+    "Decolonization and Cold War geopolitical divisions",
+    "Technological advances; human rights frameworks strengthened"
+  ],
+  "sources": [
+    { "title": "World War II", "url": "https://en.wikipedia.org/wiki/World_War_II", "publisher": "Wikipedia" },
+    { "title": "Q362", "url": "https://www.wikidata.org/wiki/Q362", "publisher": "Wikidata" }
+  ],
+  "aliases": ["WWII", "Second World War"]
+}

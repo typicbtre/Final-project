@@ -1,0 +1,14 @@
+PRD: History Simplifier
+Overview: A web app that breaks down complex historical events into digestible summaries for students.
+Core Features:
+
+Search bar for historical events/periods
+AI-generated breakdown displaying: Key Facts, Main Causes, Important Figures, Lasting Impact
+Clean, card-based layout with visual icons
+Bookmark favorite topics
+Simple, mobile-responsive design
+
+Target Users: High school/college students studying history
+Tech Stack: HTML/CSS/JavaScript, Claude API for generating summaries
+Success Metric: Users can understand a historical event in under 3 minutes
+Scope: Focus on major world events (1500-present)

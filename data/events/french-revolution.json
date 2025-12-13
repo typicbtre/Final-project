@@ -1,0 +1,31 @@
+{
+  "id": "french-revolution",
+  "title": "French Revolution",
+  "years": { "start": 1789, "end": 1799 },
+  "region": ["Europe"],
+  "key_facts": [
+    "Period of radical social and political change in France",
+    "Began with the Estates-General and the storming of the Bastille",
+    "Ended with the rise of Napoleon Bonaparte"
+  ],
+  "causes": [
+    "Economic crisis and taxation burdens",
+    "Enlightenment ideas challenging absolute monarchy",
+    "Social inequalities among estates"
+  ],
+  "figures": [
+    { "name": "Maximilien Robespierre", "role": "Leader during the Reign of Terror", "link": "https://en.wikipedia.org/wiki/Maximilien_Robespierre" },
+    { "name": "Napoleon Bonaparte", "role": "Military leader who rose to power", "link": "https://en.wikipedia.org/wiki/Napoleon" },
+    { "name": "Louis XVI", "role": "King of France", "link": "https://en.wikipedia.org/wiki/Louis_XVI" }
+  ],
+  "impacts": [
+    "Abolition of feudal privileges and spread of republican ideals",
+    "Inspiration for future revolutions and political reforms",
+    "Codification of rights influencing modern constitutions"
+  ],
+  "sources": [
+    { "title": "French Revolution", "url": "https://en.wikipedia.org/wiki/French_Revolution", "publisher": "Wikipedia" },
+    { "title": "Q12554", "url": "https://www.wikidata.org/wiki/Q12554", "publisher": "Wikidata" }
+  ],
+  "aliases": ["Revolution française", "1789 Revolution"]
+}

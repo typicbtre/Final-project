@@ -1,0 +1,20 @@
+[
+  {
+    "id": "world-war-i",
+    "title": "World War I",
+    "years": { "start": 1914, "end": 1918 },
+    "aliases": ["WWI", "First World War", "Great War"]
+  },
+  {
+    "id": "world-war-ii",
+    "title": "World War II",
+    "years": { "start": 1939, "end": 1945 },
+    "aliases": ["WWII", "Second World War"]
+  },
+  {
+    "id": "french-revolution",
+    "title": "French Revolution",
+    "years": { "start": 1789, "end": 1799 },
+    "aliases": ["Revolution française", "1789 Revolution"]
+  }
+]
