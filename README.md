@@ -1,4 +1,4 @@
-# Creative Project - Flexible Starter Template
+# Final-project — History Simplifier
 
 ## 🎯 About This Template
 
