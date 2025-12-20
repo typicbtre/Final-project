@@ -34,6 +34,7 @@ export function renderSummary(root, event) {
   grid.className = "card-grid";
   grid.appendChild(section("Key Facts", event.key_facts || []));
   grid.appendChild(section("Main Causes", event.causes || []));
+  grid.appendChild(section("How it Ended", event.outcome || []));
   grid.appendChild(section("Important Figures", (event.figures || []).map((f) => `${f.name} — ${f.role}`)));
   grid.appendChild(section("Lasting Impact", event.impacts || []));
   root.appendChild(grid);

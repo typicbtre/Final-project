@@ -1,0 +1,66 @@
+{
+  "id": "cold-war",
+  "title": "The Cold War",
+  "years": {
+    "start": 1947,
+    "end": 1991
+  },
+  "region": ["Global", "Europe", "Asia", "Americas"],
+  "key_facts": [
+    "A period of geopolitical tension between the United States and the Soviet Union and their respective allies.",
+    "No large-scale direct fighting between the two superpowers, but multiple proxy wars (Korea, Vietnam, Afghanistan).",
+    "Marked by the nuclear arms race, the Space Race, and the ideological struggle between capitalism and communism.",
+    "Ended with the dissolution of the Soviet Union in 1991."
+  ],
+  "causes": [
+    "Ideological conflict between Soviet Communism and Western Capitalism.",
+    "Power vacuum in Europe after World War II.",
+    "Fear of nuclear annihilation (Mutually Assured Destruction).",
+    "Expansionist policies of both superpowers."
+  ],
+  "outcome": [
+    "Dissolution of the Soviet Union in December 1991.",
+    "Victory for the Western Bloc and the United States."
+  ],
+  "figures": [
+    {
+      "name": "Harry S. Truman",
+      "role": "US President; established the Truman Doctrine to contain communism.",
+      "link": "https://en.wikipedia.org/wiki/Harry_S._Truman"
+    },
+    {
+      "name": "Joseph Stalin",
+      "role": "Leader of the Soviet Union; established the Eastern Bloc.",
+      "link": "https://en.wikipedia.org/wiki/Joseph_Stalin"
+    },
+    {
+      "name": "John F. Kennedy",
+      "role": "US President during the Cuban Missile Crisis.",
+      "link": "https://en.wikipedia.org/wiki/John_F._Kennedy"
+    },
+    {
+      "name": "Mikhail Gorbachev",
+      "role": "Soviet leader whose reforms (Glasnost/Perestroika) led to the end of the Cold War.",
+      "link": "https://en.wikipedia.org/wiki/Mikhail_Gorbachev"
+    }
+  ],
+  "impacts": [
+    "Collapse of the Soviet Union and end of the bipolar world order.",
+    "Establishment of NATO and the European Union.",
+    "Ongoing nuclear proliferation concerns.",
+    "Shaped modern conflicts in the Middle East and Asia."
+  ],
+  "sources": [
+    {
+      "title": "Cold War - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cold_War",
+      "publisher": "Wikipedia"
+    },
+    {
+      "title": "The Cold War Museum",
+      "url": "https://www.coldwar.org/",
+      "publisher": "The Cold War Museum"
+    }
+  ],
+  "aliases": ["Cold War", "Soviet-American conflict", "East vs West"]
+}

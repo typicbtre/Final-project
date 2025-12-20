@@ -13,6 +13,10 @@
     "Enlightenment ideas challenging absolute monarchy",
     "Social inequalities among estates"
   ],
+  "outcome": [
+    "Overthrow of the Bourbon monarchy.",
+    "Establishment of the Consulate under Napoleon Bonaparte in 1799."
+  ],
   "figures": [
     { "name": "Maximilien Robespierre", "role": "Leader during the Reign of Terror", "link": "https://en.wikipedia.org/wiki/Maximilien_Robespierre" },
     { "name": "Napoleon Bonaparte", "role": "Military leader who rose to power", "link": "https://en.wikipedia.org/wiki/Napoleon" },

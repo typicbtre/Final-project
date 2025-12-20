@@ -3,18 +3,32 @@
     "id": "world-war-i",
     "title": "World War I",
     "years": { "start": 1914, "end": 1918 },
-    "aliases": ["WWI", "First World War", "Great War"]
+    "aliases": ["WWI","WW1", "First World War", "Great War","The Great War","World War One","World War 1","The War To End All Wars"]
   },
   {
     "id": "world-war-ii",
     "title": "World War II",
     "years": { "start": 1939, "end": 1945 },
-    "aliases": ["WWII", "Second World War"]
+    "aliases": ["WWII","WW2", "Second World War","World War Two","World War 2"]
   },
   {
     "id": "french-revolution",
     "title": "French Revolution",
     "years": { "start": 1789, "end": 1799 },
-    "aliases": ["Revolution française", "1789 Revolution"]
+    "aliases": ["Revolution française", "1789 Revolution", "The French Revolution"]
+  },
+  {
+    "id": "cold-war",
+    "title": "The Cold War",
+    "years": { "start": 1947, "end": 1991 },
+    "aliases": ["Cold War", "Soviet-American conflict"]
+  },
+  {
+    "id": "industrial-revolution",
+    "title": "The Industrial Revolution",
+    "years": { "start": 1760, "end": 1840 },
+    "aliases": ["Industrial Age", "Machine Age","Industrial Revolution"]
   }
 ]
+
+

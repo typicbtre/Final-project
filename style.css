@@ -2,14 +2,14 @@
 /* Customize these styles to match your project theme! */
 
 :root {
-    --primary-color: #667eea;
-    --secondary-color: #764ba2;
-    --accent-color: #f093fb;
+    --primary-color: #BB3E00; /* burnt orange */
+    --secondary-color: #657C6A; /* sage dark */
+    --accent-color: #F7AD45; /* warm gold */
     --text-dark: #2d3748;
     --text-light: #718096;
-    --bg-light: #f7fafc;
+    --bg-light: #EEF4F0;
     --bg-white: #ffffff;
-    --border-color: #e2e8f0;
+    --border-color: #CBD9D1;
     --shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     --shadow-lg: 0 10px 15px rgba(0, 0, 0, 0.1);
 }
@@ -22,10 +22,14 @@
 
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: linear-gradient(135deg, var(--bg-light) 0%, #e0e7ff 100%);
+    background: linear-gradient(135deg, #A2B9A7 0%, #D6E4DD 100%);
     color: var(--text-dark);
-    line-height: 1.6;
+    line-height: 1.7;
     min-height: 100vh;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 .container {
@@ -43,6 +47,7 @@ body {
     border-radius: 20px;
     margin-bottom: 40px;
     box-shadow: var(--shadow-lg);
+    position: relative;
 }
 
 .header h1 {
@@ -76,6 +81,7 @@ h2 {
     color: var(--primary-color);
     margin-bottom: 20px;
     font-size: 2rem;
+    letter-spacing: 0.2px;
 }
 
 h3 {
@@ -113,6 +119,26 @@ h3 {
     margin-top: 20px;
 }
 
+/* Arrange search input and button nicely on larger screens */
+@media (min-width: 640px) {
+    .demo-area {
+        display: grid;
+        grid-template-columns: 1fr auto;
+        gap: 12px 12px;
+        align-items: center;
+    }
+    .demo-area #historySearch {
+        margin-bottom: 0;
+    }
+    .demo-area #historySubmit {
+        height: 46px;
+        white-space: nowrap;
+    }
+    .demo-area .output-area {
+        grid-column: 1 / -1;
+    }
+}
+
 input[type="text"] {
     width: 100%;
     padding: 12px 20px;
@@ -120,12 +146,13 @@ input[type="text"] {
     border-radius: 10px;
     font-size: 1rem;
     margin-bottom: 15px;
-    transition: border-color 0.3s;
+    transition: border-color 0.3s, box-shadow 0.2s ease;
 }
 
 input[type="text"]:focus {
     outline: none;
     border-color: var(--primary-color);
+    box-shadow: 0 0 0 4px rgba(102, 126, 234, 0.15);
 }
 
 /* Buttons */
@@ -146,8 +173,28 @@ input[type="text"]:focus {
     box-shadow: var(--shadow-lg);
 }
 
+.btn:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 4px rgba(118, 75, 162, 0.2), var(--shadow-lg);
+}
+
 .btn-primary {
     background: linear-gradient(135deg, var(--accent-color), var(--primary-color));
+}
+
+/* Theme toggle button */
+.theme-toggle {
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    padding: 8px 12px;
+    border-radius: 999px;
+    background: rgba(255, 255, 255, 0.15);
+    border: 1px solid rgba(255, 255, 255, 0.35);
+    backdrop-filter: saturate(160%) blur(6px);
+}
+.theme-toggle:hover {
+    transform: translateY(-1px);
 }
 
 /* Output Area */
@@ -158,6 +205,16 @@ input[type="text"]:focus {
     border-radius: 10px;
     min-height: 50px;
     border: 2px dashed var(--border-color);
+}
+
+.output-area p,
+.output-area li {
+    line-height: 1.8;
+}
+
+.output-area h3 {
+    margin-top: 10px;
+    margin-bottom: 8px;
 }
 
 /* Footer */
@@ -183,6 +240,55 @@ input[type="text"]:focus {
     .feature-grid {
         grid-template-columns: 1fr;
     }
+}
+
+/* Dark mode via explicit toggle */
+:root[data-theme="dark"] {
+    /* Higher contrast, palette-aligned dark surfaces */
+    --text-dark: #E7ECEA; /* light text */
+    --text-light: #AEBBB5; /* muted text */
+    --bg-light: #15211C; /* tinted card/search */
+    --bg-white: #0F1915; /* primary surface */
+    --border-color: #2A3A34; /* subtle but visible */
+}
+
+:root[data-theme="dark"] body {
+    background: linear-gradient(135deg, #5C6D64 0%, #2A3630 100%);
+}
+
+:root[data-theme="dark"] .main-content,
+:root[data-theme="dark"] .footer,
+:root[data-theme="dark"] .feature-card,
+:root[data-theme="dark"] .card-section,
+:root[data-theme="dark"] .demo-area,
+:root[data-theme="dark"] .output-area,
+:root[data-theme="dark"] .miss-box {
+    box-shadow: none;
+}
+
+:root[data-theme="dark"] .output-area {
+    background: var(--bg-white);
+    border-color: var(--border-color);
+}
+
+/* Inputs and focus rings in dark mode for clarity */
+:root[data-theme="dark"] input[type="text"] {
+    background: var(--bg-white);
+    color: var(--text-dark);
+    border-color: var(--border-color);
+}
+
+:root[data-theme="dark"] input[type="text"]::placeholder {
+    color: var(--text-light);
+}
+
+:root[data-theme="dark"] input[type="text"]:focus {
+    border-color: var(--accent-color);
+    box-shadow: 0 0 0 4px rgba(187, 62, 0, 0.25); /* from #BB3E00 */
+}
+
+:root[data-theme="dark"] .btn:focus-visible {
+    box-shadow: 0 0 0 4px rgba(187, 62, 0, 0.25), var(--shadow-lg);
 }
 
 /* Animation */

@@ -27,6 +27,7 @@ export async function generateSummaryPlaceholder(query) {
       "Connect to a server to fetch sources and generate"
     ],
     causes: ["Pending external retrieval"],
+    outcome: ["Pending external retrieval"],
     figures: [],
     impacts: ["Pending external retrieval"],
     sources: [],

@@ -3,6 +3,38 @@ import { normalizeQuery, loadAliases, applyAlias } from "./utils/normalize.js";
 import { getEventById, buildMissState, generateSummaryPlaceholder } from "./services/retrieval/index.js";
 import { renderSummary, renderMiss } from "./components/render.js";
 
+function setupThemeToggle() {
+  const root = document.documentElement;
+  const btn = document.getElementById("themeToggle");
+  if (!btn) return;
+
+  const apply = (mode) => {
+    if (mode === "dark") {
+      root.setAttribute("data-theme", "dark");
+      btn.textContent = "☀️";
+      btn.setAttribute("aria-pressed", "true");
+      btn.title = "Switch to light mode";
+    } else {
+      root.removeAttribute("data-theme");
+      btn.textContent = "🌙";
+      btn.setAttribute("aria-pressed", "false");
+      btn.title = "Switch to dark mode";
+    };
+  };
+
+  // Initialize from storage (default: light)
+  const saved = localStorage.getItem("theme");
+  const initial = saved === "dark" ? "dark" : "light";
+  apply(initial);
+
+  btn.addEventListener("click", () => {
+    const current = root.getAttribute("data-theme") === "dark" ? "dark" : "light";
+    const next = current === "dark" ? "light" : "dark";
+    apply(next);
+    localStorage.setItem("theme", next);
+  });
+}
+
 async function init() {
   const input = document.getElementById("historySearch");
   const submit = document.getElementById("historySubmit");
@@ -42,4 +74,7 @@ async function init() {
   });
 }
 
-document.addEventListener("DOMContentLoaded", init);
+document.addEventListener("DOMContentLoaded", () => {
+  setupThemeToggle();
+  init();
+});

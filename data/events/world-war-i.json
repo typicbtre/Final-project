@@ -13,6 +13,10 @@
     "Alliance system that escalated regional tensions into global war",
     "Nationalist movements and imperial rivalries"
   ],
+  "outcome": [
+    "Germany signed an armistice on November 11, 1918.",
+    "Treaty of Versailles formally ended the war in 1919."
+  ],
   "figures": [
     { "name": "Franz Ferdinand", "role": "Austro-Hungarian Archduke", "link": "https://en.wikipedia.org/wiki/Archduke_Franz_Ferdinand_of_Austria" },
     { "name": "Woodrow Wilson", "role": "U.S. President", "link": "https://en.wikipedia.org/wiki/Woodrow_Wilson" },
@@ -24,8 +28,7 @@
     "Advances in medicine and technology; societal shifts in roles and rights"
   ],
   "sources": [
-    { "title": "World War I", "url": "https://en.wikipedia.org/wiki/World_War_I", "publisher": "Wikipedia" },
-    { "title": "Q362", "url": "https://www.wikidata.org/wiki/Q362", "publisher": "Wikidata" }
+    { "title": "World War I", "url": "https://en.wikipedia.org/wiki/World_War_I", "publisher": "Wikipedia" }
   ],
   "aliases": ["WWI", "First World War", "Great War"]
 }

@@ -1,0 +1,61 @@
+{
+  "id": "industrial-revolution",
+  "title": "The Industrial Revolution",
+  "years": {
+    "start": 1760,
+    "end": 1840
+  },
+  "region": ["Europe", "North America", "Global"],
+  "key_facts": [
+    "Transition to new manufacturing processes in Europe and the United States.",
+    "Shift from hand production methods to machines and factories.",
+    "Rise of mechanized textile production and the iron industry.",
+    "Unprecedented population growth and urbanization."
+  ],
+  "causes": [
+    "Agricultural Revolution leading to surplus food and population growth.",
+    "Availability of natural resources like coal and iron ore.",
+    "Scientific innovation and the invention of the steam engine.",
+    "Colonial trade networks providing raw materials and markets."
+  ],
+  "outcome": [
+    "Establishment of industrial capitalism as the dominant global economic system.",
+    "Transition into the Second Industrial Revolution (electricity, steel) by the mid-19th century."
+  ],
+  "figures": [
+    {
+      "name": "James Watt",
+      "role": "Inventor who improved the steam engine, powering the revolution.",
+      "link": "https://en.wikipedia.org/wiki/James_Watt"
+    },
+    {
+      "name": "Eli Whitney",
+      "role": "Inventor of the cotton gin; popularized interchangeable parts.",
+      "link": "https://en.wikipedia.org/wiki/Eli_Whitney"
+    },
+    {
+      "name": "Karl Marx",
+      "role": "Philosopher who critiqued the social impact of industrial capitalism.",
+      "link": "https://en.wikipedia.org/wiki/Karl_Marx"
+    }
+  ],
+  "impacts": [
+    "Massive shift of population from rural areas to cities (urbanization).",
+    "Rise of a new middle class (bourgeoisie) and working class (proletariat).",
+    "Significant environmental degradation and pollution.",
+    "Acceleration of European imperialism and colonialism."
+  ],
+  "sources": [
+    {
+      "title": "Industrial Revolution - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Industrial_Revolution",
+      "publisher": "Wikipedia"
+    },
+    {
+      "title": "Britannica Topic",
+      "url": "https://www.britannica.com/event/Industrial-Revolution",
+      "publisher": "Britannica"
+    }
+  ],
+  "aliases": ["Industrial Age", "Machine Age", "First Industrial Revolution"]
+}

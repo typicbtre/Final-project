@@ -13,6 +13,10 @@
     "Expansionist policies of Axis powers",
     "Appeasement and failures of collective security"
   ],
+  "outcome": [
+    "Unconditional surrender of Germany (May 1945) and Japan (September 1945).",
+    "Allied occupation of Germany and Japan."
+  ],
   "figures": [
     { "name": "Franklin D. Roosevelt", "role": "U.S. President", "link": "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt" },
     { "name": "Winston Churchill", "role": "UK Prime Minister", "link": "https://en.wikipedia.org/wiki/Winston_Churchill" },

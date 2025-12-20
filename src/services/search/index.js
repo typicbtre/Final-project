@@ -1,9 +1,9 @@
 let cachedIndex = null;
 
 const fallbackIndex = [
-  { id: "world-war-i", title: "World War I", years: { start: 1914, end: 1918 }, aliases: ["WWI", "First World War", "Great War"] },
-  { id: "world-war-ii", title: "World War II", years: { start: 1939, end: 1945 }, aliases: ["WWII", "Second World War"] },
-  { id: "french-revolution", title: "French Revolution", years: { start: 1789, end: 1799 }, aliases: ["Revolution française", "1789 Revolution"] }
+  { id: "world-war-i", title: "World War I", years: { start: 1914, end: 1918 }, aliases: ["WWI","WW1", "First World War", "Great War","The Great War","World War One","World War 1","The War To End All Wars"] },
+  { id: "world-war-ii", title: "World War II", years: { start: 1939, end: 1945 }, aliases: ["WWII","WW2", "Second World War","World War Two","World War 2"] },
+  { id: "french-revolution", title: "French Revolution", years: { start: 1789, end: 1799 }, aliases: ["Revolution française", "1789 Revolution", "The French Revolution"] }
 ];
 
 export async function loadIndex() {
