@@ -31,5 +31,6 @@
     { "title": "World War II", "url": "https://en.wikipedia.org/wiki/World_War_II", "publisher": "Wikipedia" },
     { "title": "Q362", "url": "https://www.wikidata.org/wiki/Q362", "publisher": "Wikidata" }
   ],
-  "aliases": ["WWII", "Second World War"]
+  "aliases": ["WWII", "Second World War"],
+  "parts": ["world-war-ii-europe", "world-war-ii-pacific"]
 }

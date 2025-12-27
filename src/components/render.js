@@ -56,6 +56,59 @@ export function renderSummary(root, event) {
   }
   src.appendChild(sl);
   root.appendChild(src);
+
+  // Related navigation
+  const related = document.createElement("div");
+  related.className = "related-links";
+  const links = [];
+  if (Array.isArray(event.parts) && event.parts.length) {
+    const h = document.createElement("h3");
+    h.textContent = "Related sections";
+    related.appendChild(h);
+    const wrap = document.createElement("div");
+    wrap.className = "related-buttons";
+    for (const pid of event.parts) {
+      const btn = document.createElement("button");
+      btn.className = "btn-link";
+      // Inline minimal link-like styling
+      btn.style.background = "none";
+      btn.style.border = "none";
+      btn.style.color = "var(--primary-color)";
+      btn.style.padding = "4px 6px";
+      btn.style.fontSize = "0.95rem";
+      btn.style.textDecoration = "underline";
+      btn.style.cursor = "pointer";
+      btn.style.borderRadius = "6px";
+      btn.dataset.linkId = pid;
+      btn.textContent = pid;
+      wrap.appendChild(btn);
+      links.push(btn);
+    }
+    related.appendChild(wrap);
+  }
+  if (typeof event.parent === "string" && event.parent) {
+    const wrap = document.createElement("div");
+    wrap.className = "related-buttons";
+    const back = document.createElement("button");
+    back.className = "btn-link";
+    // Inline minimal link-like styling
+    back.style.background = "none";
+    back.style.border = "none";
+    back.style.color = "var(--primary-color)";
+    back.style.padding = "4px 6px";
+    back.style.fontSize = "0.95rem";
+    back.style.textDecoration = "underline";
+    back.style.cursor = "pointer";
+    back.style.borderRadius = "6px";
+    back.dataset.linkId = event.parent;
+    back.textContent = "Back to main";
+    wrap.appendChild(back);
+    related.appendChild(wrap);
+    links.push(back);
+  }
+  if (links.length) {
+    root.appendChild(related);
+  }
 }
 
 export function renderMiss(root, miss) {
@@ -81,7 +134,9 @@ export function renderMiss(root, miss) {
   const sug = document.createElement("ul");
   for (const s of miss.suggestions || []) {
     const li = document.createElement("li");
-    li.textContent = s.title;
+    const desc = typeof s.description === "string" ? s.description : "";
+    const snippet = desc.length > 120 ? desc.slice(0, 117) + "..." : desc;
+    li.innerHTML = `<strong>${s.title}</strong>${snippet ? `<div class="suggestion-desc">${snippet}</div>` : ""}`;
     li.dataset.id = s.id;
     sug.appendChild(li);
   }

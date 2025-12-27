@@ -1,0 +1,36 @@
+{
+  "id": "meiji-restoration",
+  "title": "Meiji Restoration",
+  "years": { "start": 1868, "end": 1912 },
+  "region": ["Asia", "Japan"],
+  "key_facts": [
+    "Restored imperial rule under Emperor Meiji in 1868",
+    "Abolished feudal domains and centralized administration",
+    "Rapid modernization in industry, military, and education"
+  ],
+  "causes": [
+    "Weakening of the Tokugawa shogunate and internal unrest",
+    "Pressure from Western powers and unequal treaties",
+    "Reform movements seeking to strengthen and modernize Japan"
+  ],
+  "outcome": [
+    "Charter Oath established principles for modernization",
+    "Meiji Constitution (1889) created a constitutional monarchy",
+    "Conscription, land tax reform, and compulsory education instituted"
+  ],
+  "figures": [
+    { "name": "Emperor Meiji", "role": "Symbol of restored imperial authority", "link": "https://en.wikipedia.org/wiki/Emperor_Meiji" },
+    { "name": "Ito Hirobumi", "role": "Statesman and architect of the Meiji Constitution", "link": "https://en.wikipedia.org/wiki/Ito_Hirobumi" },
+    { "name": "Saigo Takamori", "role": "Key leader in the Restoration; later led the Satsuma Rebellion", "link": "https://en.wikipedia.org/wiki/Saigō_Takamori" },
+    { "name": "Okubo Toshimichi", "role": "Influential reformer in government and industry", "link": "https://en.wikipedia.org/wiki/Ōkubo_Toshimichi" }
+  ],
+  "impacts": [
+    "Transformed Japan into a modern industrial power",
+    "Reconfigured social classes and governance structures",
+    "Set the stage for Japan's emergence as a regional military power"
+  ],
+  "sources": [
+    { "title": "Meiji Restoration", "url": "https://en.wikipedia.org/wiki/Meiji_Restoration", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["Meiji Ishin", "Meiji Revolution", "Restoration of Imperial Rule"]
+}

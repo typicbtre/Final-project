@@ -1,0 +1,40 @@
+{
+  "id": "world-war-ii-pacific",
+  "title": "World War II — Pacific Theater",
+  "years": { "start": 1941, "end": 1945 },
+  "region": ["Asia", "Pacific"],
+  "key_facts": [
+    "Triggered by Japan’s attack on Pearl Harbor (1941)",
+    "Naval and island-hopping campaigns across the Pacific",
+    "Turning points: Battle of Midway and Guadalcanal",
+    "Fierce battles at Iwo Jima and Okinawa",
+    "Atomic bombings of Hiroshima and Nagasaki (August 1945)"
+  ],
+  "causes": [
+    "Japanese expansionism in East Asia and the Pacific",
+    "Resource embargoes and mounting US–Japan tensions",
+    "Greater East Asia Co-Prosperity Sphere ambitions"
+  ],
+  "outcome": [
+    "Unconditional surrender of Japan (September 1945)",
+    "US-led occupation and postwar constitution",
+    "War crimes trials and regional realignments"
+  ],
+  "figures": [
+    { "name": "Emperor Hirohito", "role": "Emperor of Japan", "link": "https://en.wikipedia.org/wiki/Hirohito" },
+    { "name": "Hideki Tojo", "role": "Japanese Prime Minister and general", "link": "https://en.wikipedia.org/wiki/Hideki_Tojo" },
+    { "name": "Isoroku Yamamoto", "role": "Admiral; architect of Pearl Harbor", "link": "https://en.wikipedia.org/wiki/Isoroku_Yamamoto" },
+    { "name": "Douglas MacArthur", "role": "Allied commander in the Southwest Pacific", "link": "https://en.wikipedia.org/wiki/Douglas_MacArthur" }
+  ],
+  "impacts": [
+    "US strategic presence in Asia and Pacific security architecture",
+    "Decolonization and shifting power balances in Asia",
+    "Onset of the nuclear age and deterrence doctrines"
+  ],
+  "sources": [
+    { "title": "Pacific War", "url": "https://en.wikipedia.org/wiki/Pacific_War", "publisher": "Wikipedia" },
+    { "title": "Pacific theater of World War II", "url": "https://en.wikipedia.org/wiki/Pacific_theater_of_World_War_II", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["WWII Pacific", "Pacific Theater", "Asia-Pacific War"],
+  "parent": "world-war-ii"
+}

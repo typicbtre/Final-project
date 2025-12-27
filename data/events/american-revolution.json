@@ -1,0 +1,61 @@
+{
+  "id": "american-revolution",
+  "title": "The American Revolution",
+  "years": {
+    "start": 1775,
+    "end": 1783
+  },
+  "region": ["North America", "Europe"],
+  "key_facts": [
+    "Conflict between the 13 American colonies and Great Britain.",
+    "Declaration of Independence adopted on July 4, 1776.",
+    "France provided crucial military and financial support to the colonists.",
+    "The war effectively ended with the British surrender at Yorktown in 1781."
+  ],
+  "causes": [
+    "Taxation without representation (Stamp Act, Tea Act).",
+    "Desire for self-governance and freedom from British mercantilist policies.",
+    "Influence of Enlightenment ideas (liberty, social contract).",
+    "Escalating tensions following the Boston Massacre and Boston Tea Party."
+  ],
+  "outcome": [
+    "Treaty of Paris (1783) recognized US independence and defined borders.",
+    "Establishment of the United States as a federal republic with the Constitution (1787)."
+  ],
+  "figures": [
+    {
+      "name": "George Washington",
+      "role": "Commander of the Continental Army and first US President.",
+      "link": "https://en.wikipedia.org/wiki/George_Washington"
+    },
+    {
+      "name": "Thomas Jefferson",
+      "role": "Primary author of the Declaration of Independence.",
+      "link": "https://en.wikipedia.org/wiki/Thomas_Jefferson"
+    },
+    {
+      "name": "King George III",
+      "role": "Monarch of Great Britain during the conflict.",
+      "link": "https://en.wikipedia.org/wiki/George_III"
+    }
+  ],
+  "impacts": [
+    "Inspired the French Revolution and Latin American independence movements.",
+    "Demonstrated that a colonial rebellion could defeat a global superpower.",
+    "Establishment of democratic ideals and separation of powers.",
+    "Continued displacement of Native American populations."
+  ],
+  "sources": [
+    {
+      "title": "American Revolutionary War - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
+      "publisher": "Wikipedia"
+    },
+    {
+      "title": "American Revolution - Britannica",
+      "url": "https://www.britannica.com/event/American-Revolution",
+      "publisher": "Britannica"
+    }
+  ],
+  "aliases": ["Revolutionary War", "US Independence", "War of Independence"]
+}

@@ -44,6 +44,45 @@ async function init() {
   const index = await loadIndex();
   const aliases = await loadAliases();
 
+  async function attachLinkHandlers() {
+    // Set human-friendly labels using titles from index
+    output.querySelectorAll("[data-link-id]").forEach((btn) => {
+      const linkId = btn.getAttribute("data-link-id");
+      if (!linkId) return;
+      // Preserve explicit back label
+      if (btn.textContent && btn.textContent.trim().toLowerCase() === "back to main") return;
+      const match = index.find((it) => it.id === linkId);
+      if (match && match.title) {
+        btn.textContent = match.title;
+      }
+    });
+    // Handle related links in summary view
+    output.querySelectorAll("[data-link-id]").forEach((btn) => {
+      btn.addEventListener("click", async () => {
+        const linkId = btn.getAttribute("data-link-id");
+        if (!linkId) return;
+        const event = await getEventById(linkId);
+        if (event) {
+          renderSummary(output, event);
+          // Rebind for the new view
+          attachLinkHandlers();
+        }
+      });
+    });
+    // Handle clicking a suggestion item to open its event if available
+    output.querySelectorAll(".miss-box ul li").forEach((li) => {
+      li.addEventListener("click", async () => {
+        const id = li.getAttribute("data-id");
+        if (!id) return;
+        const event = await getEventById(id);
+        if (event) {
+          renderSummary(output, event);
+          attachLinkHandlers();
+        }
+      });
+    });
+  }
+
   submit.addEventListener("click", async () => {
     const raw = input.value || "";
     const norm = normalizeQuery(raw);
@@ -57,14 +96,27 @@ async function init() {
       const event = await getEventById(id);
       if (event) {
         renderSummary(output, event);
+        await attachLinkHandlers();
         return;
       }
     }
-    const suggestions = index.filter((it) => it.title.toLowerCase().includes(norm)).slice(0, 5);
+    const suggestions = index
+      .filter((it) => {
+        const q = norm;
+        if (it.title.toLowerCase().includes(q)) return true;
+        if (it.id.toLowerCase().includes(q)) return true;
+        if (Array.isArray(it.aliases) && it.aliases.some((a) => a.toLowerCase().includes(q))) return true;
+        if (Array.isArray(it.tags) && it.tags.some((t) => String(t).toLowerCase().includes(q))) return true;
+        if (typeof it.description === "string" && it.description.toLowerCase().includes(q)) return true;
+        return false;
+      })
+      .slice(0, 5);
     renderMiss(output, buildMissState(raw, suggestions));
+    await attachLinkHandlers();
     output.querySelector("[data-action='generate']")?.addEventListener("click", async () => {
       const placeholder = await generateSummaryPlaceholder(raw);
       renderSummary(output, placeholder);
+      await attachLinkHandlers();
     });
     output.querySelector("[data-action='similar']")?.addEventListener("click", () => {
       const list = output.querySelector(".miss-box ul");

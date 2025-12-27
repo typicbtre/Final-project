@@ -1,0 +1,40 @@
+{
+  "id": "world-war-ii-europe",
+  "title": "World War II — European Theater",
+  "years": { "start": 1939, "end": 1945 },
+  "region": ["Europe"],
+  "key_facts": [
+    "Began with Germany’s invasion of Poland in 1939",
+    "Blitzkrieg campaigns across Western and Northern Europe",
+    "Turning points: Battle of Britain, Stalingrad, Kursk",
+    "Allied landings in Normandy (D-Day) and liberation of Western Europe",
+    "Fall of Berlin and Nazi Germany’s surrender in May 1945"
+  ],
+  "causes": [
+    "Revisionist aims of Nazi Germany and Fascist Italy",
+    "Appeasement and failure of collective security",
+    "Aftermath of World War I and economic instability"
+  ],
+  "outcome": [
+    "Unconditional surrender of Germany (May 1945)",
+    "Allied occupation and division of Germany",
+    "Nuremberg Trials and denazification policies"
+  ],
+  "figures": [
+    { "name": "Winston Churchill", "role": "UK Prime Minister", "link": "https://en.wikipedia.org/wiki/Winston_Churchill" },
+    { "name": "Adolf Hitler", "role": "Leader of Nazi Germany", "link": "https://en.wikipedia.org/wiki/Adolf_Hitler" },
+    { "name": "Joseph Stalin", "role": "Leader of the Soviet Union", "link": "https://en.wikipedia.org/wiki/Joseph_Stalin" },
+    { "name": "Dwight D. Eisenhower", "role": "Supreme Allied Commander in Europe", "link": "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower" }
+  ],
+  "impacts": [
+    "Redrawing of European borders and the onset of the Cold War",
+    "Mass displacement and reconstruction across Europe",
+    "Formation of the United Nations and European integration"
+  ],
+  "sources": [
+    { "title": "European theatre of World War II", "url": "https://en.wikipedia.org/wiki/European_theatre_of_World_War_II", "publisher": "Wikipedia" },
+    { "title": "Eastern Front (World War II)", "url": "https://en.wikipedia.org/wiki/Eastern_Front_(World_War_II)", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["WWII Europe", "European Theater", "Western Front"],
+  "parent": "world-war-ii"
+}

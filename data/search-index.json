@@ -3,32 +3,73 @@
     "id": "world-war-i",
     "title": "World War I",
     "years": { "start": 1914, "end": 1918 },
-    "aliases": ["WWI","WW1", "First World War", "Great War","The Great War","World War One","World War 1","The War To End All Wars"]
+    "aliases": ["WWI","WW1", "First World War", "Great War","The Great War","World War One","World War 1","The War To End All Wars"],
+    "description": "Global conflict centered in Europe that introduced industrial-scale warfare and reshaped empires, borders, and international diplomacy.",
+    "tags": ["global war", "Europe", "alliances", "trench warfare", "1910s", "Treaty of Versailles"]
   },
   {
     "id": "world-war-ii",
     "title": "World War II",
     "years": { "start": 1939, "end": 1945 },
-    "aliases": ["WWII","WW2", "Second World War","World War Two","World War 2"]
+    "aliases": ["WWII","WW2", "Second World War","World War Two","World War 2"],
+    "description": "Worldwide war involving the Axis and Allies that resulted in massive casualties, the Holocaust, atomic bombings, and the onset of the Cold War.",
+    "tags": ["global war", "Allies", "Axis", "Holocaust", "atomic", "1940s","WW2"]
   },
   {
     "id": "french-revolution",
     "title": "French Revolution",
     "years": { "start": 1789, "end": 1799 },
-    "aliases": ["Revolution française", "1789 Revolution", "The French Revolution"]
+    "aliases": ["Revolution française", "1789 Revolution", "The French Revolution"],
+    "description": "Radical social and political upheaval that ended the Bourbon monarchy, advanced republicanism, and reshaped European politics.",
+    "tags": ["revolution", "France", "Enlightenment", "republicanism", "1780s", "Napoleon"]
   },
   {
     "id": "cold-war",
     "title": "The Cold War",
     "years": { "start": 1947, "end": 1991 },
-    "aliases": ["Cold War", "Soviet-American conflict"]
+    "aliases": ["Cold War", "Soviet-American conflict"],
+    "description": "Geopolitical rivalry between the United States and the Soviet Union marked by ideological conflict, nuclear arms race, and proxy wars.",
+    "tags": ["geopolitics", "USA", "USSR", "nuclear", "proxy wars", "1940s–1990s"]
   },
   {
     "id": "industrial-revolution",
     "title": "The Industrial Revolution",
     "years": { "start": 1760, "end": 1840 },
-    "aliases": ["Industrial Age", "Machine Age","Industrial Revolution"]
+    "aliases": ["Industrial Age", "Machine Age","Industrial Revolution"],
+    "description": "Transition to mechanized manufacturing and new energy sources, dramatically increasing productivity and transforming societies.",
+    "tags": ["industry", "mechanization", "steam power", "urbanization", "technology", "18th–19th century", "industrialization"]
+  },
+  {
+    "id": "american-revolution",
+    "title": "The American Revolution",
+    "years": { "start": 1775, "end": 1783 },
+    "aliases": ["Revolutionary War", "US Independence","American Revolution"],
+    "description": "Colonial revolt against British rule leading to U.S. independence and the creation of a constitutional republic.",
+    "tags": ["revolution", "USA", "independence", "colonial", "constitution", "1770s"]
+  },
+  {
+    "id": "meiji-restoration",
+    "title": "Meiji Restoration",
+    "years": { "start": 1868, "end": 1912 },
+    "aliases": ["Meiji Ishin", "Modernization of Japan", "Meiji Era Reforms"],
+    "description": "Political revolution that restored imperial rule in Japan and accelerated rapid modernization, industrialization, and Western-style reforms, transforming Japan into a major world power.",
+    "tags": ["Japan", "modernization", "industrialization", "restoration", "Meiji", "Westernization"]
+  },
+  {
+    "id": "world-war-ii-europe",
+    "title": "World War II — European Theater",
+    "years": { "start": 1939, "end": 1945 },
+    "aliases": ["WWII Europe", "European Theater", "Western Front"],
+    "description": "European campaigns of WWII including Blitzkrieg, the Eastern Front, D-Day, and the fall of Berlin, culminating in Germany’s surrender.",
+    "tags": ["Europe", "Allies", "Axis", "Eastern Front", "D-Day", "1940s","WW2"]
+  },
+  {
+    "id": "world-war-ii-pacific",
+    "title": "World War II — Pacific Theater",
+    "years": { "start": 1941, "end": 1945 },
+    "aliases": ["WWII Pacific", "Pacific Theater", "Asia-Pacific War"],
+    "description": "Pacific and Asian fronts of WWII from Pearl Harbor through island-hopping campaigns, Midway, and atomic bombings, ending with Japan’s surrender.",
+    "tags": ["Pacific", "Asia", "naval war", "island hopping", "Midway", "1940s","Allies", "Axis","WW2"]
   }
 ]
-
 

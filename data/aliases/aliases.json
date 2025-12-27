@@ -10,5 +10,18 @@
   "Cold War": "cold-war",
   "Soviet-American conflict": "cold-war",
   "Industrial Age": "industrial-revolution",
-  "Machine Age": "industrial-revolution"
+  "Machine Age": "industrial-revolution",
+  "Revolutionary War": "american-revolution",
+  "US Independence": "american-revolution"
+  ,
+  "Meiji Ishin": "meiji-restoration",
+  "Meiji Revolution": "meiji-restoration",
+  "Restoration of Imperial Rule": "meiji-restoration"
+  ,
+  "WWII Europe": "world-war-ii-europe",
+  "European Theater": "world-war-ii-europe",
+  "Western Front": "world-war-ii-europe",
+  "WWII Pacific": "world-war-ii-pacific",
+  "Pacific Theater": "world-war-ii-pacific",
+  "Asia-Pacific War": "world-war-ii-pacific"
 }

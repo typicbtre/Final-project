@@ -34,11 +34,5 @@ export function findByQuery(query, index) {
       }
     }
   }
-  const byIncludes = index.find(
-    (it) =>
-      it.title.toLowerCase().includes(q) ||
-      it.id.toLowerCase().includes(q) ||
-      (Array.isArray(it.aliases) && it.aliases.some((a) => a.toLowerCase().includes(q)))
-  );
-  return byIncludes ? byIncludes.id : null;
+  return null;
 }
