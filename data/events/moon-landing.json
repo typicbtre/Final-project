@@ -1,0 +1,65 @@
+{
+  "id": "moon-landing",
+  "title": "The Moon Landing",
+  "years": {
+    "start": 1969,
+    "end": 1969
+  },
+  "key_facts": [
+    "On July 20, 1969, Apollo 11 became the first crewed mission to land on the Moon.",
+    "Neil Armstrong and Buzz Aldrin walked on the lunar surface while Michael Collins orbited above.",
+    "Marked the peak of the Space Race between the USA and the USSR.",
+    "Watched by an estimated 650 million people worldwide."
+  ],
+  "causes": [
+    "The Cold War rivalry and desire for technological superiority over the Soviet Union.",
+    "President John F. Kennedy's 1961 pledge to land a man on the Moon before the decade ended.",
+    "The Soviet Union's early lead in space (Sputnik, Yuri Gagarin) prompting a US response."
+  ],
+  "outcome": [
+    "US victory in the Space Race.",
+    "Advancement of computer technology, materials science, and telecommunications.",
+    "A shift in focus towards orbital space stations and the Space Shuttle program."
+  ],
+  "figures": [
+    {
+      "name": "Neil Armstrong",
+      "role": "Apollo 11 Commander",
+      "significance": "First human to set foot on the Moon."
+    },
+    {
+      "name": "Buzz Aldrin",
+      "role": "Lunar Module Pilot",
+      "significance": "Second human to walk on the Moon."
+    },
+    {
+      "name": "Michael Collins",
+      "role": "Command Module Pilot",
+      "significance": "Orbited the Moon alone, enabling the safe return of the crew."
+    }
+  ],
+  "impacts": [
+    "Demonstrated the immense potential of human engineering and collective effort.",
+    "Provided the first view of Earth from another celestial body, fueling the environmental movement.",
+    "Left American flags and scientific instruments on the lunar surface."
+  ],
+  "sources": [
+    "NASA. (n.d.). Apollo 11 Mission Overview.",
+    "Brinkley, D. (2019). American Moonshot: John F. Kennedy and the Great Space Race."
+  ],
+  "aliases": [
+    "Apollo 11",
+    "First Man on the Moon",
+    "Space Race Victory"
+  ],
+  "related_events": [
+    {
+      "id": "space-race",
+      "title": "The Space Race"
+    },
+    {
+      "id": "cold-war",
+      "title": "The Cold War"
+    }
+  ]
+}

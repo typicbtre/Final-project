@@ -57,5 +57,8 @@
       "publisher": "Britannica"
     }
   ],
-  "aliases": ["Revolutionary War", "US Independence", "War of Independence"]
+  "aliases": ["Revolutionary War", "US Independence", "War of Independence"],
+  "related_events": [
+    { "id": "french-revolution", "title": "French Revolution" }
+  ]
 }

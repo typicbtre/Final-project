@@ -62,5 +62,11 @@
       "publisher": "The Cold War Museum"
     }
   ],
-  "aliases": ["Cold War", "Soviet-American conflict", "East vs West"]
+  "aliases": ["Cold War", "Soviet-American conflict", "East vs West"],
+  "related_events": [
+    { "id": "world-war-ii", "title": "World War II" },
+    { "id": "cuban-missile-crisis", "title": "The Cuban Missile Crisis" },
+    { "id": "space-race", "title": "The Space Race" },
+    { "id": "berlin-wall", "title": "The Fall of the Berlin Wall" }
+  ]
 }

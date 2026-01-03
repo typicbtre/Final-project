@@ -70,6 +70,46 @@
     "aliases": ["WWII Pacific", "Pacific Theater", "Asia-Pacific War"],
     "description": "Pacific and Asian fronts of WWII from Pearl Harbor through island-hopping campaigns, Midway, and atomic bombings, ending with Japan’s surrender.",
     "tags": ["Pacific", "Asia", "naval war", "island hopping", "Midway", "1940s","Allies", "Axis","WW2"]
+  },
+  {
+    "id": "berlin-wall",
+    "title": "The Fall of the Berlin Wall",
+    "years": { "start": 1989, "end": 1990 },
+    "aliases": ["Fall of the Berlin Wall", "German Reunification", "End of the Iron Curtain"],
+    "description": "The destruction of the Berlin Wall in 1989, symbolizing the end of the Cold War and leading to German reunification.",
+    "tags": ["Cold War", "Germany", "Berlin Wall", "1989", "Iron Curtain", "reunification"]
+  },
+  {
+    "id": "moon-landing",
+    "title": "The Moon Landing",
+    "years": { "start": 1969, "end": 1969 },
+    "aliases": ["Apollo 11", "First Man on the Moon", "Space Race Victory"],
+    "description": "The first human landing on the Moon by Apollo 11, a major milestone in the Space Race.",
+    "tags": ["Space Race", "NASA", "Moon", "Apollo 11", "1969", "Cold War", "technology"]
+  },
+  {
+    "id": "space-race",
+    "title": "The Space Race",
+    "years": { "start": 1955, "end": 1975 },
+    "aliases": ["Space Race", "Race to the Moon", "US vs USSR Space"],
+    "description": "Cold War competition between the US and USSR to achieve superior spaceflight capability, culminating in the Moon landing.",
+    "tags": ["Cold War", "space", "NASA", "Soviet Union", "Sputnik", "Apollo"]
+  },
+  {
+    "id": "cuban-missile-crisis",
+    "title": "The Cuban Missile Crisis",
+    "years": { "start": 1962, "end": 1962 },
+    "aliases": ["October Crisis", "Caribbean Crisis", "Missile Scare"],
+    "description": "13-day confrontation between the US and the USSR over Soviet ballistic missiles deployed in Cuba.",
+    "tags": ["Cold War", "Cuba", "nuclear", "JFK", "Khrushchev", "blockade"]
+  },
+  {
+    "id": "great-depression",
+    "title": "The Great Depression",
+    "years": { "start": 1929, "end": 1939 },
+    "aliases": ["1929 Crash", "Black Tuesday", "Economic Crisis"],
+    "description": "Severe worldwide economic depression that began in 1929 and lasted until the late 1930s.",
+    "tags": ["economy", "crash", "unemployment", "New Deal", "1930s", "Roosevelt"]
   }
 ]
 

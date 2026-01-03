@@ -85,6 +85,7 @@ async function init() {
 
   submit.addEventListener("click", async () => {
     const raw = input.value || "";
+    const rawLower = raw.trim().toLowerCase();
     const norm = normalizeQuery(raw);
     if (!norm) {
       output.innerHTML = "";
@@ -102,13 +103,17 @@ async function init() {
     }
     const suggestions = index
       .filter((it) => {
-        const q = norm;
-        if (it.title.toLowerCase().includes(q)) return true;
-        if (it.id.toLowerCase().includes(q)) return true;
-        if (Array.isArray(it.aliases) && it.aliases.some((a) => a.toLowerCase().includes(q))) return true;
-        if (Array.isArray(it.tags) && it.tags.some((t) => String(t).toLowerCase().includes(q))) return true;
-        if (typeof it.description === "string" && it.description.toLowerCase().includes(q)) return true;
-        return false;
+        const fields = [
+          it.title,
+          it.id,
+          ...(Array.isArray(it.aliases) ? it.aliases : []),
+          ...(Array.isArray(it.tags) ? it.tags.map(String) : []),
+          typeof it.description === "string" ? it.description : "",
+        ]
+          .filter(Boolean)
+          .map((s) => String(s).toLowerCase());
+        // Match on either rawLower or normalized query
+        return fields.some((f) => f.includes(rawLower) || f.includes(norm));
       })
       .slice(0, 5);
     renderMiss(output, buildMissState(raw, suggestions));

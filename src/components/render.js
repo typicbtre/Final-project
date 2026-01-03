@@ -47,17 +47,107 @@ export function renderSummary(root, event) {
   const sl = document.createElement("ul");
   for (const s of event.sources || []) {
     const li = document.createElement("li");
-    const a = document.createElement("a");
-    a.href = s.url;
-    a.textContent = s.title;
-    a.target = "_blank";
-    li.appendChild(a);
+    if (typeof s === "string") {
+      li.textContent = s;
+    } else {
+      const a = document.createElement("a");
+      a.href = s.url;
+      a.textContent = s.title;
+      a.target = "_blank";
+      li.appendChild(a);
+    }
     sl.appendChild(li);
   }
   src.appendChild(sl);
   root.appendChild(src);
 
-  // Related navigation
+  // Connected To section
+  if (Array.isArray(event.related_events) && event.related_events.length > 0) {
+    const connectedDiv = document.createElement("div");
+    connectedDiv.className = "connected-to";
+    // Inline container styling for clear separation
+    connectedDiv.style.marginTop = "20px";
+    connectedDiv.style.paddingTop = "10px";
+    connectedDiv.style.borderTop = "1px solid var(--border-color)";
+    
+    const h3 = document.createElement("h3");
+    h3.textContent = "Connected to:";
+    h3.style.marginBottom = "8px";
+    connectedDiv.appendChild(h3);
+
+    const list = document.createElement("ul");
+    list.className = "connected-list";
+    // Horizontal pill layout with wrap
+    list.style.listStyle = "none";
+    list.style.display = "flex";
+    list.style.flexWrap = "wrap";
+    list.style.gap = "8px";
+    list.style.padding = "0";
+    
+    // Style for the list to make it look nice (horizontal or bubbles)
+    // We'll stick to a simple list or buttons for now.
+    // Let's use button-like links similar to the "Related sections" below but properly integrated.
+    
+    const MAX_VISIBLE = 6;
+    const items = event.related_events;
+    let index = 0;
+    for (const rel of items) {
+      const li = document.createElement("li");
+      const btn = document.createElement("button");
+      btn.className = "connected-link";
+      // Pill-like styling
+      btn.style.background = "rgba(0,0,0,0.04)";
+      btn.style.border = "1px solid var(--border-color)";
+      btn.style.color = "var(--text-dark)";
+      btn.style.cursor = "pointer";
+      btn.style.textDecoration = "none";
+      btn.style.fontSize = "0.95rem";
+      btn.style.padding = "6px 10px";
+      btn.style.borderRadius = "999px";
+      btn.style.transition = "background-color .15s ease, color .15s ease";
+      btn.onmouseenter = () => { btn.style.background = "var(--bg-light)"; };
+      btn.onmouseleave = () => { btn.style.background = "rgba(0,0,0,0.04)"; };
+      
+      btn.textContent = rel.title || rel.id;
+      btn.dataset.linkId = rel.id;
+      
+      // Hide beyond initial batch
+      if (index >= MAX_VISIBLE) {
+        li.style.display = "none";
+      }
+      index++;
+
+      li.appendChild(btn);
+      list.appendChild(li);
+    }
+    connectedDiv.appendChild(list);
+
+    // Show more/less toggle if needed
+    if (items.length > MAX_VISIBLE) {
+      const toggle = document.createElement("button");
+      toggle.textContent = "Show more";
+      toggle.style.marginTop = "8px";
+      toggle.style.background = "none";
+      toggle.style.border = "none";
+      toggle.style.color = "var(--primary-color)";
+      toggle.style.textDecoration = "underline";
+      toggle.style.cursor = "pointer";
+
+      let expanded = false;
+      toggle.addEventListener("click", () => {
+        expanded = !expanded;
+        const lis = Array.from(list.children);
+        lis.forEach((li, i) => {
+          if (i >= MAX_VISIBLE) li.style.display = expanded ? "" : "none";
+        });
+        toggle.textContent = expanded ? "Show less" : "Show more";
+      });
+      connectedDiv.appendChild(toggle);
+    }
+    root.appendChild(connectedDiv);
+  }
+
+  // Related navigation (parts/parents)
   const related = document.createElement("div");
   related.className = "related-links";
   const links = [];
@@ -132,6 +222,8 @@ export function renderMiss(root, miss) {
   actions.appendChild(gen);
   actions.appendChild(similar);
   const sug = document.createElement("ul");
+  // Hidden by default; revealed via the 'See similar topics' button
+  sug.style.display = "none";
   for (const s of miss.suggestions || []) {
     const li = document.createElement("li");
     const desc = typeof s.description === "string" ? s.description : "";

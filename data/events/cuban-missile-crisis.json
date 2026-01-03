@@ -1,0 +1,62 @@
+{
+  "id": "cuban-missile-crisis",
+  "title": "The Cuban Missile Crisis",
+  "years": {
+    "start": 1962,
+    "end": 1962
+  },
+  "key_facts": [
+    "A 13-day political and military standoff in October 1962 over the installation of Soviet nuclear missiles in Cuba.",
+    "Considered the moment the Cold War came closest to escalating into a full-scale nuclear war.",
+    "The US enacted a naval 'quarantine' (blockade) to prevent further Soviet missile shipments.",
+    "Ended with a secret agreement: Soviets removed missiles from Cuba, US pledged not to invade Cuba and removed missiles from Turkey."
+  ],
+  "causes": [
+    "Failed US-backed Bay of Pigs invasion (1961) led Castro to seek Soviet protection.",
+    "Deployment of US Jupiter missiles in Turkey and Italy, threatening the USSR.",
+    "Soviet desire to level the strategic playing field and deter US aggression."
+  ],
+  "outcome": [
+    "Peaceful resolution without nuclear conflict.",
+    "Establishment of the Moscow–Washington hotline for direct communication between leaders.",
+    "Removal of Soviet missiles from Cuba and US missiles from Turkey."
+  ],
+  "figures": [
+    {
+      "name": "John F. Kennedy",
+      "role": "US President",
+      "significance": "Ordered the naval blockade and negotiated the peaceful resolution."
+    },
+    {
+      "name": "Nikita Khrushchev",
+      "role": "Soviet Premier",
+      "significance": "Ordered the deployment of missiles to Cuba but agreed to withdraw them to avoid war."
+    },
+    {
+      "name": "Fidel Castro",
+      "role": "Prime Minister of Cuba",
+      "significance": "Requested Soviet assistance to defend the Cuban Revolution."
+    }
+  ],
+  "impacts": [
+    "Highlighted the dangers of nuclear brinkmanship, leading to the Limited Nuclear Test Ban Treaty (1963).",
+    "Strengthened the position of Fidel Castro in Cuba but strained relations with the USSR.",
+    "Marked a turning point towards 'détente' (easing of tensions) in the Cold War."
+  ],
+  "sources": [
+    "Allison, G. (1971). Essence of Decision: Explaining the Cuban Missile Crisis.",
+    "Dobbs, M. (2008). One Minute to Midnight: Kennedy, Khrushchev, and Castro on the Brink of Nuclear War."
+  ],
+  "aliases": [
+    "October Crisis",
+    "Caribbean Crisis",
+    "Missile Scare"
+  ],
+  "related_events": [
+    {
+      "id": "cold-war",
+      "title": "The Cold War"
+    }
+    
+  ]
+}

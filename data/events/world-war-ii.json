@@ -32,5 +32,10 @@
     { "title": "Q362", "url": "https://www.wikidata.org/wiki/Q362", "publisher": "Wikidata" }
   ],
   "aliases": ["WWII", "Second World War"],
-  "parts": ["world-war-ii-europe", "world-war-ii-pacific"]
+  "parts": ["world-war-ii-europe", "world-war-ii-pacific"],
+  "related_events": [
+    { "id": "world-war-i", "title": "World War I" },
+    { "id": "great-depression", "title": "The Great Depression" },
+    { "id": "cold-war", "title": "The Cold War" }
+  ]
 }

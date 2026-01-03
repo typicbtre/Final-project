@@ -57,5 +57,8 @@
       "publisher": "Britannica"
     }
   ],
-  "aliases": ["Industrial Age", "Machine Age", "First Industrial Revolution"]
+  "aliases": ["Industrial Age", "Machine Age", "First Industrial Revolution"],
+  "related_events": [
+    { "id": "world-war-i", "title": "World War I" }
+  ]
 }

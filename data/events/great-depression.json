@@ -1,0 +1,67 @@
+{
+  "id": "great-depression",
+  "title": "The Great Depression",
+  "years": {
+    "start": 1929,
+    "end": 1939
+  },
+  "key_facts": [
+    "The worst economic downturn in the history of the industrialized world.",
+    "Began after the stock market crash of October 1929 (Black Tuesday).",
+    "Caused massive unemployment, deflation, and poverty globally.",
+    "Ended with the economic mobilization for World War II."
+  ],
+  "causes": [
+    "Stock market crash of 1929 due to speculation and buying on margin.",
+    "Bank failures and the collapse of the money supply.",
+    "Reduction in purchasing power and consumer demand.",
+    "Protectionist trade policies (Smoot-Hawley Tariff Act)."
+  ],
+  "outcome": [
+    "Expansion of government role in the economy (New Deal in the US).",
+    "Rise of extremist political movements (Fascism in Europe).",
+    "Shift towards Keynesian economics."
+  ],
+  "figures": [
+    {
+      "name": "Herbert Hoover",
+      "role": "US President (1929-1933)",
+      "significance": "Criticized for his initial laissez-faire response to the crisis."
+    },
+    {
+      "name": "Franklin D. Roosevelt",
+      "role": "US President (1933-1945)",
+      "significance": "Implemented the 'New Deal' programs to provide relief, recovery, and reform."
+    },
+    {
+      "name": "John Maynard Keynes",
+      "role": "Economist",
+      "significance": "Advocated for government spending to stimulate the economy."
+    }
+  ],
+  "impacts": [
+    "Global unemployment rates reached as high as 25-33%.",
+    "Destabilization of the Weimar Republic in Germany, aiding Hitler's rise.",
+    "Creation of social safety nets (Social Security in the US)."
+  ],
+  "sources": [
+    "Bernanke, B. (2000). Essays on the Great Depression.",
+    "Library of Congress. (n.d.). Great Depression and World War II, 1929-1945."
+  ],
+  "aliases": [
+    "Great Depression",
+    "1929 Crash",
+    "Economic Crisis of the 1930s",
+    "Black Tuesday"
+  ],
+  "related_events": [
+    {
+      "id": "world-war-i",
+      "title": "World War I"
+    },
+    {
+      "id": "world-war-ii",
+      "title": "World War II"
+    }
+  ]
+}

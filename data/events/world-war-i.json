@@ -30,5 +30,10 @@
   "sources": [
     { "title": "World War I", "url": "https://en.wikipedia.org/wiki/World_War_I", "publisher": "Wikipedia" }
   ],
-  "aliases": ["WWI", "First World War", "Great War"]
+  "aliases": ["WWI", "First World War", "Great War"],
+  "related_events": [
+    { "id": "world-war-ii", "title": "World War II" },
+    { "id": "great-depression", "title": "The Great Depression" },
+    { "id": "industrial-revolution", "title": "The Industrial Revolution" }
+  ]
 }

@@ -1,0 +1,69 @@
+{
+  "id": "space-race",
+  "title": "The Space Race",
+  "years": {
+    "start": 1955,
+    "end": 1975
+  },
+  "key_facts": [
+    "A 20th-century competition between two Cold War rivals, the Soviet Union (USSR) and the United States (US), to achieve firsts in spaceflight capability.",
+    "Began with the Soviet launch of Sputnik 1 in 1957.",
+    "Peaked with the US Apollo 11 Moon landing in 1969.",
+    "Concluded with the joint Apollo-Soyuz Test Project in 1975."
+  ],
+  "causes": [
+    "The Cold War geopolitical rivalry and the need to demonstrate technological and ideological superiority.",
+    "Military interest in rocket technology for intercontinental ballistic missiles (ICBMs).",
+    "National pride and the propaganda value of scientific achievements."
+  ],
+  "outcome": [
+    "US victory in landing humans on the Moon.",
+    "Rapid advancement in aerospace technology, telecommunications, and computer science.",
+    "Eventually led to international cooperation in space (ISS)."
+  ],
+  "figures": [
+    {
+      "name": "Yuri Gagarin",
+      "role": "Soviet Cosmonaut",
+      "significance": "First human to journey into outer space."
+    },
+    {
+      "name": "John F. Kennedy",
+      "role": "US President",
+      "significance": "Committed the US to landing a man on the Moon within the decade."
+    },
+    {
+      "name": "Sergei Korolev",
+      "role": "Lead Soviet Rocket Engineer",
+      "significance": "Mastermind behind the early Soviet space successes (Sputnik, Vostok)."
+    },
+    {
+      "name": "Wernher von Braun",
+      "role": "Lead American Rocket Engineer",
+      "significance": "Developed the Saturn V rocket that took Apollo to the Moon."
+    }
+  ],
+  "impacts": [
+    "Creation of NASA and a massive boost to STEM education.",
+    "Development of satellite technology for weather, communications, and GPS.",
+    "Cultural impact inspiring science fiction and a sense of global unity (Earthrise photo)."
+  ],
+  "sources": [
+    "Cadbury, D. (2006). Space Race: The Epic Battle Between America and the Soviet Union."
+  ],
+  "aliases": [
+    "Space Race",
+    "Race to the Moon",
+    "US vs USSR Space"
+  ],
+  "related_events": [
+    {
+      "id": "cold-war",
+      "title": "The Cold War"
+    },
+    {
+      "id": "moon-landing",
+      "title": "The Moon Landing"
+    }
+  ]
+}

@@ -31,5 +31,8 @@
     { "title": "French Revolution", "url": "https://en.wikipedia.org/wiki/French_Revolution", "publisher": "Wikipedia" },
     { "title": "Q12554", "url": "https://www.wikidata.org/wiki/Q12554", "publisher": "Wikidata" }
   ],
-  "aliases": ["Revolution française", "1789 Revolution"]
+  "aliases": ["Revolution française", "1789 Revolution"],
+  "related_events": [
+    { "id": "american-revolution", "title": "The American Revolution" }
+  ]
 }

@@ -1,0 +1,58 @@
+{
+  "id": "berlin-wall",
+  "title": "The Fall of the Berlin Wall",
+  "years": {
+    "start": 1989,
+    "end": 1990
+  },
+  "key_facts": [
+    "Constructed in 1961 by the GDR (East Germany) to stop mass emigration to the West.",
+    "Stood as the most prominent symbol of the 'Iron Curtain' dividing Europe.",
+    "Fell on November 9, 1989, after a botched press conference by GDR official Günter Schabowski.",
+    "Led to the formal reunification of Germany on October 3, 1990."
+  ],
+  "causes": [
+    "Mass protests in East Germany (Monday Demonstrations) demanding freedom and travel rights.",
+    "Reforms in the Soviet Union (Glasnost and Perestroika) under Mikhail Gorbachev.",
+    "The opening of borders in Hungary and Czechoslovakia, allowing East Germans to flee to the West."
+  ],
+  "outcome": [
+    "The end of the division of Germany and the collapse of the GDR.",
+    "Accelerated the fall of communist regimes across Eastern Europe.",
+    "Symbolized the beginning of the end for the Soviet Union and the Cold War."
+  ],
+  "figures": [
+    {
+      "name": "Mikhail Gorbachev",
+      "role": "Soviet Leader whose non-intervention policy allowed the wall to fall",
+      "significance": "Refused to send Soviet tanks to crush protests."
+    },
+    {
+      "name": "Günter Schabowski",
+      "role": "SED Party Official",
+      "significance": "Accidentally announced immediate border opening, triggering the rush."
+    },
+    {
+      "name": "Helmut Kohl",
+      "role": "Chancellor of West Germany",
+      "significance": "Architect of the rapid German reunification process."
+    }
+  ],
+  "impacts": [
+    "Reunification of East and West Germany into a single democratic state.",
+    "End of the Cold War geopolitical order.",
+    "European integration and the expansion of the European Union."
+  ],
+  "sources": [
+    "Sarotte, M. E. (2014). The Collapse: The Accidental Opening of the Berlin Wall.",
+    "Taylor, F. (2006). The Berlin Wall: A World Divided, 1961-1989."
+  ],
+  "aliases": [
+    "Fall of the Berlin Wall",
+    "German Reunification",
+    "End of the Iron Curtain"
+  ],
+  "related_events": [
+    { "id": "cold-war", "title": "The Cold War" }
+  ]
+}
