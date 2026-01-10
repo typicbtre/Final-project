@@ -1,0 +1,37 @@
+{
+  "id": "black-death",
+  "title": "The Black Death",
+  "years": { "start": 1346, "end": 1353 },
+  "region": ["Europe", "West Asia", "North Africa"],
+  "key_facts": [
+    "Pandemic of bubonic plague that killed tens of millions across Eurasia",
+    "Spread along trade routes including the Silk Road and Mediterranean maritime networks",
+    "Caused profound demographic, economic, religious, and cultural shifts"
+  ],
+  "causes": [
+    "Yersinia pestis bacterium transmitted by fleas carried by rodents",
+    "High urban density and limited sanitation in medieval towns",
+    "Extensive interregional trade facilitating rapid transmission"
+  ],
+  "outcome": [
+    "Mass mortality (often estimated at 30–60% in affected regions)",
+    "Labor shortages contributing to wage pressures and social mobility",
+    "Religious and social upheavals; persecution of minorities in some areas"
+  ],
+  "figures": [
+    { "name": "Giovanni Boccaccio", "role": "Chronicler of the plague (The Decameron)", "link": "https://en.wikipedia.org/wiki/Giovanni_Boccaccio" },
+    { "name": "Ibn Battuta", "role": "Traveler whose era overlapped the pandemic", "link": "https://en.wikipedia.org/wiki/Ibn_Battuta" }
+  ],
+  "impacts": [
+    "Restructuring of feudal economies and changes in land/labor relations",
+    "Shifts in religious practices and art; rise of lay piety and confraternities",
+    "Public health responses and quarantines emerge in later outbreaks"
+  ],
+  "sources": [
+    { "title": "Black Death", "url": "https://en.wikipedia.org/wiki/Black_Death", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["Bubonic Plague", "Great Plague", "Plague of the 14th Century"],
+  "related_events": [
+    { "id": "the-renaissance", "title": "The Renaissance" }
+  ]
+}

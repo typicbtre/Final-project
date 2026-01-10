@@ -49,8 +49,6 @@ async function init() {
     output.querySelectorAll("[data-link-id]").forEach((btn) => {
       const linkId = btn.getAttribute("data-link-id");
       if (!linkId) return;
-      // Preserve explicit back label
-      if (btn.textContent && btn.textContent.trim().toLowerCase() === "back to main") return;
       const match = index.find((it) => it.id === linkId);
       if (match && match.title) {
         btn.textContent = match.title;

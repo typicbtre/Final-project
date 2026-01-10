@@ -110,6 +110,70 @@
     "aliases": ["1929 Crash", "Black Tuesday", "Economic Crisis"],
     "description": "Severe worldwide economic depression that began in 1929 and lasted until the late 1930s.",
     "tags": ["economy", "crash", "unemployment", "New Deal", "1930s", "Roosevelt"]
+  },
+  {
+    "id": "russian-revolution",
+    "title": "The Russian Revolution",
+    "years": { "start": 1917, "end": 1923 },
+    "aliases": ["Bolshevik Revolution", "October Revolution", "1917 Revolution"],
+    "description": "Political and social revolution that abolished the Russian monarchy and established the Soviet Union.",
+    "tags": ["Russia", "communism", "Lenin", "Bolsheviks", "1917", "USSR"]
+  },
+  {
+    "id": "black-death",
+    "title": "The Black Death",
+    "years": { "start": 1346, "end": 1353 },
+    "aliases": ["Bubonic Plague", "Great Plague", "Plague of the 14th Century"],
+    "description": "Pandemic that devastated Eurasia and North Africa, killing tens of millions and reshaping social, economic, and religious life across Europe and beyond.",
+    "tags": ["pandemic", "plague", "medieval", "Europe", "Asia", "demography"]
+  },
+  {
+    "id": "the-renaissance",
+    "title": "The Renaissance",
+    "years": { "start": 1300, "end": 1600 },
+    "aliases": ["European Renaissance", "Italian Renaissance"],
+    "description": "Cultural rebirth emphasizing humanism, classical learning, and artistic innovation, transforming European art, science, and thought.",
+    "tags": ["culture", "humanism", "art", "science", "Europe", "early modern"]
+  },
+  {
+    "id": "printing-press",
+    "title": "Invention of the Printing Press",
+    "years": { "start": 1440, "end": 1450 },
+    "aliases": ["Gutenberg Press", "Movable Type Printing"],
+    "description": "Gutenberg’s movable-type printing enabled mass reproduction of texts, accelerating literacy, religion, and scientific exchange.",
+    "tags": ["technology", "communication", "Gutenberg", "Europe", "Renaissance"]
+  },
+  {
+    "id": "age-of-exploration",
+    "title": "The Age of Exploration",
+    "years": { "start": 1418, "end": 1620 },
+    "aliases": ["Age of Discovery", "European Exploration"],
+    "description": "Period of extensive overseas exploration by European powers, opening global trade routes and initiating widespread cultural, biological, and economic exchanges.",
+    "tags": ["explore","exploration", "navigation", "colonialism", "trade", "Europe", "early modern"]
+  },
+  {
+    "id": "opium-wars",
+    "title": "The Opium Wars",
+    "years": { "start": 1839, "end": 1860 },
+    "aliases": ["Anglo-Chinese Wars"],
+    "description": "Two mid‑19th century conflicts between Qing China and Western powers led by Britain over trade, sovereignty, and opium, reshaping China's foreign relations.",
+    "tags": ["China", "Qing", "Britain", "imperialism", "trade", "19th century"]
+  },
+  {
+    "id": "first-opium-war",
+    "title": "First Opium War",
+    "years": { "start": 1839, "end": 1842 },
+    "aliases": ["First Anglo-Chinese War"],
+    "description": "Conflict between Qing China and Britain sparked by opium suppression and trade disputes; ended with the Treaty of Nanjing.",
+    "tags": ["China", "Britain", "opium", "treaty", "Nanjing", "1840s"]
+  },
+  {
+    "id": "second-opium-war",
+    "title": "Second Opium War",
+    "years": { "start": 1856, "end": 1860 },
+    "aliases": ["Arrow War", "Second Anglo-Chinese War"],
+    "description": "Renewed conflict involving Britain and France against Qing China; culminated in the Convention of Beijing and expanded treaty rights.",
+    "tags": ["China", "Britain", "France", "treaty", "Beijing", "1860"]
   }
 ]
 

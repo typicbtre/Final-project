@@ -1,0 +1,40 @@
+{
+  "id": "russian-revolution",
+  "title": "The Russian Revolution",
+  "years": { "start": 1917, "end": 1923 },
+  "region": ["Russia", "Eastern Europe"],
+  "key_facts": [
+    "Abolition of the Tsarist autocracy in the February Revolution of 1917.",
+    "Bolsheviks led by Vladimir Lenin seized power in the October Revolution.",
+    "Civil war between the Red Army (Bolsheviks) and White Army (anti-communists).",
+    "Establishment of the Soviet Union (USSR) in 1922."
+  ],
+  "causes": [
+    "Widespread poverty and famine exasperated by World War I.",
+    "Autocratic rule of Tsar Nicholas II and refusal to reform.",
+    "Rapid industrialization leading to poor worker conditions."
+  ],
+  "outcome": [
+    "End of the Romanov dynasty and the Russian Empire.",
+    "Creation of the world's first communist state.",
+    "Start of a global ideological conflict between communism and capitalism."
+  ],
+  "figures": [
+    { "name": "Vladimir Lenin", "role": "Bolshevik leader and founder of the USSR", "link": "https://en.wikipedia.org/wiki/Vladimir_Lenin" },
+    { "name": "Tsar Nicholas II", "role": "Last Emperor of Russia", "link": "https://en.wikipedia.org/wiki/Nicholas_II_of_Russia" },
+    { "name": "Leon Trotsky", "role": "Key revolutionary and leader of the Red Army", "link": "https://en.wikipedia.org/wiki/Leon_Trotsky" }
+  ],
+  "impacts": [
+    "Withdrawal of Russia from World War I via the Treaty of Brest-Litovsk.",
+    "Spread of communist ideology worldwide.",
+    "Redistribution of land and nationalization of industry."
+  ],
+  "sources": [
+    { "title": "Russian Revolution", "url": "https://en.wikipedia.org/wiki/Russian_Revolution", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["Bolshevik Revolution", "October Revolution", "1917 Revolution"],
+  "related_events": [
+    { "id": "world-war-i", "title": "World War I" },
+    { "id": "cold-war", "title": "The Cold War" }
+  ]
+}

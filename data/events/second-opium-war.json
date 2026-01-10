@@ -1,0 +1,37 @@
+{
+  "id": "second-opium-war",
+  "title": "Second Opium War",
+  "years": { "start": 1856, "end": 1860 },
+  "region": ["China", "East Asia"],
+  "key_facts": [
+    "Renewed conflict involving Britain and France against Qing China",
+    "Sparked by the Arrow incident and disputes over treaty enforcement and diplomatic rights",
+    "Allied capture of Canton and Tianjin; Anglo-French march on Beijing"
+  ],
+  "causes": [
+    "Disputes over execution of the Treaty of Nanjing and access to the interior",
+    "Arrow incident (1856) used as a casus belli by the British",
+    "French involvement following the killing of a missionary and broader imperial aims"
+  ],
+  "outcome": [
+    "Treaties of Tianjin (1858) and Convention of Beijing (1860) expanding foreign privileges",
+    "Legalization of the opium trade and opening of additional treaty ports",
+    "Sacking of the Old Summer Palace (Yuanmingyuan) by Anglo-French forces"
+  ],
+  "figures": [
+    { "name": "James Bruce, 8th Earl of Elgin", "role": "British plenipotentiary", "link": "https://en.wikipedia.org/wiki/James_Bruce,_8th_Earl_of_Elgin" },
+    { "name": "Charles Cousin-Montauban", "role": "French general", "link": "https://en.wikipedia.org/wiki/Charles_Cousin-Montauban" },
+    { "name": "Prince Gong", "role": "Qing negotiator and statesman", "link": "https://en.wikipedia.org/wiki/Prince_Gong" }
+  ],
+  "impacts": [
+    "Further erosion of Qing sovereignty and deepening foreign influence",
+    "Greater missionary access and residence in Beijing",
+    "Integration of China into 19th-century global trade systems under unequal terms"
+  ],
+  "sources": [
+    { "title": "Second Opium War", "url": "https://en.wikipedia.org/wiki/Second_Opium_War", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["Arrow War", "Second Anglo-Chinese War"],
+  "parent": "opium-wars"
+  
+}

@@ -1,0 +1,35 @@
+{
+  "id": "opium-wars",
+  "title": "The Opium Wars",
+  "years": { "start": 1839, "end": 1860 },
+  "region": ["China", "East Asia"],
+  "key_facts": [
+    "Two mid-19th century conflicts between Qing China and Western powers led by Britain",
+    "Centered on disputes over opium trade, diplomatic immunity, and treaty-port access",
+    "Resulted in unequal treaties reshaping China's foreign relations"
+  ],
+  "causes": [
+    "British opium imports into China and Chinese efforts to suppress the trade",
+    "Conflicts over sovereignty, extraterritoriality, and tariff control",
+    "Balance-of-trade tensions and imperial competition"
+  ],
+  "outcome": [
+    "Opening of treaty ports and cession of territory (e.g., Hong Kong after the First Opium War)",
+    "Expansion of foreign privileges and missionary access",
+    "Entrenchment of unequal treaty systems"
+  ],
+  "figures": [
+    { "name": "Lin Zexu", "role": "Qing official who led opium suppression", "link": "https://en.wikipedia.org/wiki/Lin_Zexu" },
+    { "name": "Charles Elliot", "role": "British superintendent of trade in China", "link": "https://en.wikipedia.org/wiki/Charles_Elliot" }
+  ],
+  "impacts": [
+    "Weakened Qing sovereignty and accelerated internal crises",
+    "Expansion of Western commercial and diplomatic presence in China",
+    "Prelude to later reforms and upheavals in late Qing China"
+  ],
+  "sources": [
+    { "title": "Opium Wars", "url": "https://en.wikipedia.org/wiki/Opium_Wars", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["Anglo-Chinese Wars"],
+  "parts": ["first-opium-war", "second-opium-war"]
+}

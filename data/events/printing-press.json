@@ -1,0 +1,37 @@
+{
+  "id": "printing-press",
+  "title": "Invention of the Printing Press",
+  "years": { "start": 1440, "end": 1450 },
+  "region": ["Mainz", "German lands", "Europe"],
+  "key_facts": [
+    "Johannes Gutenberg developed movable-type printing in mid-15th century Mainz",
+    "Enabled rapid, relatively inexpensive reproduction of texts",
+    "Catalyzed spread of literacy, scholarship, and religious debate"
+  ],
+  "causes": [
+    "Demand for books and administrative records in growing towns and universities",
+    "Advances in metallurgy, inks, and paper availability",
+    "Cultural appetite for classical and contemporary texts"
+  ],
+  "outcome": [
+    "Explosion of printed materials: bibles, pamphlets, scientific works",
+    "Acceleration of Renaissance humanism and later the Reformation",
+    "Standardization of language, knowledge, and information networks"
+  ],
+  "figures": [
+    { "name": "Johannes Gutenberg", "role": "Inventor and printer", "link": "https://en.wikipedia.org/wiki/Johannes_Gutenberg" },
+    { "name": "Aldus Manutius", "role": "Venetian humanist printer and publisher", "link": "https://en.wikipedia.org/wiki/Aldus_Manutius" }
+  ],
+  "impacts": [
+    "Lowered cost of knowledge dissemination and democratized access",
+    "Foundation for scientific communication and peer circulation",
+    "Shaped religious movements and state administration"
+  ],
+  "sources": [
+    { "title": "Printing press", "url": "https://en.wikipedia.org/wiki/Printing_press", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["Gutenberg Press", "Movable Type Printing"],
+  "related_events": [
+    { "id": "the-renaissance", "title": "The Renaissance" }
+  ]
+}

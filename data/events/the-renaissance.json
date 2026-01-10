@@ -1,0 +1,41 @@
+{
+  "id": "the-renaissance",
+  "title": "The Renaissance",
+  "years": { "start": 1300, "end": 1600 },
+  "region": ["Italy", "Western Europe"],
+  "key_facts": [
+    "Cultural rebirth emphasizing humanism and classical antiquity",
+    "Flourishing of art, architecture, science, and literature",
+    "Spread from Italian city-states to wider Europe via trade and print"
+  ],
+  "causes": [
+    "Recovery from late medieval crises and growing urban wealth",
+    "Patronage systems (e.g., Medici) and competition among city-states",
+    "Rediscovery of classical texts and techniques"
+  ],
+  "outcome": [
+    "Artistic innovations (perspective, realism) and masterworks",
+    "Advances in science and inquiry that laid groundwork for the Scientific Revolution",
+    "Humanist education and spread of ideas via the printing press"
+  ],
+  "figures": [
+    { "name": "Leonardo da Vinci", "role": "Polymath artist-engineer", "link": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci" },
+    { "name": "Michelangelo", "role": "Sculptor and painter", "link": "https://en.wikipedia.org/wiki/Michelangelo" },
+    { "name": "Niccolò Machiavelli", "role": "Political thinker", "link": "https://en.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli" },
+    { "name": "Johannes Gutenberg", "role": "Printer and inventor", "link": "https://en.wikipedia.org/wiki/Johannes_Gutenberg" }
+  ],
+  "impacts": [
+    "Transformation of European art, education, and intellectual life",
+    "Catalyst for Reformation and Scientific Revolution",
+    "Influence on exploration, cartography, and statecraft"
+  ],
+  "sources": [
+    { "title": "Renaissance", "url": "https://en.wikipedia.org/wiki/Renaissance", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["European Renaissance", "Italian Renaissance"],
+  "related_events": [
+    { "id": "black-death", "title": "The Black Death" },
+    { "id": "printing-press", "title": "Invention of the Printing Press" },
+    { "id": "age-of-exploration", "title": "The Age of Exploration" }
+  ]
+}

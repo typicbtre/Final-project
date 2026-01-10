@@ -71,7 +71,7 @@ export function renderSummary(root, event) {
     connectedDiv.style.borderTop = "1px solid var(--border-color)";
     
     const h3 = document.createElement("h3");
-    h3.textContent = "Connected to:";
+    h3.textContent = "Related:";
     h3.style.marginBottom = "8px";
     connectedDiv.appendChild(h3);
 
@@ -153,7 +153,7 @@ export function renderSummary(root, event) {
   const links = [];
   if (Array.isArray(event.parts) && event.parts.length) {
     const h = document.createElement("h3");
-    h.textContent = "Related sections";
+    h.textContent = "Parts";
     related.appendChild(h);
     const wrap = document.createElement("div");
     wrap.className = "related-buttons";
@@ -179,6 +179,9 @@ export function renderSummary(root, event) {
   if (typeof event.parent === "string" && event.parent) {
     const wrap = document.createElement("div");
     wrap.className = "related-buttons";
+    const ph = document.createElement("h3");
+    ph.textContent = "Part of";
+    related.appendChild(ph);
     const back = document.createElement("button");
     back.className = "btn-link";
     // Inline minimal link-like styling
@@ -191,7 +194,7 @@ export function renderSummary(root, event) {
     back.style.cursor = "pointer";
     back.style.borderRadius = "6px";
     back.dataset.linkId = event.parent;
-    back.textContent = "Back to main";
+    back.textContent = event.parent;
     wrap.appendChild(back);
     related.appendChild(wrap);
     links.push(back);

@@ -52,11 +52,6 @@
     "Caribbean Crisis",
     "Missile Scare"
   ],
-  "related_events": [
-    {
-      "id": "cold-war",
-      "title": "The Cold War"
-    }
-    
-  ]
+
+  "parent": "cold-war"
 }

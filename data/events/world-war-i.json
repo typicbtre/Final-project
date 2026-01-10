@@ -33,6 +33,7 @@
   "aliases": ["WWI", "First World War", "Great War"],
   "related_events": [
     { "id": "world-war-ii", "title": "World War II" },
+    { "id": "russian-revolution", "title": "The Russian Revolution" },
     { "id": "great-depression", "title": "The Great Depression" },
     { "id": "industrial-revolution", "title": "The Industrial Revolution" }
   ]

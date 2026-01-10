@@ -1,0 +1,38 @@
+{
+  "id": "age-of-exploration",
+  "title": "The Age of Exploration",
+  "years": { "start": 1418, "end": 1620 },
+  "region": ["Europe", "Atlantic", "Indian Ocean", "Americas", "Africa", "Asia"],
+  "key_facts": [
+    "European maritime powers explored and mapped coastlines and sea routes across the globe",
+    "Opened persistent transoceanic connections linking Afro‑Eurasia and the Americas",
+    "Initiated the Columbian Exchange of goods, peoples, plants, animals, and diseases"
+  ],
+  "causes": [
+    "Advances in navigation, shipbuilding (caravel), and cartography",
+    "Economic motives to access spices, gold, and direct trade routes",
+    "Religious and political competition among European states"
+  ],
+  "outcome": [
+    "Establishment of European colonies and global trade empires",
+    "Profound demographic and ecological changes via the Columbian Exchange",
+    "Foundations for the early modern world economy"
+  ],
+  "figures": [
+    { "name": "Prince Henry the Navigator", "role": "Portuguese patron of exploration", "link": "https://en.wikipedia.org/wiki/Prince_Henry_the_Navigator" },
+    { "name": "Christopher Columbus", "role": "Navigator crossing the Atlantic", "link": "https://en.wikipedia.org/wiki/Christopher_Columbus" },
+    { "name": "Vasco da Gama", "role": "First sea route from Europe to India", "link": "https://en.wikipedia.org/wiki/Vasco_da_Gama" }
+  ],
+  "impacts": [
+    "Integration of world regions through trade, conquest, and cultural exchange",
+    "Rise of Atlantic economies and shift of power centers",
+    "Spread of languages, religions, and technologies—alongside exploitation and slavery"
+  ],
+  "sources": [
+    { "title": "Age of Discovery", "url": "https://en.wikipedia.org/wiki/Age_of_Discovery", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["Age of Discovery", "European Exploration"],
+  "related_events": [
+    { "id": "the-renaissance", "title": "The Renaissance" }
+  ]
+}

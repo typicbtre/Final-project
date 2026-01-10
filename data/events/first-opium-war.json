@@ -1,0 +1,35 @@
+{
+  "id": "first-opium-war",
+  "title": "First Opium War",
+  "years": { "start": 1839, "end": 1842 },
+  "region": ["China", "East Asia"],
+  "key_facts": [
+    "War between Qing China and Britain following Chinese suppression of the opium trade",
+    "British naval superiority secured victories along the coast and Yangtze River",
+    "Concluded with the Treaty of Nanjing (1842)"
+  ],
+  "causes": [
+    "Lin Zexu's crackdown on opium imports at Canton (Guangzhou)",
+    "Trade imbalances and disputes over diplomatic equality and legal jurisdiction",
+    "British commercial interests defending opium and access to markets"
+  ],
+  "outcome": [
+    "Treaty of Nanjing: cession of Hong Kong, indemnities, opening of five treaty ports",
+    "Most-favored-nation status and fixed tariffs negotiated later (Treaty of the Bogue)",
+    "Precedent for further unequal treaties"
+  ],
+  "figures": [
+    { "name": "Lin Zexu", "role": "Qing imperial commissioner", "link": "https://en.wikipedia.org/wiki/Lin_Zexu" },
+    { "name": "Charles Elliot", "role": "British Superintendent of Trade in China", "link": "https://en.wikipedia.org/wiki/Charles_Elliot" }
+  ],
+  "impacts": [
+    "Opened treaty ports and increased Western presence in China",
+    "Set the stage for continued foreign demands and the later Second Opium War",
+    "Catalyzed internal debates and reforms in the Qing state"
+  ],
+  "sources": [
+    { "title": "First Opium War", "url": "https://en.wikipedia.org/wiki/First_Opium_War", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["First Anglo-Chinese War"],
+  "parent": "opium-wars"
+}
