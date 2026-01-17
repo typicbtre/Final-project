@@ -1,0 +1,42 @@
+{
+  "id": "glorious-revolution",
+  "title": "The Glorious Revolution (1688)",
+  "years": { "start": 1688, "end": 1689 },
+  "region": ["England", "British Isles", "Europe"],
+  "key_facts": [
+    "Overthrow of King James II and accession of William III and Mary II",
+    "Established a constitutional monarchy and affirmed parliamentary supremacy",
+    "Passed the English Bill of Rights (1689) limiting royal power"
+  ],
+  "causes": [
+    "Conflict over religious toleration and fears of a Catholic absolutist monarchy",
+    "Power struggles between Crown and Parliament after the English Civil War",
+    "Invitation to William of Orange by English political elites"
+  ],
+  "outcome": [
+    "Constitutional settlement restricting the monarchy",
+    "Regular parliaments, free elections, and freedom of speech in Parliament",
+    "Model for later constitutional developments and revolutions"
+  ],
+  "figures": [
+    { "name": "William III of Orange", "role": "Invited to assume the English throne", "link": "https://en.wikipedia.org/wiki/William_III_of_England" },
+    { "name": "Mary II", "role": "Co‑monarch with William III", "link": "https://en.wikipedia.org/wiki/Mary_II_of_England" },
+    { "name": "James II", "role": "Deposed English king", "link": "https://en.wikipedia.org/wiki/James_II_of_England" }
+  ],
+  "impacts": [
+    "Strengthened parliamentary government and the rule of law",
+    "Influenced Enlightenment political thought (Locke) and Atlantic revolutions",
+    "Shaped British fiscal‑military state and foreign policy"
+  ],
+  "sources": [
+    { "title": "Glorious Revolution", "url": "https://en.wikipedia.org/wiki/Glorious_Revolution", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["Revolution of 1688", "Bloodless Revolution"],
+  "related_events": [
+    { "id": "the-enlightenment", "title": "The Enlightenment" },
+    { "id": "english-civil-war", "title": "The English Civil War (1642–1651)" },
+    { "id": "bill-of-rights-1689", "title": "Bill of Rights (1689)" },
+    { "id": "american-revolution", "title": "The American Revolution" },
+    { "id": "french-revolution", "title": "French Revolution" }
+  ]
+}

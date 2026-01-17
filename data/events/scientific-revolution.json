@@ -1,0 +1,41 @@
+{
+  "id": "scientific-revolution",
+  "title": "The Scientific Revolution",
+  "years": { "start": 1543, "end": 1700 },
+  "region": ["Europe"],
+  "key_facts": [
+    "Emphasis on observation, mathematics, and experimentation transformed natural philosophy",
+    "Landmark works include Copernicus’s De revolutionibus (1543) and Newton’s Principia (1687)",
+    "New institutions and networks (academies, correspondence) spread findings"
+  ],
+  "causes": [
+    "Renaissance humanism and recovery of classical texts",
+    "Printing press enabling rapid dissemination of ideas",
+    "Patronage and competition among states and scholars"
+  ],
+  "outcome": [
+    "Heliocentric astronomy, new mechanics, and experimental method",
+    "Standardization of measurement and mathematical modeling",
+    "Foundation for modern science and technology"
+  ],
+  "figures": [
+    { "name": "Nicolaus Copernicus", "role": "Heliocentric astronomy", "link": "https://en.wikipedia.org/wiki/Nicolaus_Copernicus" },
+    { "name": "Galileo Galilei", "role": "Observational astronomy and physics", "link": "https://en.wikipedia.org/wiki/Galileo_Galilei" },
+    { "name": "Isaac Newton", "role": "Classical mechanics and universal gravitation", "link": "https://en.wikipedia.org/wiki/Isaac_Newton" }
+  ],
+  "impacts": [
+    "Accelerated technological progress and scientific institutions",
+    "Shaped Enlightenment thought and secular inquiry",
+    "Influenced navigation, warfare, and industry"
+  ],
+  "sources": [
+    { "title": "Scientific Revolution", "url": "https://en.wikipedia.org/wiki/Scientific_Revolution", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["Early Modern Science"],
+  "related_events": [
+    { "id": "the-renaissance", "title": "The Renaissance" },
+    { "id": "printing-press", "title": "Invention of the Printing Press" },
+    { "id": "the-reformation", "title": "The Reformation" },
+    { "id": "the-enlightenment", "title": "The Enlightenment" }
+  ]
+}

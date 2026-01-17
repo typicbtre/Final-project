@@ -1,0 +1,44 @@
+{
+  "id": "the-enlightenment",
+  "title": "The Enlightenment",
+  "years": { "start": 1687, "end": 1789 },
+  "region": ["Europe", "Atlantic World"],
+  "key_facts": [
+    "Intellectual movement advancing reason, natural rights, and skepticism of traditional authority",
+    "Salons, encyclopedias, and republics of letters spread ideas across borders",
+    "Critiques of absolutism and church dominance informed reform and revolution"
+  ],
+  "causes": [
+    "Scientific Revolution’s methods and successes",
+    "Printing press and expanding reading publics",
+    "Cross‑cultural exchange through exploration and commerce"
+  ],
+  "outcome": [
+    "Codification of political philosophy (separation of powers, social contract)",
+    "Educational, legal, and religious reforms; toleration debates",
+    "Influence on the American and French Revolutions"
+  ],
+  "figures": [
+    { "name": "John Locke", "role": "Political philosopher of natural rights", "link": "https://en.wikipedia.org/wiki/John_Locke" },
+    { "name": "Voltaire", "role": "Critic of intolerance and absolutism", "link": "https://en.wikipedia.org/wiki/Voltaire" },
+    { "name": "Montesquieu", "role": "Separation of powers theorist", "link": "https://en.wikipedia.org/wiki/Montesquieu" },
+    { "name": "Denis Diderot", "role": "Editor of the Encyclopédie", "link": "https://en.wikipedia.org/wiki/Denis_Diderot" }
+  ],
+  "impacts": [
+    "Blueprints for constitutional government and civil liberties",
+    "Secularization of learning and growth of public sphere",
+    "Catalyst for Atlantic revolutions and modern institutions"
+  ],
+  "sources": [
+    { "title": "Age of Enlightenment", "url": "https://en.wikipedia.org/wiki/Age_of_Enlightenment", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["Age of Enlightenment", "Age of Reason"],
+  "related_events": [
+    { "id": "printing-press", "title": "Invention of the Printing Press" },
+    { "id": "scientific-revolution", "title": "The Scientific Revolution" },
+    { "id": "the-renaissance", "title": "The Renaissance" },
+    { "id": "the-reformation", "title": "The Reformation" },
+    { "id": "american-revolution", "title": "The American Revolution" },
+    { "id": "french-revolution", "title": "French Revolution" }
+  ]
+}

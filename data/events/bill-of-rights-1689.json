@@ -1,0 +1,39 @@
+{
+  "id": "bill-of-rights-1689",
+  "title": "Bill of Rights (1689)",
+  "years": { "start": 1689, "end": 1689 },
+  "region": ["England", "British Isles"],
+  "key_facts": [
+    "Act of Parliament establishing limits on the monarchy and rights of Parliament",
+    "Codified regular parliaments, free elections, and freedom of speech in Parliament",
+    "Prohibited cruel and unusual punishment and excessive bail"
+  ],
+  "causes": [
+    "Settlement following the Glorious Revolution and deposition of James II",
+    "Desire to prevent abuses of royal prerogative",
+    "Constitutional thought shaped by Civil War debates and Locke"
+  ],
+  "outcome": [
+    "Foundation for constitutional monarchy in Britain",
+    "Influenced later rights documents (e.g., US Bill of Rights)",
+    "Strengthened parliamentary supremacy"
+  ],
+  "figures": [
+    { "name": "William III and Mary II", "role": "Monarchs who accepted the Bill of Rights", "link": "https://en.wikipedia.org/wiki/Bill_of_Rights_1689" },
+    { "name": "John Locke", "role": "Political philosopher influencing principles", "link": "https://en.wikipedia.org/wiki/John_Locke" }
+  ],
+  "impacts": [
+    "Model for constitutional governance and civil liberties",
+    "Constrained executive power under law",
+    "Inspired Atlantic and global constitutional movements"
+  ],
+  "sources": [
+    { "title": "Bill of Rights 1689", "url": "https://en.wikipedia.org/wiki/Bill_of_Rights_1689", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["English Bill of Rights", "1689 Bill of Rights"],
+  "related_events": [
+    { "id": "glorious-revolution", "title": "The Glorious Revolution (1688)" },
+    { "id": "english-civil-war", "title": "The English Civil War (1642–1651)" },
+    { "id": "restoration-of-the-monarchy", "title": "Restoration of the Monarchy (1660)" }
+  ]
+}

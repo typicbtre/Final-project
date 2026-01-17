@@ -1,0 +1,39 @@
+{
+  "id": "treaty-of-westphalia",
+  "title": "Treaty of Westphalia (1648)",
+  "years": { "start": 1648, "end": 1648 },
+  "region": ["Central Europe", "Holy Roman Empire"],
+  "key_facts": [
+    "Series of peace treaties signed in Münster and Osnabrück ending the Thirty Years’ War",
+    "Recognized state sovereignty and non‑intervention within the Holy Roman Empire",
+    "Reconfigured religious settlements (cuius regio, eius religio extended to Calvinists)"
+  ],
+  "causes": [
+    "Prolonged devastation and stalemate in the Thirty Years’ War",
+    "Diplomatic pressure among European powers to stabilize Central Europe",
+    "Need to codify new political-religious balance"
+  ],
+  "outcome": [
+    "Ended the Thirty Years’ War in the Empire and Eighty Years’ War between Spain and the Dutch Republic",
+    "Affirmed territorial sovereignty of princes and non‑interference principles",
+    "Marked a shift toward modern interstate diplomacy"
+  ],
+  "figures": [
+    { "name": "Maximilian von Trauttmansdorff", "role": "Habsburg diplomat", "link": "https://en.wikipedia.org/wiki/Maximilian_von_Trauttmansdorff" },
+    { "name": "Axel Oxenstierna", "role": "Swedish statesman", "link": "https://en.wikipedia.org/wiki/Axel_Oxenstierna" }
+  ],
+  "impacts": [
+    "Foundation for concepts of sovereignty and the modern international system",
+    "Religious pluralism formalized within the Empire",
+    "Diminished Habsburg universalist claims; rise of France and Sweden"
+  ],
+  "sources": [
+    { "title": "Peace of Westphalia", "url": "https://en.wikipedia.org/wiki/Peace_of_Westphalia", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["Peace of Westphalia", "Treaties of Münster and Osnabrück"],
+  "related_events": [
+    { "id": "thirty-years-war", "title": "Thirty Years’ War" },
+    { "id": "the-reformation", "title": "The Reformation" },
+    { "id": "counter-reformation", "title": "The Counter‑Reformation" }
+  ]
+}

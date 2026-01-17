@@ -32,6 +32,9 @@
   ],
   "aliases": ["Gutenberg Press", "Movable Type Printing"],
   "related_events": [
-    { "id": "the-renaissance", "title": "The Renaissance" }
+    { "id": "the-renaissance", "title": "The Renaissance" },
+    { "id": "the-reformation", "title": "The Reformation" },
+    { "id": "scientific-revolution", "title": "The Scientific Revolution" },
+    { "id": "the-enlightenment", "title": "The Enlightenment" }
   ]
 }

@@ -174,6 +174,95 @@
     "aliases": ["Arrow War", "Second Anglo-Chinese War"],
     "description": "Renewed conflict involving Britain and France against Qing China; culminated in the Convention of Beijing and expanded treaty rights.",
     "tags": ["China", "Britain", "France", "treaty", "Beijing", "1860"]
+  },
+  {
+    "id": "the-reformation",
+    "title": "The Reformation",
+    "years": { "start": 1517, "end": 1648 },
+    "aliases": ["Protestant Reformation"],
+    "description": "Religious movement challenging Catholic authority that led to the rise of Protestant churches, reshaping European religion, politics, and society.",
+    "tags": ["religion", "Protestant", "Catholic", "Europe", "Reformation", "16th century"]
+  },
+  {
+    "id": "thirty-years-war",
+    "title": "Thirty Years’ War",
+    "years": { "start": 1618, "end": 1648 },
+    "aliases": [
+      "30 Years War",
+      "Thirty Years War",
+      "Thirty Years' War",
+      "Thirty Years’ War"
+    ],
+    "description": "Pan‑European conflict rooted in religious and political rivalries, devastating Central Europe and ending with the Peace of Westphalia.",
+    "tags": ["war", "Europe", "Germany", "religion", "Westphalia", "17th century"]
+  },
+  {
+    "id": "counter-reformation",
+    "title": "The Counter‑Reformation",
+    "years": { "start": 1545, "end": 1648 },
+    "aliases": [
+      "Catholic Reformation",
+      "Counter Reformation",
+      "Counterreformation"
+    ],
+    "description": "Catholic Church reform movement responding to Protestantism, defined by the Council of Trent and new religious orders like the Jesuits.",
+    "tags": ["religion", "Catholic", "Council of Trent", "Jesuits", "Europe"]
+  },
+  {
+    "id": "scientific-revolution",
+    "title": "The Scientific Revolution",
+    "years": { "start": 1543, "end": 1700 },
+    "aliases": ["Early Modern Science", "Scientific Revolution"],
+    "description": "Transformative period in European science emphasizing observation, mathematics, and experimentation, laying foundations for modern science.",
+    "tags": ["science", "astronomy", "physics", "Europe", "early modern"]
+  },
+  {
+    "id": "the-enlightenment",
+    "title": "The Enlightenment",
+    "years": { "start": 1687, "end": 1789 },
+    "aliases": ["Age of Enlightenment", "Age of Reason", "Enlightenment"],
+    "description": "Intellectual movement advancing reason, individual rights, and skepticism of authority, influencing revolutions and modern institutions.",
+    "tags": ["philosophy", "reason", "rights", "Europe", "18th century"]
+  },
+  {
+    "id": "treaty-of-westphalia",
+    "title": "Treaty of Westphalia (1648)",
+    "years": { "start": 1648, "end": 1648 },
+    "aliases": ["Peace of Westphalia", "Treaties of Münster and Osnabrück"],
+    "description": "Series of treaties ending the Thirty Years’ War, recognizing state sovereignty and non‑intervention within the Holy Roman Empire.",
+    "tags": ["diplomacy", "sovereignty", "Holy Roman Empire", "1648", "Europe"]
+  },
+  {
+    "id": "glorious-revolution",
+    "title": "The Glorious Revolution (1688)",
+    "years": { "start": 1688, "end": 1689 },
+    "aliases": ["Revolution of 1688", "Bloodless Revolution"],
+    "description": "Overthrow of James II leading to constitutional monarchy and parliamentary supremacy in England; influenced Enlightenment political thought.",
+    "tags": ["England", "constitution", "Bill of Rights", "Parliament", "1680s"]
+  },
+  {
+    "id": "english-civil-war",
+    "title": "The English Civil War (1642–1651)",
+    "years": { "start": 1642, "end": 1651 },
+    "aliases": ["Wars of the Three Kingdoms", "English Revolution", "British Civil Wars"],
+    "description": "Series of conflicts between Royalists and Parliamentarians over sovereignty, religion, and taxation; ended with Parliament’s victory and the execution of Charles I.",
+    "tags": ["England", "civil war", "Parliament", "monarchy", "17th century"]
+  },
+  {
+    "id": "restoration-of-the-monarchy",
+    "title": "Restoration of the Monarchy (1660)",
+    "years": { "start": 1660, "end": 1660 },
+    "aliases": ["English Restoration", "Restoration (1660)"],
+    "description": "Return of Charles II and re‑establishment of the English monarchy after the Interregnum, recalibrating relations among Crown, Church, and Parliament.",
+    "tags": ["England", "monarchy", "Restoration", "Charles II", "1660"]
+  },
+  {
+    "id": "bill-of-rights-1689",
+    "title": "Bill of Rights (1689)",
+    "years": { "start": 1689, "end": 1689 },
+    "aliases": ["English Bill of Rights", "1689 Bill of Rights"],
+    "description": "Act establishing limits on monarchy and rights of Parliament; foundation for constitutional monarchy and a model for later rights documents.",
+    "tags": ["England", "constitution", "rights", "Parliament", "1689"]
   }
 ]
 

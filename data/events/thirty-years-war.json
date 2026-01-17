@@ -1,0 +1,38 @@
+{
+  "id": "thirty-years-war",
+  "title": "Thirty Years’ War",
+  "years": { "start": 1618, "end": 1648 },
+  "region": ["Central Europe", "German Lands", "Bohemia"],
+  "key_facts": [
+    "Complex conflict involving religious and dynastic rivalries across Central Europe",
+    "Began with the Defenestration of Prague and Bohemian Revolt",
+    "Foreign interventions by Sweden and France shifted the balance"
+  ],
+  "causes": [
+    "Religious tensions between Protestant and Catholic states",
+    "Fragmented Holy Roman Empire and Habsburg consolidation efforts",
+    "Power politics among major European powers"
+  ],
+  "outcome": [
+    "Peace of Westphalia (1648) redefining sovereignty and non‑intervention",
+    "Massive demographic and economic devastation in German lands",
+    "Diminished Habsburg imperial influence; rise of France and Sweden"
+  ],
+  "figures": [
+    { "name": "Gustavus Adolphus", "role": "Swedish king and military innovator", "link": "https://en.wikipedia.org/wiki/Gustavus_Adolphus_of_Sweden" },
+    { "name": "Cardinal Richelieu", "role": "French statesman backing anti‑Habsburg coalitions", "link": "https://en.wikipedia.org/wiki/Cardinal_Richelieu" }
+  ],
+  "impacts": [
+    "Foundational concepts of modern state sovereignty",
+    "Religious pluralism within the Holy Roman Empire",
+    "Long‑term political fragmentation of German territories"
+  ],
+  "sources": [
+    { "title": "Thirty Years' War", "url": "https://en.wikipedia.org/wiki/Thirty_Years%27_War", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["30 Years War", "Thirty Years War"],
+  "related_events": [
+    { "id": "the-reformation", "title": "The Reformation" },
+    { "id": "treaty-of-westphalia", "title": "Treaty of Westphalia (1648)" }
+  ]
+}

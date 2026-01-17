@@ -1,0 +1,41 @@
+{
+  "id": "the-reformation",
+  "title": "The Reformation",
+  "years": { "start": 1517, "end": 1648 },
+  "region": ["Central Europe", "Western Europe"],
+  "key_facts": [
+    "Triggered by Martin Luther’s 95 Theses in 1517 challenging indulgences and Church authority",
+    "Rapid spread through pamphlets and vernacular bibles aided by the printing press",
+    "Fragmentation of Western Christianity into various Protestant traditions"
+  ],
+  "causes": [
+    "Abuses and perceived corruption within the late medieval Catholic Church",
+    "Humanist critiques and calls to return to scriptural sources",
+    "Political interests of princes and cities seeking autonomy from Rome"
+  ],
+  "outcome": [
+    "Formation of Protestant churches (Lutheran, Reformed, Anglican)",
+    "Catholic Counter-Reformation (Council of Trent) and new religious orders",
+    "Religious conflicts culminating in the Thirty Years’ War; Peace of Westphalia (1648)"
+  ],
+  "figures": [
+    { "name": "Martin Luther", "role": "German reformer", "link": "https://en.wikipedia.org/wiki/Martin_Luther" },
+    { "name": "John Calvin", "role": "Theologian of Reformed tradition", "link": "https://en.wikipedia.org/wiki/John_Calvin" },
+    { "name": "Ignatius of Loyola", "role": "Founder of the Jesuits", "link": "https://en.wikipedia.org/wiki/Ignatius_of_Loyola" }
+  ],
+  "impacts": [
+    "Reshaped European politics, education, and confessional identities",
+    "Strengthened state authority over churches in many regions",
+    "Expanded literacy and debate through widespread print culture"
+  ],
+  "sources": [
+    { "title": "Reformation", "url": "https://en.wikipedia.org/wiki/Reformation", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["Protestant Reformation"],
+  "related_events": [
+    { "id": "the-renaissance", "title": "The Renaissance" },
+    { "id": "printing-press", "title": "Invention of the Printing Press" },
+    { "id": "thirty-years-war", "title": "Thirty Years’ War" },
+    { "id": "counter-reformation", "title": "The Counter‑Reformation" }
+  ]
+}

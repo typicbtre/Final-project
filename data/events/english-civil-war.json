@@ -1,0 +1,41 @@
+{
+  "id": "english-civil-war",
+  "title": "The English Civil War (1642–1651)",
+  "years": { "start": 1642, "end": 1651 },
+  "region": ["England", "British Isles"],
+  "key_facts": [
+    "Series of conflicts between Royalists (Cavaliers) and Parliamentarians (Roundheads)",
+    "Struggle over the balance of power between the monarchy and Parliament",
+    "Ended with Parliament’s victory and the trial and execution of Charles I"
+  ],
+  "causes": [
+    "Religious tensions and disputes over church governance",
+    "Fiscal conflicts and the monarch’s attempts to rule without Parliament",
+    "Competing visions of sovereignty and rights"
+  ],
+  "outcome": [
+    "Commonwealth under Oliver Cromwell and temporary abolition of the monarchy",
+    "Rise of constitutional debates (e.g., Levellers) and military reforms",
+    "Set precedents for constitutional monarchy finalized in 1688–89"
+  ],
+  "figures": [
+    { "name": "Oliver Cromwell", "role": "Parliamentarian general and Lord Protector", "link": "https://en.wikipedia.org/wiki/Oliver_Cromwell" },
+    { "name": "Charles I", "role": "King of England; executed in 1649", "link": "https://en.wikipedia.org/wiki/Charles_I_of_England" },
+    { "name": "Thomas Fairfax", "role": "Parliamentarian commander", "link": "https://en.wikipedia.org/wiki/Thomas_Fairfax" }
+  ],
+  "impacts": [
+    "Shift toward parliamentary supremacy and constitutional monarchy",
+    "Religious pluralism debates and limits on royal prerogative",
+    "Military and administrative innovations influencing later states"
+  ],
+  "sources": [
+    { "title": "English Civil War", "url": "https://en.wikipedia.org/wiki/English_Civil_War", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["Wars of the Three Kingdoms", "English Revolution", "British Civil Wars"],
+  "related_events": [
+    { "id": "glorious-revolution", "title": "The Glorious Revolution (1688)" },
+    { "id": "the-enlightenment", "title": "The Enlightenment" },
+    { "id": "treaty-of-westphalia", "title": "Treaty of Westphalia (1648)" },
+    { "id": "restoration-of-the-monarchy", "title": "Restoration of the Monarchy (1660)" }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "counter-reformation",
+  "title": "The Counter‑Reformation",
+  "years": { "start": 1545, "end": 1648 },
+  "region": ["Italy", "Iberia", "Central Europe"],
+  "key_facts": [
+    "Catholic reform movement responding to Protestant challenges",
+    "Council of Trent (1545–1563) defined doctrine and discipline",
+    "New religious orders (Jesuits) led education and missions"
+  ],
+  "causes": [
+    "Spread of Protestantism and calls for Church reform",
+    "Need to clarify doctrine and improve clerical standards",
+    "Competition for influence among European states"
+  ],
+  "outcome": [
+    "Doctrinal clarification and seminaries for priestly training",
+    "Revitalized Catholic spirituality, art, and education",
+    "Confessional boundaries hardened across Europe"
+  ],
+  "figures": [
+    { "name": "Ignatius of Loyola", "role": "Founder of the Jesuits", "link": "https://en.wikipedia.org/wiki/Ignatius_of_Loyola" },
+    { "name": "Charles Borromeo", "role": "Cardinal and reformer", "link": "https://en.wikipedia.org/wiki/Charles_Borromeo" }
+  ],
+  "impacts": [
+    "Global Catholic missions and education networks",
+    "Baroque culture and art as instruments of devotion",
+    "Long‑term confessionalization of European societies"
+  ],
+  "sources": [
+    { "title": "Counter‑Reformation", "url": "https://en.wikipedia.org/wiki/Counter-Reformation", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["Catholic Reformation"],
+  "related_events": [
+    { "id": "the-reformation", "title": "The Reformation" },
+    { "id": "printing-press", "title": "Invention of the Printing Press" }
+  ]
+}

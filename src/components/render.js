@@ -89,7 +89,12 @@ export function renderSummary(root, event) {
     // Let's use button-like links similar to the "Related sections" below but properly integrated.
     
     const MAX_VISIBLE = 6;
-    const items = event.related_events;
+    // Sort items alphabetically by display title
+    const items = [...event.related_events].sort((a, b) => {
+      const at = (a.title || a.id || "").toLowerCase();
+      const bt = (b.title || b.id || "").toLowerCase();
+      return at.localeCompare(bt);
+    });
     let index = 0;
     for (const rel of items) {
       const li = document.createElement("li");
@@ -107,8 +112,13 @@ export function renderSummary(root, event) {
       btn.style.transition = "background-color .15s ease, color .15s ease";
       btn.onmouseenter = () => { btn.style.background = "var(--bg-light)"; };
       btn.onmouseleave = () => { btn.style.background = "rgba(0,0,0,0.04)"; };
-      
-      btn.textContent = rel.title || rel.id;
+
+      // Label with truncation and tooltip
+      const fullLabel = rel.title || rel.id || "";
+      const maxChars = 28;
+      const truncated = fullLabel.length > maxChars ? fullLabel.slice(0, maxChars - 1) + "…" : fullLabel;
+      btn.textContent = truncated;
+      btn.title = fullLabel;
       btn.dataset.linkId = rel.id;
       
       // Hide beyond initial batch

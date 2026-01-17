@@ -1,0 +1,38 @@
+{
+  "id": "restoration-of-the-monarchy",
+  "title": "Restoration of the Monarchy (1660)",
+  "years": { "start": 1660, "end": 1660 },
+  "region": ["England", "British Isles"],
+  "key_facts": [
+    "Return of Charles II and the re-establishment of the English monarchy",
+    "Settlement following the Interregnum and Cromwell’s Commonwealth",
+    "Recalibrated relations between Crown, Church, and Parliament"
+  ],
+  "causes": [
+    "Instability during the Protectorate and collapse of the Cromwellian regime",
+    "Desire for political settlement and restoration of traditional institutions",
+    "Negotiations led by General Monck and the Declaration of Breda"
+  ],
+  "outcome": [
+    "Monarchy and Church of England restored",
+    "Limited retribution; Act of Indemnity and Oblivion",
+    "Set stage for later constitutional settlement in 1688–89"
+  ],
+  "figures": [
+    { "name": "Charles II", "role": "Restored monarch", "link": "https://en.wikipedia.org/wiki/Charles_II_of_England" },
+    { "name": "George Monck", "role": "General who facilitated the Restoration", "link": "https://en.wikipedia.org/wiki/George_Monck,_1st_Duke_of_Albemarle" }
+  ],
+  "impacts": [
+    "Reconfiguration of monarchy–parliament relations",
+    "Cultural and urban revival in the Restoration era",
+    "Continuity leading toward constitutional monarchy"
+  ],
+  "sources": [
+    { "title": "Restoration (England)", "url": "https://en.wikipedia.org/wiki/Restoration_(England)", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["English Restoration", "Restoration (1660)"],
+  "related_events": [
+    { "id": "english-civil-war", "title": "The English Civil War (1642–1651)" },
+    { "id": "glorious-revolution", "title": "The Glorious Revolution (1688)" }
+  ]
+}

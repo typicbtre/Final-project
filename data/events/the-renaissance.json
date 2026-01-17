@@ -36,6 +36,8 @@
   "related_events": [
     { "id": "black-death", "title": "The Black Death" },
     { "id": "printing-press", "title": "Invention of the Printing Press" },
-    { "id": "age-of-exploration", "title": "The Age of Exploration" }
+    { "id": "age-of-exploration", "title": "The Age of Exploration" },
+    { "id": "scientific-revolution", "title": "The Scientific Revolution" },
+    { "id": "the-enlightenment", "title": "The Enlightenment" }
   ]
 }
