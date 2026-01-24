@@ -238,7 +238,7 @@
     "years": { "start": 1688, "end": 1689 },
     "aliases": ["Revolution of 1688", "Bloodless Revolution"],
     "description": "Overthrow of James II leading to constitutional monarchy and parliamentary supremacy in England; influenced Enlightenment political thought.",
-    "tags": ["England", "constitution", "Bill of Rights", "Parliament", "1680s"]
+    "tags": ["England", "constitution", "Bill of Rights", "Parliament", "1680s", "revolution"]
   },
   {
     "id": "english-civil-war",
@@ -263,6 +263,62 @@
     "aliases": ["English Bill of Rights", "1689 Bill of Rights"],
     "description": "Act establishing limits on monarchy and rights of Parliament; foundation for constitutional monarchy and a model for later rights documents.",
     "tags": ["England", "constitution", "rights", "Parliament", "1689"]
+  },
+  {
+    "id": "act-of-settlement-1701",
+    "title": "Act of Settlement (1701)",
+    "years": { "start": 1701, "end": 1701 },
+    "aliases": ["1701 Act of Settlement", "Act of Settlement"],
+    "description": "Act determining the Protestant succession and further entrenching parliamentary control over the monarchy, shaping the British constitutional order.",
+    "tags": ["England", "succession", "constitution", "Hanoverian", "1701"]
+  },
+  {
+    "id": "act-of-union-1707",
+    "title": "Act of Union (1707)",
+    "years": { "start": 1707, "end": 1707 },
+    "aliases": ["Acts of Union 1707", "Union with Scotland Act 1707", "Union of 1707"],
+    "description": "Parliamentary acts uniting England and Scotland into Great Britain, creating a single Parliament and integrating finance and trade while preserving key Scottish institutions.",
+    "tags": ["Great Britain", "union", "Scotland", "England", "1707"]
+  },
+  {
+    "id": "hanoverian-succession-1714",
+    "title": "Hanoverian Succession (George I, 1714)",
+    "years": { "start": 1714, "end": 1714 },
+    "aliases": ["Hanoverian Succession", "Accession of George I", "George I (1714)"],
+    "description": "Accession of George I under the Act of Settlement (1701), marking the Hanoverian dynasty and accelerating cabinet government and party politics.",
+    "tags": ["Great Britain", "succession", "Hanoverian", "constitution", "1714"]
+  },
+  {
+    "id": "acts-of-union-1800",
+    "title": "Acts of Union (1800)",
+    "years": { "start": 1800, "end": 1801 },
+    "aliases": ["Act of Union 1800", "Union with Ireland Act 1800", "Acts of Union 1801"],
+    "description": "Acts uniting Great Britain and Ireland into the United Kingdom (1801), abolishing the Irish Parliament and integrating representation at Westminster.",
+    "tags": ["United Kingdom", "union", "Ireland", "Great Britain", "1800s"]
+  },
+  {
+    "id": "vietnam-war",
+    "title": "The Vietnam War (1955–1975)",
+    "years": { "start": 1955, "end": 1975 },
+    "aliases": ["Second Indochina War", "Vietnam Conflict", "American War"],
+    "description": "Cold War conflict in Southeast Asia between North Vietnam (and Viet Cong) and South Vietnam with major US involvement; ended with the fall of Saigon and reunification under a communist government.",
+    "tags": ["Cold War", "Southeast Asia", "Vietnam", "USA", "war", "1950s", "1960s", "1970s"]
+  },
+  {
+    "id": "korean-war",
+    "title": "The Korean War (1950–1953)",
+    "years": { "start": 1950, "end": 1953 },
+    "aliases": ["Korean Conflict", "1950–1953 Korean War", "Korean War"],
+    "description": "War between North Korea (USSR/China-backed) and South Korea (UN/US-backed); ended in armistice with a militarized DMZ and ongoing division.",
+    "tags": ["Cold War", "Korea", "UN", "USA", "China", "war", "1950s"]
+  },
+  {
+    "id": "soviet-afghan-war",
+    "title": "The Soviet–Afghan War (1979–1989)",
+    "years": { "start": 1979, "end": 1989 },
+    "aliases": ["Afghan–Soviet War", "Soviet Invasion of Afghanistan", "Afghanistan War (1979–1989)"],
+    "description": "Soviet intervention supporting Afghanistan’s communist government against mujahideen insurgents backed by the US and allies; withdrawal in 1989.",
+    "tags": ["Cold War", "Afghanistan", "USSR", "proxy war", "1970s", "1980s"]
   }
 ]
 

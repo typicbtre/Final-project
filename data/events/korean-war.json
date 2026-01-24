@@ -1,0 +1,37 @@
+{
+  "id": "korean-war",
+  "title": "The Korean War (1950–1953)",
+  "years": { "start": 1950, "end": 1953 },
+  "region": ["Korean Peninsula", "East Asia"],
+  "key_facts": [
+    "War between North Korea (backed by the USSR/China) and South Korea (backed by the UN/USA)",
+    "Began with North Korean invasion in June 1950; major UN counteroffensive and Chinese intervention",
+    "Armistice signed in 1953 created the Demilitarized Zone (DMZ); no formal peace treaty"
+  ],
+  "causes": [
+    "Division of Korea after World War II at the 38th parallel",
+    "Cold War rivalry and competing regimes in North and South",
+    "Border clashes and escalation following political instability"
+  ],
+  "outcome": [
+    "Stalemate and armistice; Korea remains divided",
+    "Massive casualties and destruction; militarization of the peninsula",
+    "Set patterns for Cold War proxy conflicts and US alliance commitments in Asia"
+  ],
+  "figures": [
+    { "name": "Kim Il-sung", "role": "Leader of North Korea", "link": "https://en.wikipedia.org/wiki/Kim_Il-sung" },
+    { "name": "Syngman Rhee", "role": "President of South Korea", "link": "https://en.wikipedia.org/wiki/Syngman_Rhee" },
+    { "name": "Douglas MacArthur", "role": "UN/US commander", "link": "https://en.wikipedia.org/wiki/Douglas_MacArthur" },
+    { "name": "Mao Zedong", "role": "Approved Chinese intervention", "link": "https://en.wikipedia.org/wiki/Mao_Zedong" }
+  ],
+  "impacts": [
+    "Institutionalized US security architecture in Asia (e.g., alliances)",
+    "Militarized DMZ and ongoing tensions",
+    "Influenced Cold War strategy and nuclear considerations"
+  ],
+  "sources": [
+    { "title": "Korean War", "url": "https://en.wikipedia.org/wiki/Korean_War", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["Korean Conflict", "1950–1953 Korean War", "Korean War"],
+  "parent": "cold-war"
+}

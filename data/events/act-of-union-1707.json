@@ -1,0 +1,40 @@
+{
+  "id": "act-of-union-1707",
+  "title": "Act of Union (1707)",
+  "years": { "start": 1707, "end": 1707 },
+  "region": ["Scotland", "England", "British Isles"],
+  "key_facts": [
+    "Pair of parliamentary acts uniting the Kingdom of England and the Kingdom of Scotland into the Kingdom of Great Britain",
+    "Created a single Parliament of Great Britain at Westminster",
+    "Guaranteed key Scottish institutions (law, church, education) while integrating finance and trade"
+  ],
+  "causes": [
+    "Succession and security concerns after the Glorious Revolution and Act of Settlement (1701)",
+    "Economic incentives including access to English colonial trade and compensation (Equivalent)",
+    "Political bargaining among English and Scottish elites"
+  ],
+  "outcome": [
+    "Formation of the Kingdom of Great Britain (1707)",
+    "Integrated fiscal and commercial policy under one state",
+    "Framework for British state formation and imperial expansion"
+  ],
+  "figures": [
+    { "name": "Queen Anne", "role": "Monarch at the time of union", "link": "https://en.wikipedia.org/wiki/Anne,_Queen_of_Great_Britain" },
+    { "name": "James Douglas, 2nd Duke of Queensberry", "role": "Scottish statesman supporting union", "link": "https://en.wikipedia.org/wiki/James_Douglas,_2nd_Duke_of_Queensberry" }
+  ],
+  "impacts": [
+    "Established Great Britain as a unified political entity",
+    "Accelerated integration of markets and military capacity",
+    "Set stage for later Acts of Union (1800) and British Empire growth"
+  ],
+  "sources": [
+    { "title": "Acts of Union 1707", "url": "https://en.wikipedia.org/wiki/Acts_of_Union_1707", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["Acts of Union 1707", "Union with Scotland Act 1707", "Union of 1707"],
+  "related_events": [
+    { "id": "act-of-settlement-1701", "title": "Act of Settlement (1701)" },
+    { "id": "glorious-revolution", "title": "The Glorious Revolution (1688)" },
+    { "id": "hanoverian-succession-1714", "title": "Hanoverian Succession (George I, 1714)" },
+    { "id": "acts-of-union-1800", "title": "Acts of Union (1800)" }
+  ]
+}

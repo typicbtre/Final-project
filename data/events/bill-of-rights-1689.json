@@ -34,6 +34,7 @@
   "related_events": [
     { "id": "glorious-revolution", "title": "The Glorious Revolution (1688)" },
     { "id": "english-civil-war", "title": "The English Civil War (1642–1651)" },
-    { "id": "restoration-of-the-monarchy", "title": "Restoration of the Monarchy (1660)" }
+    { "id": "restoration-of-the-monarchy", "title": "Restoration of the Monarchy (1660)" },
+    { "id": "act-of-settlement-1701", "title": "Act of Settlement (1701)" }
   ]
 }

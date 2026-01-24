@@ -1,0 +1,35 @@
+{
+  "id": "soviet-afghan-war",
+  "title": "The Soviet–Afghan War (1979–1989)",
+  "years": { "start": 1979, "end": 1989 },
+  "region": ["Afghanistan", "Central Asia"],
+  "key_facts": [
+    "Soviet intervention to support the Afghan communist government against mujahideen insurgents",
+    "Mujahideen backed by the US, Pakistan, Saudi Arabia, and others as a Cold War proxy",
+    "War ended with Soviet withdrawal in 1989; conflict continued into Afghan civil war"
+  ],
+  "causes": [
+    "Internal instability in Afghanistan and communist government consolidation",
+    "Soviet desire to maintain a friendly regime on its southern border",
+    "Cold War rivalry and regional power competition"
+  ],
+  "outcome": [
+    "Soviet withdrawal under the Geneva Accords (1988)",
+    "Significant casualties and economic strain contributing to late‑Soviet crisis",
+    "Legacy of regional instability and rise of transnational militancy"
+  ],
+  "figures": [
+    { "name": "Babrak Karmal", "role": "Afghan communist leader backed by the USSR", "link": "https://en.wikipedia.org/wiki/Babrak_Karmal" },
+    { "name": "Mikhail Gorbachev", "role": "Soviet leader who initiated withdrawal", "link": "https://en.wikipedia.org/wiki/Mikhail_Gorbachev" }
+  ],
+  "impacts": [
+    "Contributed to Soviet economic and political strain",
+    "Militarization and refugee crises in the region",
+    "Shaped post‑Cold War security dynamics"
+  ],
+  "sources": [
+    { "title": "Soviet–Afghan War", "url": "https://en.wikipedia.org/wiki/Soviet%E2%80%93Afghan_War", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["Afghan–Soviet War", "Soviet Invasion of Afghanistan", "Afghanistan War (1979–1989)"],
+  "parent": "cold-war"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "acts-of-union-1800",
+  "title": "Acts of Union (1800)",
+  "years": { "start": 1800, "end": 1801 },
+  "region": ["Ireland", "Great Britain", "British Isles"],
+  "key_facts": [
+    "Pair of acts passed by the Parliament of Great Britain and the Parliament of Ireland",
+    "United the Kingdom of Great Britain and the Kingdom of Ireland into the United Kingdom of Great Britain and Ireland (1801)",
+    "Abolished the Irish Parliament and integrated representation at Westminster"
+  ],
+  "causes": [
+    "Security and governance concerns following the 1798 Irish Rebellion",
+    "Desire for closer political and economic integration",
+    "Continuation of state formation begun by the 1707 Union"
+  ],
+  "outcome": [
+    "Creation of the United Kingdom of Great Britain and Ireland (1801)",
+    "Integrated fiscal and trade policy",
+    "Restructured representation and administration"
+  ],
+  "figures": [
+    { "name": "William Pitt the Younger", "role": "British Prime Minister advocating union", "link": "https://en.wikipedia.org/wiki/William_Pitt_the_Younger" },
+    { "name": "Robert Stewart, Viscount Castlereagh", "role": "Irish chief secretary managing the union", "link": "https://en.wikipedia.org/wiki/Robert_Stewart,_Viscount_Castlereagh" }
+  ],
+  "impacts": [
+    "Consolidated the British state for 19th‑century governance and war",
+    "Integrated Irish representation in Westminster",
+    "Set the stage for later reforms and eventual partition/home rule debates"
+  ],
+  "sources": [
+    { "title": "Acts of Union 1800", "url": "https://en.wikipedia.org/wiki/Acts_of_Union_1800", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["Act of Union 1800", "Union with Ireland Act 1800", "Acts of Union 1801"],
+  "related_events": [
+    { "id": "act-of-union-1707", "title": "Act of Union (1707)" }
+  ]
+}

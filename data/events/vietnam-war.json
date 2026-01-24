@@ -1,0 +1,37 @@
+{
+  "id": "vietnam-war",
+  "title": "The Vietnam War (1955–1975)",
+  "years": { "start": 1955, "end": 1975 },
+  "region": ["Southeast Asia", "Vietnam"],
+  "key_facts": [
+    "Conflict between North Vietnam (and Viet Cong) and South Vietnam, heavily involving the United States and allies",
+    "Part of the wider Cold War; major escalation after the Gulf of Tonkin incident (1964)",
+    "Ended with the fall of Saigon (1975) and reunification under a communist government"
+  ],
+  "causes": [
+    "Decolonization and unresolved conflicts after the First Indochina War",
+    "Ideological struggle between communism and anti‑communism within the Cold War",
+    "Domestic political instability in South Vietnam"
+  ],
+  "outcome": [
+    "US withdrawal (Paris Peace Accords 1973) and North Vietnamese victory (1975)",
+    "Human and economic costs with lasting regional and US social impacts",
+    "Realignment of US foreign/military policy (War Powers, détente debates)"
+  ],
+  "figures": [
+    { "name": "Ho Chi Minh", "role": "Leader of North Vietnam", "link": "https://en.wikipedia.org/wiki/Ho_Chi_Minh" },
+    { "name": "Nguyen Van Thieu", "role": "President of South Vietnam", "link": "https://en.wikipedia.org/wiki/Nguyen_Van_Thieu" },
+    { "name": "Lyndon B. Johnson", "role": "US President during major escalation", "link": "https://en.wikipedia.org/wiki/Lyndon_B._Johnson" },
+    { "name": "Richard Nixon", "role": "US President; Vietnamization and Paris Peace Accords", "link": "https://en.wikipedia.org/wiki/Richard_Nixon" }
+  ],
+  "impacts": [
+    "Shaped US domestic politics, protest movements, and media’s role in war",
+    "Influenced Cold War strategy and limits of military intervention",
+    "Long‑term effects on Vietnam, Cambodia, and Laos"
+  ],
+  "sources": [
+    { "title": "Vietnam War", "url": "https://en.wikipedia.org/wiki/Vietnam_War", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["Second Indochina War", "Vietnam Conflict", "American War"],
+  "parent": "cold-war"
+}

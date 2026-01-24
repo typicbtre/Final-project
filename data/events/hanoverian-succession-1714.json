@@ -1,0 +1,39 @@
+{
+  "id": "hanoverian-succession-1714",
+  "title": "Hanoverian Succession (George I, 1714)",
+  "years": { "start": 1714, "end": 1714 },
+  "region": ["Great Britain", "British Isles"],
+  "key_facts": [
+    "Succession of George I of Hanover to the British throne under the Act of Settlement (1701)",
+    "Marked the start of the Hanoverian dynasty in Britain",
+    "Accelerated the development of cabinet government and party politics"
+  ],
+  "causes": [
+    "Protestant succession mandated by the Act of Settlement (1701)",
+    "Deaths of preceding heirs and Queen Anne without surviving issue",
+    "Desire to avoid a Catholic Stuart restoration"
+  ],
+  "outcome": [
+    "George I crowned; Whig ascendency consolidated",
+    "Growth of ministerial government and fiscal‑military state",
+    "Closer linkage between British and Hanoverian interests"
+  ],
+  "figures": [
+    { "name": "George I", "role": "First Hanoverian king of Great Britain", "link": "https://en.wikipedia.org/wiki/George_I_of_Great_Britain" },
+    { "name": "Robert Walpole", "role": "Leading Whig statesman; often considered first de facto prime minister", "link": "https://en.wikipedia.org/wiki/Robert_Walpole" }
+  ],
+  "impacts": [
+    "Stabilized Protestant succession and constitutional monarchy",
+    "Catalyzed cabinet governance and party system",
+    "Shaped 18th‑century British domestic and foreign policy"
+  ],
+  "sources": [
+    { "title": "George I of Great Britain", "url": "https://en.wikipedia.org/wiki/George_I_of_Great_Britain", "publisher": "Wikipedia" },
+    { "title": "Hanoverian succession", "url": "https://en.wikipedia.org/wiki/Hanoverian_Succession#British_succession", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["Hanoverian Succession", "Accession of George I", "George I (1714)"],
+  "related_events": [
+    { "id": "act-of-settlement-1701", "title": "Act of Settlement (1701)" },
+    { "id": "act-of-union-1707", "title": "Act of Union (1707)" }
+  ]
+}

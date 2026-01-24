@@ -52,14 +52,5 @@
     "First Man on the Moon",
     "Space Race Victory"
   ],
-  "related_events": [
-    {
-      "id": "space-race",
-      "title": "The Space Race"
-    },
-    {
-      "id": "cold-war",
-      "title": "The Cold War"
-    }
-  ]
+  "parent": "space-race"
 }

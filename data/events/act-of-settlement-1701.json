@@ -1,0 +1,40 @@
+{
+  "id": "act-of-settlement-1701",
+  "title": "Act of Settlement (1701)",
+  "years": { "start": 1701, "end": 1701 },
+  "region": ["England", "British Isles"],
+  "key_facts": [
+    "Act of Parliament determining succession to the English (later British) throne",
+    "Ensured a Protestant succession, passing the crown to the House of Hanover if William III and Anne had no surviving heirs",
+    "Further limited monarchical power and strengthened parliamentary constitutionalism"
+  ],
+  "causes": [
+    "Succession uncertainty following the Glorious Revolution and childless monarchs",
+    "Desire to entrench the Protestant succession and avoid dynastic instability",
+    "Ongoing constitutional settlement begun by the Bill of Rights (1689)"
+  ],
+  "outcome": [
+    "Secured the Hanoverian succession (George I in 1714)",
+    "Reinforced parliamentary sovereignty over succession and governance",
+    "Shaped the development of the British constitutional monarchy"
+  ],
+  "figures": [
+    { "name": "William III", "role": "Monarch during the act's passage", "link": "https://en.wikipedia.org/wiki/William_III_of_England" },
+    { "name": "Princess Sophia of Hanover", "role": "Designated heir presumptive under the Act", "link": "https://en.wikipedia.org/wiki/Sophia_of_Hanover" }
+  ],
+  "impacts": [
+    "Stabilized succession and fostered political continuity",
+    "Facilitated the emergence of cabinet government and party politics",
+    "Influenced constitutional thinking across the Atlantic world"
+  ],
+  "sources": [
+    { "title": "Act of Settlement 1701", "url": "https://en.wikipedia.org/wiki/Act_of_Settlement_1701", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["1701 Act of Settlement", "Act of Settlement"],
+  "related_events": [
+    { "id": "bill-of-rights-1689", "title": "Bill of Rights (1689)" },
+    { "id": "glorious-revolution", "title": "The Glorious Revolution (1688)" },
+    { "id": "act-of-union-1707", "title": "Act of Union (1707)" },
+    { "id": "hanoverian-succession-1714", "title": "Hanoverian Succession (George I, 1714)" }
+  ]
+}

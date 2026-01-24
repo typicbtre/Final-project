@@ -67,5 +67,12 @@
     { "id": "russian-revolution", "title": "The Russian Revolution" },
     { "id": "world-war-ii", "title": "World War II" }
   ],
-  "parts": ["cuban-missile-crisis", "space-race", "berlin-wall"]
+  "parts": [
+    "cuban-missile-crisis",
+    "space-race",
+    "berlin-wall",
+    "vietnam-war",
+    "korean-war",
+    "soviet-afghan-war"
+  ]
 }
