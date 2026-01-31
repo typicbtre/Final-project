@@ -1,0 +1,35 @@
+{
+  "id": "chinese-civil-war-1945-1949",
+  "title": "Chinese Civil War (1945–1949)",
+  "years": { "start": 1945, "end": 1949 },
+  "region": ["China", "East Asia"],
+  "key_facts": [
+    "Resumed conflict between the Chinese Communist Party (CCP) and the Nationalists (KMT) after WWII",
+    "CCP victory led to the founding of the People’s Republic of China in 1949; KMT retreated to Taiwan",
+    "Major Cold War realignment in Asia"
+  ],
+  "causes": [
+    "Unresolved ideological and political rivalry between CCP and KMT",
+    "Power vacuum and rearmament after the Japanese surrender",
+    "Foreign support dynamics within emerging Cold War"
+  ],
+  "outcome": [
+    "Establishment of the PRC and continued Republic of China governance in Taiwan",
+    "Long-term cross-strait tensions",
+    "Shifted Cold War balance in East Asia"
+  ],
+  "figures": [
+    { "name": "Mao Zedong", "role": "Leader of the CCP", "link": "https://en.wikipedia.org/wiki/Mao_Zedong" },
+    { "name": "Chiang Kai-shek", "role": "Leader of the KMT", "link": "https://en.wikipedia.org/wiki/Chiang_Kai-shek" }
+  ],
+  "impacts": [
+    "Redefined geopolitical alignments in Asia",
+    "Influenced the outbreak and dynamics of the Korean War",
+    "Set the stage for PRC–US relations and regional conflicts"
+  ],
+  "sources": [
+    { "title": "Chinese Civil War", "url": "https://en.wikipedia.org/wiki/Chinese_Civil_War", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["Chinese Communist Revolution", "Chinese Civil War (Second Phase)", "CCP–KMT Civil War"],
+  "parent": "cold-war"
+}

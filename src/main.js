@@ -3,6 +3,34 @@ import { normalizeQuery, loadAliases, applyAlias } from "./utils/normalize.js";
 import { getEventById, buildMissState, generateSummaryPlaceholder } from "./services/retrieval/index.js";
 import { renderSummary, renderMiss } from "./components/render.js";
 
+// Local fallback: build a minimal placeholder event when generation service isn't available
+function buildLocalPlaceholder(query) {
+  const title = (query || "").trim();
+  const id = title
+    .toLowerCase()
+    .replace(/[^a-z0-9\s-]/g, "")
+    .replace(/\s+/g, "-")
+    .replace(/-+/g, "-")
+    .replace(/^-|-$/g, "") || "temporary-topic";
+  return {
+    id,
+    title: title || "Untitled Topic",
+    years: { start: null, end: null },
+    region: [],
+    key_facts: [
+      "Placeholder summary generated locally.",
+      "Use Related and Parts to navigate to nearby topics.",
+    ],
+    causes: [],
+    outcome: [],
+    figures: [],
+    impacts: [],
+    sources: [],
+    aliases: [title],
+    related_events: [],
+  };
+}
+
 function setupThemeToggle() {
   const root = document.documentElement;
   const btn = document.getElementById("themeToggle");
@@ -117,8 +145,13 @@ async function init() {
     renderMiss(output, buildMissState(raw, suggestions));
     await attachLinkHandlers();
     output.querySelector("[data-action='generate']")?.addEventListener("click", async () => {
-      const placeholder = await generateSummaryPlaceholder(raw);
-      renderSummary(output, placeholder);
+      try {
+        const placeholder = await generateSummaryPlaceholder(raw);
+        renderSummary(output, placeholder);
+      } catch (err) {
+        const fallback = buildLocalPlaceholder(raw);
+        renderSummary(output, fallback);
+      }
       await attachLinkHandlers();
     });
     output.querySelector("[data-action='similar']")?.addEventListener("click", () => {

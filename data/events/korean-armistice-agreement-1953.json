@@ -1,0 +1,35 @@
+{
+  "id": "korean-armistice-agreement-1953",
+  "title": "Korean Armistice Agreement (1953)",
+  "years": { "start": 1953, "end": 1953 },
+  "region": ["Korean Peninsula", "East Asia"],
+  "key_facts": [
+    "Ceasefire agreement signed on July 27, 1953, by the UN Command, North Korea, and China",
+    "Established the Korean Demilitarized Zone (DMZ) and a ceasefire line near the 38th parallel",
+    "Suspended hostilities but did not constitute a formal peace treaty"
+  ],
+  "causes": [
+    "Stalemate after major offensives and international pressure to end active combat",
+    "War-weariness and heavy casualties on all sides",
+    "Desire to stabilize the peninsula while broader Cold War tensions persisted"
+  ],
+  "outcome": [
+    "Cessation of active hostilities and prisoner exchanges",
+    "Creation of the Military Armistice Commission to supervise the ceasefire",
+    "Continued division of Korea without a formal peace settlement"
+  ],
+  "figures": [
+    { "name": "Mark W. Clark", "role": "UN Commander signatory", "link": "https://en.wikipedia.org/wiki/Mark_W._Clark" },
+    { "name": "Nam Il", "role": "North Korean signatory", "link": "https://en.wikipedia.org/wiki/Nam_Il" }
+  ],
+  "impacts": [
+    "Institutionalized the DMZ and long-term armistice regime",
+    "Shaped US and allied force posture in Northeast Asia",
+    "Left the Korean conflict unresolved, impacting diplomacy to present day"
+  ],
+  "sources": [
+    { "title": "Korean Armistice Agreement", "url": "https://en.wikipedia.org/wiki/Korean_Armistice_Agreement", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["1953 Korean Armistice", "Korean War Armistice", "Panmunjom Armistice"],
+  "parent": "korean-war"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "second-punic-war",
+  "title": "Second Punic War (218–201 BCE)",
+  "years": { "start": -218, "end": -201 },
+  "region": ["Italy", "Iberia", "North Africa", "Western Mediterranean"],
+  "key_facts": [
+    "Hannibal’s campaign against Rome, including the crossing of the Alps",
+    "Major Carthaginian victories at Trebia, Lake Trasimene, and Cannae",
+    "Roman recovery under Scipio Africanus culminating in victory at Zama (202 BCE)"
+  ],
+  "causes": [
+    "Renewed rivalry after the First Punic War and disputes in Iberia",
+    "Saguntum affair triggered hostilities between Rome and Carthage"
+  ],
+  "outcome": [
+    "Carthage lost overseas territories and naval power; heavy indemnities",
+    "Rome asserted dominance across the western Mediterranean"
+  ],
+  "figures": [
+    { "name": "Hannibal Barca", "role": "Carthaginian general", "link": "https://en.wikipedia.org/wiki/Hannibal" },
+    { "name": "Scipio Africanus", "role": "Roman general", "link": "https://en.wikipedia.org/wiki/Scipio_Africanus" }
+  ],
+  "impacts": [
+    "Demonstrated Roman resilience and adaptive strategy",
+    "Shifted balance decisively toward Roman hegemony"
+  ],
+  "sources": [
+    { "title": "Second Punic War", "url": "https://en.wikipedia.org/wiki/Second_Punic_War", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["Hannibalic War", "Second Roman–Carthaginian War"],
+  "parent": "punic-wars"
+}

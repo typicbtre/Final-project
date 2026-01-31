@@ -1,0 +1,35 @@
+{
+  "id": "first-indochina-war",
+  "title": "First Indochina War (1946–1954)",
+  "years": { "start": 1946, "end": 1954 },
+  "region": ["Southeast Asia", "Vietnam", "Laos", "Cambodia"],
+  "key_facts": [
+    "Conflict between French colonial forces and the Việt Minh led by Hồ Chí Minh",
+    "Major Cold War precursor in Southeast Asia; intensified after 1949",
+    "Decisive Việt Minh victory at Điện Biên Phủ (1954) preceded the Geneva Accords"
+  ],
+  "causes": [
+    "Anticolonial nationalism following Japanese occupation and World War II",
+    "Competing visions of independence vs. restoration of French control",
+    "Emerging Cold War alignments after 1949"
+  ],
+  "outcome": [
+    "French withdrawal from Indochina under the 1954 Geneva Accords",
+    "Provisional division of Vietnam at the 17th parallel and scheduled elections",
+    "Set stage for the Vietnam War and conflicts in Laos and Cambodia"
+  ],
+  "figures": [
+    { "name": "Hồ Chí Minh", "role": "Leader of the Việt Minh", "link": "https://en.wikipedia.org/wiki/Ho_Chi_Minh" },
+    { "name": "Võ Nguyên Giáp", "role": "Việt Minh commander", "link": "https://en.wikipedia.org/wiki/Vo_Nguyen_Giap" }
+  ],
+  "impacts": [
+    "Accelerated decolonization across Southeast Asia",
+    "Drew Cold War blocs into Indochina",
+    "Shaped strategies for the subsequent Vietnam War"
+  ],
+  "sources": [
+    { "title": "First Indochina War", "url": "https://en.wikipedia.org/wiki/First_Indochina_War", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["French Indochina War", "Indochina War I"],
+  "parent": "cold-war"
+}

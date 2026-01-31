@@ -1,0 +1,35 @@
+{
+  "id": "punic-wars",
+  "title": "The Punic Wars (264–146 BCE)",
+  "years": { "start": -264, "end": -146 },
+  "region": ["Western Mediterranean", "Italy", "North Africa", "Sicily", "Iberia"],
+  "key_facts": [
+    "Three wars fought between the Roman Republic and Carthage for dominance in the western Mediterranean",
+    "First Punic War centered on naval control of Sicily; Second featured Hannibal’s campaigns; Third ended with the destruction of Carthage",
+    "Paved the way for Roman hegemony across the Mediterranean"
+  ],
+  "causes": [
+    "Competition over trade routes, allies, and territory in Sicily and the western Mediterranean",
+    "Escalating rivalries between expanding Rome and maritime Carthage",
+    "Allied disputes and interventions that triggered wider war"
+  ],
+  "outcome": [
+    "Rome’s victory and annexation of key Carthaginian territories",
+    "Carthage’s power broken and city destroyed in 146 BCE",
+    "Acceleration of Roman expansion and militarization"
+  ],
+  "figures": [
+    { "name": "Hannibal Barca", "role": "Carthaginian general of the Second Punic War", "link": "https://en.wikipedia.org/wiki/Hannibal" },
+    { "name": "Scipio Africanus", "role": "Roman general who defeated Hannibal at Zama", "link": "https://en.wikipedia.org/wiki/Scipio_Africanus" }
+  ],
+  "impacts": [
+    "Established Rome as the preeminent Mediterranean power",
+    "Set administrative and economic patterns for Roman provinces",
+    "Long-term transformation of Roman society and politics"
+  ],
+  "sources": [
+    { "title": "Punic Wars", "url": "https://en.wikipedia.org/wiki/Punic_Wars", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["Punic War", "Roman–Carthaginian Wars", "Roman Carthage Wars"],
+  "parts": ["first-punic-war", "second-punic-war", "third-punic-war"]
+}

@@ -33,5 +33,6 @@
     { "title": "Korean War", "url": "https://en.wikipedia.org/wiki/Korean_War", "publisher": "Wikipedia" }
   ],
   "aliases": ["Korean Conflict", "1950–1953 Korean War", "Korean War"],
-  "parent": "cold-war"
+  "parent": "cold-war",
+  "parts": ["korean-armistice-agreement-1953"]
 }

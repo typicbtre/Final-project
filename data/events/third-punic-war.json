@@ -1,0 +1,31 @@
+{
+  "id": "third-punic-war",
+  "title": "Third Punic War (149–146 BCE)",
+  "years": { "start": -149, "end": -146 },
+  "region": ["North Africa", "Carthage"],
+  "key_facts": [
+    "Final Roman war against Carthage culminating in the siege and destruction of the city",
+    "Triggered by escalating Roman demands and fears of Carthaginian revival",
+    "Resulted in Carthage’s annihilation and annexation as the province of Africa"
+  ],
+  "causes": [
+    "Roman suspicion of Carthage despite earlier treaties",
+    "Carthage’s self-defense against Numidia used as pretext by Rome"
+  ],
+  "outcome": [
+    "City of Carthage destroyed (146 BCE); survivors enslaved",
+    "Territory reorganized as the Roman province of Africa"
+  ],
+  "figures": [
+    { "name": "Scipio Aemilianus", "role": "Roman commander who captured Carthage", "link": "https://en.wikipedia.org/wiki/Scipio_Aemilianus" }
+  ],
+  "impacts": [
+    "Eliminated Rome’s chief rival in the western Mediterranean",
+    "Consolidated Roman imperial expansion"
+  ],
+  "sources": [
+    { "title": "Third Punic War", "url": "https://en.wikipedia.org/wiki/Third_Punic_War", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["Third Roman–Carthaginian War"],
+  "parent": "punic-wars"
+}

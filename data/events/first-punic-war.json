@@ -1,0 +1,31 @@
+{
+  "id": "first-punic-war",
+  "title": "First Punic War (264–241 BCE)",
+  "years": { "start": -264, "end": -241 },
+  "region": ["Sicily", "Western Mediterranean"],
+  "key_facts": [
+    "Naval conflict between Rome and Carthage primarily over control of Sicily",
+    "Rome built a navy and innovated with the corvus boarding device",
+    "Ended with Roman victory and Carthaginian evacuation of Sicily"
+  ],
+  "causes": [
+    "Rivalry over influence in Sicily (Messana) and trade routes",
+    "Allied entanglements drawing Rome and Carthage into war"
+  ],
+  "outcome": [
+    "Treaty compelled Carthage to cede Sicily and pay indemnities",
+    "Rome emerged as a naval power"
+  ],
+  "figures": [
+    { "name": "Hamilcar Barca", "role": "Carthaginian commander", "link": "https://en.wikipedia.org/wiki/Hamilcar_Barca" }
+  ],
+  "impacts": [
+    "Roman expansion beyond the Italian peninsula",
+    "Set stage for renewed conflicts (Second Punic War)"
+  ],
+  "sources": [
+    { "title": "First Punic War", "url": "https://en.wikipedia.org/wiki/First_Punic_War", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["First Roman–Carthaginian War"],
+  "parent": "punic-wars"
+}
