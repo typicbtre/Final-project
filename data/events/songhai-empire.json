@@ -1,0 +1,44 @@
+{
+  "id": "songhai-empire",
+  "title": "Songhai Empire (c. 1375-1591)",
+  "years": { "start": 1375, "end": 1591 },
+  "region": ["West Africa", "Mali", "Niger", "Nigeria"],
+  "key_facts": [
+    "Largest and most powerful empire in West African history",
+    "Controlled trans-Saharan trade routes connecting North and West Africa",
+    "Major cities: Timbuktu, Gao, Djenné as centers of Islamic scholarship",
+    "Defeated by Moroccan invasion at Battle of Tondibi (1591)"
+  ],
+  "causes": [
+    "Strategic location on Niger River enabled agricultural surplus",
+    "Control of gold and salt trade created immense wealth",
+    "Military organization with cavalry and professional soldiers",
+    "Islamic scholarship and administrative bureaucracy"
+  ],
+  "outcome": [
+    "Empire fragmented after Moroccan invasion with firearms",
+    "Trade routes disrupted leading to economic decline",
+    "Islamic learning centers declined but scholarship preserved",
+    "European powers later colonized the region"
+  ],
+  "figures": [
+    { "name": "Sunni Ali", "role": "Founder who moved capital to Gao", "link": "https://en.wikipedia.org/wiki/Sunni_Ali" },
+    { "name": "Askia Muhammad", "role": "Greatest ruler; expanded to empire's peak", "link": "https://en.wikipedia.org/wiki/Askia_Muhammad_I" },
+    { "name": "Askia Dawud", "role": "Last powerful Songhai ruler", "link": "https://en.wikipedia.org/wiki/Askia_Dawud" }
+  ],
+  "impacts": [
+    "Established West Africa as center of Islamic scholarship and learning",
+    "Facilitated spread of Islam across West Africa",
+    "Created urban centers that preserved classical knowledge",
+    "Demonstrated African capacity for large-scale political organization"
+  ],
+  "sources": [
+    { "title": "Songhai Empire", "url": "https://en.wikipedia.org/wiki/Songhai_Empire", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["Songhay Empire", "West African Empire", "Niger River Empire"],
+  "related_events": [
+    { "id": "mali-empire", "title": "Mali Empire" },
+    { "id": "ghana-empire", "title": "Ghana Empire" },
+    { "id": "trans-saharan-trade", "title": "Trans-Saharan Trade Routes" }
+  ]
+}

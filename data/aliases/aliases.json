@@ -40,5 +40,7 @@
   "Black Tuesday": "great-depression",
   "Bolshevik Revolution": "russian-revolution",
   "October Revolution": "russian-revolution",
-  "1917 Revolution": "russian-revolution"
+  "1917 Revolution": "russian-revolution",
+  "War Between the States": "american-civil-war",
+  "Union vs Confederacy": "american-civil-war"
 }

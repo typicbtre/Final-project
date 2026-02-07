@@ -1,0 +1,44 @@
+{
+  "id": "fall-of-constantinople",
+  "title": "Fall of Constantinople (1453)",
+  "years": { "start": 1453, "end": 1453 },
+  "region": ["Europe", "Middle East", "Turkey"],
+  "key_facts": [
+    "Ottoman conquest of Byzantine capital ended the Byzantine Empire",
+    "Sultan Mehmed II's forces breached the massive Theodosian Walls",
+    "Marked the end of the Roman Empire's Eastern continuation",
+    "Led to Greek scholarly exodus to Western Europe, fueling the Renaissance"
+  ],
+  "causes": [
+    "Ottoman military superiority with cannons and gunpowder weapons",
+    "Byzantine Empire's long decline and territorial losses",
+    "Strategic importance of Constantinople as trade and cultural hub",
+    "Failure of Western European powers to provide effective aid"
+  ],
+  "outcome": [
+    "Constantinople renamed Istanbul and became Ottoman capital",
+    "End of the Byzantine Empire after nearly 1,100 years",
+    "Ottoman control over key trade routes between Europe and Asia",
+    "Mass migration of Greek intellectuals and scholars to Italy"
+  ],
+  "figures": [
+    { "name": "Mehmed II", "role": "Ottoman Sultan who conquered the city", "link": "https://en.wikipedia.org/wiki/Mehmed_II" },
+    { "name": "Constantine XI", "role": "Last Byzantine Emperor", "link": "https://en.wikipedia.org/wiki/Constantine_XI_Palaiologos" },
+    { "name": "Gennadius Scholarius", "role": "Last Byzantine Patriarch", "link": "https://en.wikipedia.org/wiki/Gennadius_Scholarius" }
+  ],
+  "impacts": [
+    "Ended the Byzantine Empire and Roman imperial continuity",
+    "Accelerated Ottoman expansion into Southeastern Europe",
+    "Catalyzed the Renaissance through Greek scholarly migration",
+    "Established Ottoman control over strategic Mediterranean trade routes"
+  ],
+  "sources": [
+    { "title": "Fall of Constantinople", "url": "https://en.wikipedia.org/wiki/Fall_of_Constantinople", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["Conquest of Constantinople", "1453 Siege", "Byzantine Empire Fall"],
+  "related_events": [
+    { "id": "crusades", "title": "The Crusades" },
+    { "id": "renaissance", "title": "The Renaissance" },
+    { "id": "ottoman-empire", "title": "Ottoman Empire" }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "hundred-days",
+  "title": "Hundred Days (1815)",
+  "years": { "start": 1815, "end": 1815 },
+  "region": ["Europe", "France", "Belgium", "Netherlands"],
+  "key_facts": [
+    "Napoleon’s final campaign after returning from exile",
+    "Rapid French offensive through Belgium and into the Netherlands",
+    "Decisive battles: Ligny, Quatre Bras, and Waterloo",
+    "Ended with Napoleon’s defeat, abdication, and second exile"
+  ],
+  "causes": [
+    "Napoleon’s return from Elba during the Congress of Vienna",
+    "Seventh Coalition’s determination to defeat Napoleon permanently",
+    "French exhaustion after years of war and coalition unity"
+  ],
+  "outcome": [
+    "Napoleon’s final defeat at Waterloo",
+    "Second Bourbon Restoration under Louis XVIII",
+    "Congress of Vienna settlement and European balance of power"
+  ],
+  "figures": [
+    { "name": "Napoleon Bonaparte", "role": "Emperor of the French; final campaign commander", "link": "https://en.wikipedia.org/wiki/Napoleon" },
+    { "name": "Arthur Wellesley, 1st Duke of Wellington", "role": "Allied commander at Waterloo", "link": "https://en.wikipedia.org/wiki/Arthur_Wellesley,_1st_Duke_of_Wellington" },
+    { "name": "Gebhard von Blücher", "role": "Prussian field marshal", "link": "https://en.wikipedia.org/wiki/Gebhard_Leberecht_von_Bl%C3%BCcher" }
+  ],
+  "impacts": [
+    "Ended the Napoleonic Wars and Napoleonic era",
+    "Redrew European map and confirmed conservative dominance",
+    "Set stage for the Concert of Europe and 19th‑century diplomacy"
+  ],
+  "sources": [
+    { "title": "Hundred Days", "url": "https://en.wikipedia.org/wiki/Hundred_Days", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["Waterloo Campaign", "Napoleon’s Return", "Seventh Coalition War"],
+  "parent": "napoleonic-wars"
+}

@@ -375,6 +375,93 @@
     "aliases": ["Third Roman–Carthaginian War"],
     "description": "Roman siege and destruction of Carthage; territory annexed as the province of Africa.",
     "tags": ["ancient", "Rome", "Carthage", "Africa"]
+  },
+  {
+    "id": "american-civil-war",
+    "title": "The American Civil War",
+    "years": { "start": 1861, "end": 1865 },
+    "aliases": ["Civil War", "War Between the States", "Union vs Confederacy"],
+    "description": "Fought between the Union and Confederacy over slavery and states' rights, resulting in the abolition of slavery and preservation of the United States.",
+    "tags": ["Civil War", "USA", "slavery", "Lincoln", "1860s", "Union", "Confederacy"]
+  },
+  {
+    "id": "spanish-civil-war",
+    "title": "Spanish Civil War (1936–1939)",
+    "years": { "start": 1936, "end": 1939 },
+    "aliases": ["Spanish War (1936-1939)", "Civil War in Spain", "Spanish Civil War"],
+    "description": "Conflict between Republican government and Nationalist rebels led by Francisco Franco; major ideological testing ground for WWII tactics and weapons with international involvement.",
+    "tags": ["Spain", "Europe", "civil war", "Franco", "1930s", "ideological conflict", "WWII precursor"]
+  },
+  {
+    "id": "world-war-i-western-front",
+    "title": "World War I — Western Front",
+    "years": { "start": 1914, "end": 1918 },
+    "aliases": ["WWI Western Front", "Western Theater WWI", "Trench Warfare Front"],
+    "description": "Main theater of WWI between Germany and Allied forces, characterized by trench warfare, stalemate, and massive casualties including major battles like Marne, Verdun, Somme, and Passchendaele.",
+    "tags": ["WWI", "Western Front", "trench warfare", "France", "Belgium", "Germany", "1910s"]
+  },
+  {
+    "id": "world-war-i-eastern-front",
+    "title": "World War I — Eastern Front",
+    "years": { "start": 1914, "end": 1918 },
+    "aliases": ["WWI Eastern Front", "Eastern Theater WWI", "Russian Front WWI"],
+    "description": "Theater of operations between Russia and Central Powers featuring more mobile warfare than Western Front, major battles including Tannenberg and Brusilov Offensive, ending with Russian collapse after 1917 revolutions.",
+    "tags": ["WWI", "Eastern Front", "Russia", "Germany", "Austria-Hungary", "1910s"]
+  },
+  {
+    "id": "treaty-of-versailles",
+    "title": "Treaty of Versailles",
+    "years": { "start": 1919, "end": 1919 },
+    "aliases": ["Versailles Treaty", "Paris Peace Conference 1919", "WWI Peace Treaty"],
+    "description": "Peace treaty that officially ended World War I, imposing harsh terms on Germany including war guilt clause and reparations, while creating the League of Nations as an international peacekeeping body.",
+    "tags": ["WWI", "peace treaty", "Germany", "League of Nations", "1919", "Versailles"]
+  },
+  {
+    "id": "fall-of-constantinople",
+    "title": "Fall of Constantinople (1453)",
+    "years": { "start": 1453, "end": 1453 },
+    "aliases": ["Conquest of Constantinople", "1453 Siege", "Byzantine Empire Fall"],
+    "description": "Ottoman conquest of Byzantine capital ended the Byzantine Empire after nearly 1,100 years, leading to Greek scholarly exodus to Western Europe and fueling the Renaissance.",
+    "tags": ["medieval", "Byzantine", "Ottoman", "1453", "Constantinople", "empire fall"]
+  },
+  {
+    "id": "crusades",
+    "title": "The Crusades (1095-1291)",
+    "years": { "start": 1095, "end": 1291 },
+    "aliases": ["Holy Wars", "Christian Crusades", "Medieval Crusades"],
+    "description": "Series of religious wars between Christians and Muslims over Holy Land, establishing temporary Christian kingdoms and increasing East-West cultural exchange despite religious conflict.",
+    "tags": ["medieval", "religion", "Middle East", "Europe", "holy war", "1095-1291"]
+  },
+  {
+    "id": "mughal-empire",
+    "title": "Mughal Empire (1526-1857)",
+    "years": { "start": 1526, "end": 1857 },
+    "aliases": ["Mogul Empire", "Timurid Renaissance", "Indo-Islamic Empire"],
+    "description": "Islamic imperial power that ruled most of Indian subcontinent, known for architectural marvels like the Taj Mahal and syncretic Indo-Islamic culture that influenced later Indian states.",
+    "tags": ["Asia", "India", "Islamic empire", "medieval", "early modern", "architecture"]
+  },
+  {
+    "id": "songhai-empire",
+    "title": "Songhai Empire (c. 1375-1591)",
+    "years": { "start": 1375, "end": 1591 },
+    "aliases": ["Songhay Empire", "West African Empire", "Niger River Empire"],
+    "description": "Largest and most powerful empire in West African history, controlling trans-Saharan trade routes and establishing centers of Islamic scholarship like Timbuktu and Gao.",
+    "tags": ["Africa", "West Africa", "Islamic empire", "medieval", "trade routes"]
+  },
+  {
+    "id": "aztec-empire",
+    "title": "Aztec Empire (c. 1428-1521)",
+    "years": { "start": 1428, "end": 1521 },
+    "aliases": ["Mexica Empire", "Triple Alliance", "Tenochca Empire"],
+    "description": "Dominant Mesoamerican empire at Spanish arrival, with capital Tenochtitlan among world's largest cities and complex society featuring advanced agriculture, mathematics, and astronomy.",
+    "tags": ["Americas", "Mesoamerica", "pre-columbian", "Mexico", "indigenous empire"]
+  },
+  {
+    "id": "inca-empire",
+    "title": "Inca Empire (c. 1438-1533)",
+    "years": { "start": 1438, "end": 1533 },
+    "aliases": ["Tawantinsuyu", "Incan Empire", "Four Regions Empire"],
+    "description": "Largest pre-columbian empire in Americas with sophisticated road network, agricultural terraces, and quipu knot system for record-keeping, conquered by Francisco Pizarro ending independent American civilization.",
+    "tags": ["Americas", "South America", "pre-columbian", "Peru", "indigenous empire"]
   }
 ]
-

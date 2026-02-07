@@ -1,0 +1,40 @@
+{
+  "id": "napoleonic-wars",
+  "title": "The Napoleonic Wars (1803–1815)",
+  "years": { "start": 1803, "end": 1815 },
+  "region": ["Europe", "Atlantic", "Mediterranean"],
+  "key_facts": [
+    "Series of global conflicts declared by the French Republic and later French Empire under Napoleon Bonaparte",
+    "Coalitions of European powers repeatedly formed against France; wars spanned from Iberia to Russia",
+    "Ended with Napoleon’s defeat at Waterloo and the Congress of Vienna (1814–15)"
+  ],
+  "causes": [
+    "French Revolutionary wars exported revolutionary ideals and military expansion across Europe",
+    "Napoleon’s ambition to dominate Europe and restructure continental order",
+    "Resistance of established monarchies to French hegemony and revolutionary reforms"
+  ],
+  "outcome": [
+    "Defeat and abdication of Napoleon; restoration of Bourbon monarchies",
+    "Redrawing of European map at the Congress of Vienna",
+    "Rise of nationalism, balance-of-power diplomacy, and conservative reaction"
+  ],
+  "figures": [
+    { "name": "Napoleon Bonaparte", "role": "Emperor of the French; architect of the wars", "link": "https://en.wikipedia.org/wiki/Napoleon" },
+    { "name": "Arthur Wellesley, 1st Duke of Wellington", "role": "British commander at Waterloo", "link": "https://en.wikipedia.org/wiki/Arthur_Wellesley,_1st_Duke_of_Wellington" },
+    { "name": "Klemens von Metternich", "role": "Austrian statesman; architect of the Congress of Vienna", "link": "https://en.wikipedia.org/wiki/Klemens_von_Metternich" }
+  ],
+  "impacts": [
+    "Spread of modern nationalism and concepts of citizen armies",
+    "Redefined European borders and state system for a century",
+    "Catalyzed the rise of modern conservatism and liberal reforms"
+  ],
+  "sources": [
+    { "title": "Napoleonic Wars", "url": "https://en.wikipedia.org/wiki/Napoleonic_Wars", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["Napoleonic Era", "Coalition Wars", "French Revolutionary Wars", "Napoleonic Era"],
+  "related_events": [
+    { "id": "french-revolution", "title": "French Revolution" },
+    { "id": "spanish-civil-war", "title": "Spanish Civil War" }
+  ],
+  "parts": ["war-of-the-third-coalition", "peninsular-war", "hundred-days"]
+}

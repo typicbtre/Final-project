@@ -1,0 +1,44 @@
+{
+  "id": "aztec-empire",
+  "title": "Aztec Empire (c. 1428-1521)",
+  "years": { "start": 1428, "end": 1521 },
+  "region": ["North America", "Mexico", "Central America"],
+  "key_facts": [
+    "Dominant Mesoamerican empire at Spanish arrival",
+    "Capital city Tenochtitlan was among world's largest cities",
+    "Complex society with advanced agriculture, mathematics, and astronomy",
+    "Conquered by Hernán Cortés with small force but native allies"
+  ],
+  "causes": [
+    "Military conquest and alliances with subject peoples",
+    "Control of valuable resources: obsidian, cacao, cotton",
+    "Religious and political ideology of divine rulership",
+    "Strategic location in Valley of Mexico"
+  ],
+  "outcome": [
+    "Fall of Tenochtitlan marked end of Aztec dominance",
+    "Spanish colonization and cultural destruction of indigenous knowledge",
+    "Massive population decline from disease and warfare",
+    "Founding of Mexico City on Aztec ruins"
+  ],
+  "figures": [
+    { "name": "Moctezuma II", "role": "Aztec emperor during Spanish conquest", "link": "https://en.wikipedia.org/wiki/Moctezuma_II" },
+    { "name": "Hernán Cortés", "role": "Spanish conquistador who defeated Aztecs", "link": "https://en.wikipedia.org/wiki/Hern%C3%A1n_Cort%C3%A9s" },
+    { "name": "Cuauhtémoc", "role": "Last Aztec emperor; led final resistance", "link": "https://en.wikipedia.org/wiki/Cuauht%C3%A9moc" }
+  ],
+  "impacts": [
+    "Ended independent Mesoamerican civilization development",
+    "Created Spanish colonial empire in the Americas",
+    "Massive cultural loss through destruction of codices and knowledge",
+    "Established racial and social hierarchies that lasted centuries"
+  ],
+  "sources": [
+    { "title": "Aztec Empire", "url": "https://en.wikipedia.org/wiki/Aztec_Empire", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["Mexica Empire", "Triple Alliance", "Tenochca Empire"],
+  "related_events": [
+    { "id": "inca-empire", "title": "Inca Empire" },
+    { "id": "maya-civilization", "title": "Maya Civilization" },
+    { "id": "spanish-colonization", "title": "Spanish Colonization of Americas" }
+  ]
+}

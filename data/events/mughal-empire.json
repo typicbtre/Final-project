@@ -1,0 +1,45 @@
+{
+  "id": "mughal-empire",
+  "title": "Mughal Empire (1526-1857)",
+  "years": { "start": 1526, "end": 1857 },
+  "region": ["South Asia", "India", "Pakistan", "Bangladesh"],
+  "key_facts": [
+    "Islamic imperial power that ruled most of Indian subcontinent",
+    "Known for architectural marvels: Taj Mahal, Red Fort, Fatehpur Sikri",
+    "Peak under Akbar, Jahangir, Shah Jahan, and Aurangzeb",
+    "Declined after Aurangzeb's religious intolerance and administrative overextension"
+  ],
+  "causes": [
+    "Babur's victory at Panipat established Mughal rule in India",
+    "Military superiority of Turco-Mongol cavalry and artillery",
+    "Administrative genius of Akbar's centralized bureaucracy",
+    "Control of lucrative trade routes and agricultural surplus"
+  ],
+  "outcome": [
+    "Gradual decline and fragmentation after 1707",
+    "British East India Company exploited Mughal weakness",
+    "Indian Rebellion of 1857 ended formal Mughal rule",
+    "Legacy of syncretic Indo-Islamic culture and architecture"
+  ],
+  "figures": [
+    { "name": "Babur", "role": "Founder of Mughal Empire", "link": "https://en.wikipedia.org/wiki/Babur" },
+    { "name": "Akbar", "role": "Greatest Mughal ruler; religious tolerance", "link": "https://en.wikipedia.org/wiki/Akbar" },
+    { "name": "Shah Jahan", "role": "Builder of Taj Mahal", "link": "https://en.wikipedia.org/wiki/Shah_Jahan" },
+    { "name": "Aurangzeb", "role": "Last great Mughal emperor; orthodox Islam", "link": "https://en.wikipedia.org/wiki/Aurangzeb" }
+  ],
+  "impacts": [
+    "Created unified Indo-Islamic culture and architectural heritage",
+    "Established centralized administration influencing later Indian states",
+    "Contributed to spread of Persian and Turkic culture in India",
+    "Left lasting impact on Indian art, music, literature, and cuisine"
+  ],
+  "sources": [
+    { "title": "Mughal Empire", "url": "https://en.wikipedia.org/wiki/Mughal_Empire", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["Mogul Empire", "Timurid Renaissance", "Indo-Islamic Empire"],
+  "related_events": [
+    { "id": "british-raj", "title": "British Raj" },
+    { "id": "maratha-empire", "title": "Maratha Empire" },
+    { "id": "sikh-empire", "title": "Sikh Empire" }
+  ]
+}

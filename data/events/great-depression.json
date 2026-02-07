@@ -62,6 +62,10 @@
     {
       "id": "world-war-ii",
       "title": "World War II"
+    },
+    {
+      "id": "treaty-of-versailles",
+      "title": "Treaty of Versailles"
     }
   ]
 }

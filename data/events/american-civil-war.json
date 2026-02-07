@@ -1,0 +1,64 @@
+{
+  "id": "american-civil-war",
+  "title": "The American Civil War",
+  "years": {
+    "start": 1861,
+    "end": 1865
+  },
+  "region": ["North America"],
+  "key_facts": [
+    "Fought between the Northern states (Union) and the Southern states (Confederacy).",
+    "The bloodiest conflict in American history.",
+    "Resulted in the abolition of slavery in the United States.",
+    "The Battle of Gettysburg was a turning point in the war."
+  ],
+  "causes": [
+    "Long-standing disagreement over the institution of slavery.",
+    "Debates over states' rights versus federal authority.",
+    "Economic differences between the industrial North and the agrarian South.",
+    "The election of Abraham Lincoln in 1860."
+  ],
+  "outcome": [
+    "Victory for the Union and preservation of the United States.",
+    "Abolition of slavery with the 13th Amendment.",
+    "Beginning of the Reconstruction era."
+  ],
+  "figures": [
+    {
+      "name": "Abraham Lincoln",
+      "role": "President of the United States",
+      "significance": "Led the Union during the war and issued the Emancipation Proclamation."
+    },
+    {
+      "name": "Ulysses S. Grant",
+      "role": "Commanding General of the Union Army",
+      "significance": "Led the Union Army to victory over the Confederacy."
+    },
+    {
+      "name": "Robert E. Lee",
+      "role": "General of the Confederate Army",
+      "significance": "Commanded the Army of Northern Virginia."
+    },
+    {
+      "name": "Jefferson Davis",
+      "role": "President of the Confederate States",
+      "significance": "Leader of the Confederacy during the war."
+    }
+  ],
+  "impacts": [
+    "Ended the institution of slavery in the United States.",
+    "Strengthened the power of the federal government.",
+    "Accelerated industrialization in the North.",
+    "Left deep social and political scars that influenced the Reconstruction era and beyond."
+  ],
+  "sources": [
+    "McPherson, J. M. (1988). Battle Cry of Freedom: The Civil War Era.",
+    "Library of Congress. (n.d.). The Civil War."
+  ],
+  "aliases": ["War Between the States","Union vs Confederacy"],
+  "related_events": [
+    {"id": "american-revolution","title": "The American Revolution"},
+    {"id": "industrial-revolution","title": "The Industrial Revolution"},
+    {"id": "spanish-civil-war","title": "Spanish Civil War"}
+  ]
+}

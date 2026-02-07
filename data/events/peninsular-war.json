@@ -1,0 +1,35 @@
+{
+  "id": "peninsular-war",
+  "title": "Peninsular War (1808–1814)",
+  "years": { "start": 1808, "end": 1814 },
+  "region": ["Iberia", "Spain"],
+  "key_facts": [
+    "Conflict between Napoleonic France and British/Portuguese/Spanish forces in the Iberian Peninsula",
+    "Guerilla warfare, sieges, and the Battle of Bailén",
+    "British intervention under Wellington; French defeat and eventual withdrawal from Spain"
+  ],
+  "causes": [
+    "French occupation of Spain and resistance to Napoleonic reforms",
+    "British strategic concern over French control of Iberia",
+    "Spanish popular uprisings and guerrilla tactics"
+  ],
+  "outcome": [
+    "French defeat and withdrawal from Spain",
+    "Restoration of Ferdinand VII",
+    "Weakened French position in Iberia"
+  ],
+  "figures": [
+    { "name": "Arthur Wellesley, 1st Duke of Wellington", "role": "British commander", "link": "https://en.wikipedia.org/wiki/Arthur_Wellesley,_1st_Duke_of_Wellington" },
+    { "name": "José de San Martín", "role": "Spanish guerrilla leader", "link": "https://en.wikipedia.org/wiki/Jos%C3%A9_de_San_Mart%C3%ADn" }
+  ],
+  "impacts": [
+    "Intensified Spanish resistance and nationalism",
+    "Contributed to eventual South American independence movements",
+    "Demonstrated limits of French power in Iberia"
+  ],
+  "sources": [
+    { "title": "Peninsular War", "url": "https://en.wikipedia.org/wiki/Peninsular_War", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["Spanish War of Independence", "War of Independence (Spain)"],
+  "parent": "napoleonic-wars"
+}

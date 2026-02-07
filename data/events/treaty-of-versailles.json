@@ -1,0 +1,44 @@
+{
+  "id": "treaty-of-versailles",
+  "title": "Treaty of Versailles",
+  "years": { "start": 1919, "end": 1919 },
+  "region": ["Europe", "France", "Germany"],
+  "key_facts": [
+    "Peace treaty that officially ended World War I",
+    "Signed on June 28, 1919, in the Hall of Mirrors at Versailles",
+    "Imposed harsh terms on Germany including war guilt clause and reparations",
+    "Created League of Nations as international peacekeeping body"
+  ],
+  "causes": [
+    "Allied desire for revenge and security against German aggression",
+    "Woodrow Wilson's Fourteen Points and idealistic vision for peace",
+    "French demands for security and compensation for war damages",
+    "British balancing act between punishment and stability"
+  ],
+  "outcome": [
+    "Germany accepted terms under protest but never ratified in spirit",
+    "Massive reparations burden crippled German economy",
+    "Redrew European map and created new nations from former empires",
+    "League of Nations established without US participation"
+  ],
+  "figures": [
+    { "name": "Woodrow Wilson", "role": "US President; architect of Fourteen Points", "link": "https://en.wikipedia.org/wiki/Woodrow_Wilson" },
+    { "name": "Georges Clemenceau", "role": "French Prime Minister; demanded harsh terms", "link": "https://en.wikipedia.org/wiki/Georges_Clemenceau" },
+    { "name": "David Lloyd George", "role": "British Prime Minister; moderate position", "link": "https://en.wikipedia.org/wiki/David_Lloyd_George" }
+  ],
+  "impacts": [
+    "Created economic and political conditions that led to World War II",
+    "Established principle of war crimes and international law",
+    "Redefined European borders and created new nation-states",
+    "Set precedent for international cooperation through League of Nations"
+  ],
+  "sources": [
+    { "title": "Treaty of Versailles", "url": "https://en.wikipedia.org/wiki/Treaty_of_Versailles", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["Versailles Treaty", "Paris Peace Conference 1919", "WWI Peace Treaty"],
+  "related_events": [
+    { "id": "world-war-i", "title": "World War I" },
+    { "id": "world-war-ii", "title": "World War II" },
+    { "id": "great-depression", "title": "The Great Depression" }
+  ]
+}

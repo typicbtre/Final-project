@@ -28,11 +28,11 @@
     "Codification of rights influencing modern constitutions"
   ],
   "sources": [
-    { "title": "French Revolution", "url": "https://en.wikipedia.org/wiki/French_Revolution", "publisher": "Wikipedia" },
-    { "title": "Q12554", "url": "https://www.wikidata.org/wiki/Q12554", "publisher": "Wikidata" }
+    { "title": "French Revolution", "url": "https://en.wikipedia.org/wiki/French_Revolution", "publisher": "Wikipedia" }
   ],
   "aliases": ["Revolution française", "1789 Revolution"],
   "related_events": [
-    { "id": "american-revolution", "title": "The American Revolution" }
+    { "id": "american-revolution", "title": "The American Revolution" },
+    { "id": "napoleonic-wars", "title": "Napoleonic Wars" }
   ]
 }

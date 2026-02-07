@@ -1,0 +1,35 @@
+{
+  "id": "war-of-the-third-coalition",
+  "title": "War of the Third Coalition (1798–1802)",
+  "years": { "start": 1798, "end": 1802 },
+  "region": ["Europe", "Central Europe", "Switzerland"],
+  "key_facts": [
+    "Second Coalition (Britain, Austria, Russia, Ottoman Empire) fought against France",
+    "French campaigns in Switzerland and Germany; included the Battle of Marengo (1800)",
+    "Ended with French victory and the Treaty of Amiens (1802) temporarily breaking coalitions"
+  ],
+  "causes": [
+    "French expansion under the Directory threatened neighboring monarchies",
+    "Resistance to French revolutionary ideals and territorial changes",
+    "Formation of shifting alliances against French dominance"
+  ],
+  "outcome": [
+    "French territorial gains and temporary peace",
+    "Coalitions reorganized for future wars against Napoleon",
+    "Set stage for Napoleonic Wars and rise of Napoleon as First Consul"
+  ],
+  "figures": [
+    { "name": "Napoleon Bonaparte", "role": "French general; victory at Marengo", "link": "https://en.wikipedia.org/wiki/Napoleon" },
+    { "name": "Paul I of Russia", "role": "Russian coalition leader", "link": "https://en.wikipedia.org/wiki/Paul_I_of_Russia" }
+  ],
+  "impacts": [
+    "Demonstrated French military innovation under Napoleon",
+    "Shifted European alliances and diplomatic patterns",
+    "Preceded full Napoleonic Wars period"
+  ],
+  "sources": [
+    { "title": "War of the Second Coalition", "url": "https://en.wikipedia.org/wiki/War_of_the_Second_Coalition", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["Third Coalition War"],
+  "parent": "napoleonic-wars"
+}

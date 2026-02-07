@@ -31,5 +31,8 @@
     { "title": "Chinese Civil War", "url": "https://en.wikipedia.org/wiki/Chinese_Civil_War", "publisher": "Wikipedia" }
   ],
   "aliases": ["Chinese Communist Revolution", "Chinese Civil War (Second Phase)", "CCP–KMT Civil War"],
-  "parent": "cold-war"
+  "related_events": [
+    { "id": "world-war-ii", "title": "World War II" },
+    { "id": "cold-war", "title": "The Cold War" }
+  ]
 }

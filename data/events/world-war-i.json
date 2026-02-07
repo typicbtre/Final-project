@@ -31,6 +31,7 @@
     { "title": "World War I", "url": "https://en.wikipedia.org/wiki/World_War_I", "publisher": "Wikipedia" }
   ],
   "aliases": ["WWI", "First World War", "Great War"],
+  "parts": ["world-war-i-western-front", "world-war-i-eastern-front", "treaty-of-versailles"],
   "related_events": [
     { "id": "world-war-ii", "title": "World War II" },
     { "id": "russian-revolution", "title": "The Russian Revolution" },

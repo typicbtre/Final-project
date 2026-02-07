@@ -1,0 +1,45 @@
+{
+  "id": "crusades",
+  "title": "The Crusades (1095-1291)",
+  "years": { "start": 1095, "end": 1291 },
+  "region": ["Middle East", "Europe", "North Africa"],
+  "key_facts": [
+    "Series of religious wars between Christians and Muslims over Holy Land",
+    "Multiple major crusades: First (1095-1099), Third (1189-1192), Fourth (1202-1204)",
+    "Established temporary Christian kingdoms in Jerusalem and surrounding areas",
+    "Led to increased East-West trade and cultural exchange despite religious conflict"
+  ],
+  "causes": [
+    "Papal calls to reclaim Jerusalem and holy sites from Muslim control",
+    "European knights seeking land, wealth, and religious salvation",
+    "Byzantine Empire's request for Western military aid against Seljuk Turks",
+    "Religious fervor and pilgrimage routes threatened by Muslim expansion"
+  ],
+  "outcome": [
+    "Ultimately failed to permanently secure Christian control of Holy Land",
+    "Established lasting religious tensions between Christianity and Islam",
+    "Increased European contact with Islamic science and culture",
+    "Weakened Byzantine Empire and contributed to its eventual fall"
+  ],
+  "figures": [
+    { "name": "Pope Urban II", "role": "Launched First Crusade at Council of Clermont", "link": "https://en.wikipedia.org/wiki/Pope_Urban_II" },
+    { "name": "Saladin", "role": "Muslim sultan who recaptured Jerusalem", "link": "https://en.wikipedia.org/wiki/Saladin" },
+    { "name": "Richard the Lionheart", "role": "English king in Third Crusade", "link": "https://en.wikipedia.org/wiki/Richard_I_of_England" }
+  ],
+  "impacts": [
+    "Increased religious intolerance and persecution in Europe",
+    "Stimulated European trade and banking systems for crusade financing",
+    "Contributed to the Renaissance through rediscovery of classical knowledge",
+    "Created lasting legacy of Christian-Muslim conflict in Middle East"
+  ],
+  "sources": [
+    { "title": "Crusades", "url": "https://en.wikipedia.org/wiki/Crusades", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["Holy Wars", "Christian Crusades", "Medieval Crusades"],
+  "parts": ["first-crusade", "third-crusade", "fourth-crusade"],
+  "related_events": [
+    { "id": "fall-of-constantinople", "title": "Fall of Constantinople" },
+    { "id": "renaissance", "title": "The Renaissance" },
+    { "id": "byzantine-empire", "title": "Byzantine Empire" }
+  ]
+}

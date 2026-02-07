@@ -1,0 +1,43 @@
+{
+  "id": "spanish-civil-war",
+  "title": "Spanish Civil War (1936–1939)",
+  "years": { "start": 1936, "end": 1939 },
+  "region": ["Spain", "Europe"],
+  "key_facts": [
+    "Conflict between Republican government and Nationalist rebels led by Francisco Franco",
+    "Major ideological testing ground for WWII tactics and weapons",
+    "International involvement: Germany/Italy supported Nationalists, USSR/International Brigades supported Republicans",
+    "Approximately 500,000 deaths; massive displacement and cultural destruction"
+  ],
+  "causes": [
+    "Political polarization between left-wing Republicans and right-wing Nationalists",
+    "Economic instability and social reforms under the Second Spanish Republic",
+    "Military dissatisfaction with Republican reforms and civilian control",
+    "Failure of democratic institutions to resolve political conflicts"
+  ],
+  "outcome": [
+    "Nationalist victory and establishment of Francoist dictatorship",
+    "Spain remained neutral in WWII but aligned with Axis sympathies",
+    "Long-term political repression and exile of Republican supporters",
+    "Cultural and intellectual diaspora that influenced global politics"
+  ],
+  "figures": [
+    { "name": "Francisco Franco", "role": "Nationalist leader and later dictator of Spain", "link": "https://en.wikipedia.org/wiki/Francisco_Franco" },
+    { "name": "Juan Negrín", "role": "Republican prime minister", "link": "https://en.wikipedia.org/wiki/Juan_Negr%C3%ADn" },
+    { "name": "Dolores Ibárruri", "role": "Republican political leader 'La Pasionaria'", "link": "https://en.wikipedia.org/wiki/Dolores_Ib%C3%A1rruri" }
+  ],
+  "impacts": [
+    "Preceded and influenced WWII tactics and ideological conflicts",
+    "Created massive refugee crisis and cultural diaspora",
+    "Established authoritarian regime that lasted until 1975",
+    "Became symbol of anti-fascist resistance and ideological struggle"
+  ],
+  "sources": [
+    { "title": "Spanish Civil War", "url": "https://en.wikipedia.org/wiki/Spanish_Civil_War", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["Spanish War (1936-1939)", "Civil War in Spain"],
+  "related_events": [
+    { "id": "world-war-ii", "title": "World War II" },
+    { "id": "cold-war", "title": "The Cold War" }
+    ]
+}

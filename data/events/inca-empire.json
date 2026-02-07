@@ -1,0 +1,44 @@
+{
+  "id": "inca-empire",
+  "title": "Inca Empire (c. 1438-1533)",
+  "years": { "start": 1438, "end": 1533 },
+  "region": ["South America", "Peru", "Ecuador", "Bolivia", "Chile"],
+  "key_facts": [
+    "Largest pre-Columbian empire in Americas",
+    "Sophisticated road network and agricultural terraces",
+    "No written language; used quipu knot system for record-keeping",
+    "Conquered by Francisco Pizarro with tiny force against vast empire"
+  ],
+  "causes": [
+    "Military conquest and administrative integration",
+    "Control of diverse ecological zones and resources",
+    "Centralized bureaucracy with imperial cult",
+    "Advanced agricultural production supporting large population"
+  ],
+  "outcome": [
+    "Fall of Cusco ended Inca imperial rule",
+    "Spanish colonization and forced labor systems",
+    "Devastating population loss from disease and violence",
+    "Destruction of indigenous knowledge and cultural practices"
+  ],
+  "figures": [
+    { "name": "Pachacuti", "role": "Empire builder and reorganizer", "link": "https://en.wikipedia.org/wiki/Pachacuti" },
+    { "name": "Atahualpa", "role": "Last Inca emperor; captured by Pizarro", "link": "https://en.wikipedia.org/wiki/Atahualpa" },
+    { "name": "Francisco Pizarro", "role": "Spanish conquistador", "link": "https://en.wikipedia.org/wiki/Francisco_Pizarro" }
+  ],
+  "impacts": [
+    "Ended independent American civilization development",
+    "Created Spanish colonial empire in South America",
+    "Massive cultural genocide and knowledge destruction",
+    "Established mining economies that still affect region today"
+  ],
+  "sources": [
+    { "title": "Inca Empire", "url": "https://en.wikipedia.org/wiki/Inca_Empire", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["Tawantinsuyu", "Incan Empire", "Four Regions Empire"],
+  "related_events": [
+    { "id": "aztec-empire", "title": "Aztec Empire" },
+    { "id": "maya-civilization", "title": "Maya Civilization" },
+    { "id": "spanish-colonization", "title": "Spanish Colonization of Americas" }
+  ]
+}

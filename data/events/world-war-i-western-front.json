@@ -1,0 +1,37 @@
+{
+  "id": "world-war-i-western-front",
+  "title": "World War I — Western Front",
+  "years": { "start": 1914, "end": 1918 },
+  "region": ["Western Europe", "France", "Belgium", "Germany"],
+  "key_facts": [
+    "Main theater of WWI between Germany and Allied forces",
+    "Characterized by trench warfare, stalemate, and massive casualties",
+    "Major battles: Marne (1914), Verdun (1916), Somme (1916), Passchendaele (1917)",
+    "Involved British, French, Belgian, and later American forces against Germany"
+  ],
+  "causes": [
+    "German Schlieffen Plan aimed at quick victory through Belgium",
+    "Allied resistance and rapid mobilization prevented German breakthrough",
+    "Industrial-scale weaponry led to defensive dominance and trench systems"
+  ],
+  "outcome": [
+    "Eventual Allied breakthrough in 1918 after German Spring Offensive failed",
+    "German withdrawal and armistice on November 11, 1918",
+    "Massive human cost: millions killed and wounded across all nations"
+  ],
+  "figures": [
+    { "name": "John French", "role": "British Expeditionary Force commander", "link": "https://en.wikipedia.org/wiki/John_French,_1st_Earl_of_Ypres" },
+    { "name": "Joseph Joffre", "role": "French commander-in-chief", "link": "https://en.wikipedia.org/wiki/Joseph_Joffre" },
+    { "name": "Erich von Falkenhayn", "role": "German chief of staff", "link": "https://en.wikipedia.org/wiki/Erich_von_Falkenhayn" }
+  ],
+  "impacts": [
+    "Defined modern warfare with trenches, barbed wire, and machine guns",
+    "Led to massive social and political changes in participating nations",
+    "Created the 'Lost Generation' and profound cultural impact"
+  ],
+  "sources": [
+    { "title": "Western Front (World War I)", "url": "https://en.wikipedia.org/wiki/Western_Front_(World_War_I)", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["WWI Western Front", "Western Theater WWI", "Trench Warfare Front"],
+  "parent": "world-war-i"
+}

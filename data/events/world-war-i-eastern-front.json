@@ -1,0 +1,39 @@
+{
+  "id": "world-war-i-eastern-front",
+  "title": "World War I — Eastern Front",
+  "years": { "start": 1914, "end": 1918 },
+  "region": ["Eastern Europe", "Russia", "Germany", "Austria-Hungary"],
+  "key_facts": [
+    "Theater of operations between Russia and Central Powers",
+    "More mobile warfare than Western Front but equally devastating",
+    "Major battles: Tannenberg (1914), Gorlice-Tarnów (1915), Brusilov Offensive (1916)",
+    "Russian collapse and withdrawal after 1917 revolutions"
+  ],
+  "causes": [
+    "Russian alliance with Serbia against Austro-Hungarian expansion",
+    "German and Austro-Hungarian desire to eliminate Russian threat",
+    "Russian industrial and military backwardness vs German efficiency"
+  ],
+  "outcome": [
+    "Russian military collapse and withdrawal from war after 1917",
+    "German victory but at massive cost to both sides",
+    "Enabled Germany to focus forces on Western Front in 1918",
+    "Led to Russian Revolution and establishment of Soviet Union"
+  ],
+  "figures": [
+    { "name": "Grand Duke Nicholas", "role": "Russian commander-in-chief", "link": "https://en.wikipedia.org/wiki/Grand_Duke_Nicholas_Nikolaevich_of_Russia_(1856%E2%80%931929)" },
+    { "name": "Paul von Hindenburg", "role": "German commander", "link": "https://en.wikipedia.org/wiki/Paul_von_Hindenburg" },
+    { "name": "Erich Ludendorff", "role": "German quartermaster general", "link": "https://en.wikipedia.org/wiki/Erich_Ludendorff" }
+  ],
+  "impacts": [
+    "Catalyzed Russian Revolution and collapse of Tsarist regime",
+    "Demonstrated limitations of Russian military and industrial capacity",
+    "Contributed to eventual German defeat through overextension",
+    "Redrew Eastern European borders and created new nations"
+  ],
+  "sources": [
+    { "title": "Eastern Front (World War I)", "url": "https://en.wikipedia.org/wiki/Eastern_Front_(World_War_I)", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["WWI Eastern Front", "Eastern Theater WWI", "Russian Front WWI"],
+  "parent": "world-war-i"
+}

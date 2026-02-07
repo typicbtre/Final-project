@@ -36,6 +36,8 @@
   "related_events": [
     { "id": "world-war-i", "title": "World War I" },
     { "id": "great-depression", "title": "The Great Depression" },
-    { "id": "cold-war", "title": "The Cold War" }
+    { "id": "cold-war", "title": "The Cold War" },
+    { "id": "spanish-civil-war", "title": "Spanish Civil War" },
+    { "id": "treaty-of-versailles", "title": "Treaty of Versailles" }
   ]
 }
