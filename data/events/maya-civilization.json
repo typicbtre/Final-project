@@ -1,0 +1,43 @@
+{
+  "id": "maya-civilization",
+  "title": "Maya Civilization (c. 2000 BCE-1500 CE)",
+  "years": { "start": -2000, "end": 1500 },
+  "region": ["Central America", "Mexico", "Guatemala", "Belize", "Honduras", "El Salvador"],
+  "key_facts": [
+    "Advanced Mesoamerican civilization with writing, mathematics, and astronomy",
+    "City-states with monumental architecture: pyramids, palaces, ballcourts",
+    "Complex calendar system more accurate than European calendars",
+    "Mysterious collapse around 900 CE, leaving cities abandoned"
+  ],
+  "causes": [
+    "Agricultural surplus supporting specialized labor and elite class",
+    "Trade networks connecting highlands and lowlands for resources",
+    "Religious and political organization supporting large-scale construction",
+    "Environmental pressures and possible climate change affecting agriculture"
+  ],
+  "outcome": [
+    "Classical period collapse and abandonment of major cities",
+    "Survival of Maya peoples in smaller communities",
+    "Preservation of cultural knowledge despite Spanish conquest",
+    "Integration into Spanish colonial system with some autonomy"
+  ],
+  "figures": [
+    { "name": "Pakal", "role": "Great king of Palenque", "link": "https://en.wikipedia.org/wiki/Pakal" },
+    { "name": "Lady Six Sky", "role": "Queen of Naranjo", "link": "https://en.wikipedia.org/wiki/Lady_Six_Sky" },
+    { "name": "K'inich Janaab' Pakal", "role": "King who commissioned many monuments", "link": "https://en.wikipedia.org/wiki/K%27inich_Janaab%27_Pakal" }
+  ],
+  "impacts": [
+    "Developed concept of zero and advanced mathematics",
+    "Created accurate astronomical observations and calendars",
+    "Influenced later Mesoamerican cultures including Aztecs",
+    "Left monumental architecture still studied today"
+  ],
+  "sources": [
+    { "title": "Maya Civilization", "url": "https://en.wikipedia.org/wiki/Maya_civilization", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["Mayan Culture", "Mesoamerican Civilization", "Classic Maya"],
+  "related_events": [
+    { "id": "aztec-empire", "title": "Aztec Empire" },
+    { "id": "inca-empire", "title": "Inca Empire" }
+  ]
+}

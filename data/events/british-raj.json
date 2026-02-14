@@ -1,0 +1,45 @@
+{
+  "id": "british-raj",
+  "title": "British Raj (1858-1947)",
+  "years": { "start": 1858, "end": 1947 },
+  "region": ["South Asia", "India", "Pakistan", "Bangladesh", "Myanmar"],
+  "key_facts": [
+    "British colonial rule over Indian subcontinent",
+    "Crown rule after 1858 Government of India Act",
+    "Included present-day India, Pakistan, Bangladesh, Myanmar",
+    "World's largest colonial administration with 300+ million subjects"
+  ],
+  "causes": [
+    "British East India Company's expansion and military victories",
+    "Decline of Mughal and Maratha power creating vacuum",
+    "Strategic importance of Indian resources and markets",
+    "British imperial ambitions and 'civilizing mission'"
+  ],
+  "outcome": [
+    "Partition of India into Hindu and Muslim nations",
+    "Independence and creation of India and Pakistan",
+    "Mass migration and violence during partition",
+    "Established English language and legal systems in region"
+  ],
+  "figures": [
+    { "name": "Lord Curzon", "role": "Viceroy who partitioned Bengal", "link": "https://en.wikipedia.org/wiki/George_Curzon,_1st_Marquess_Curzon_of_Kedleston" },
+    { "name": "Mahatma Gandhi", "role": "Independence movement leader", "link": "https://en.wikipedia.org/wiki/Mahatma_Gandhi" },
+    { "name": "Muhammad Ali Jinnah", "role": "Founder of Pakistan", "link": "https://en.wikipedia.org/wiki/Muhammad_Ali_Jinnah" },
+    { "name": "Lord Mountbatten", "role": "Last Viceroy who oversaw partition", "link": "https://en.wikipedia.org/wiki/Louis_Mountbatten,_1st_Earl_Mountbatten_of_Burma" }
+  ],
+  "impacts": [
+    "Created modern nation-states of India and Pakistan",
+    "Established parliamentary democracy in India",
+    "Left legacy of English language and legal systems",
+    "Caused massive displacement and trauma from partition violence"
+  ],
+  "sources": [
+    { "title": "British Raj", "url": "https://en.wikipedia.org/wiki/British_Raj", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["British India", "Company Raj", "Crown Rule India"],
+  "related_events": [
+    { "id": "mughal-empire", "title": "Mughal Empire" },
+    { "id": "maratha-empire", "title": "Maratha Empire" },
+    { "id": "sikh-empire", "title": "Sikh Empire" }
+  ]
+}

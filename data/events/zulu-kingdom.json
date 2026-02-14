@@ -1,0 +1,43 @@
+{
+  "id": "zulu-kingdom",
+  "title": "Zulu Kingdom (c. 1816-1897)",
+  "years": { "start": 1816, "end": 1897 },
+  "region": ["Southern Africa", "South Africa", "Zimbabwe"],
+  "key_facts": [
+    "Powerful African kingdom founded by Shaka Zulu",
+    "Known for military innovation and short stabbing spear (iklwa)",
+    "Defeated British at Battle of Isandlwana (1879)",
+    "Eventually conquered by British superior firearms"
+  ],
+  "causes": [
+    "Shaka's military reforms and conquest strategies",
+    "Control of fertile coastal regions",
+    "Military organization and age-set regiments",
+    "Population pressure and competition for resources"
+  ],
+  "outcome": [
+    "Zulu victory at Isandlwana shocked British Empire",
+    "Eventually defeated in Anglo-Zulu War (1879)",
+    "Incorporated into British South Africa",
+    "Legacy of African resistance and cultural pride"
+  ],
+  "figures": [
+    { "name": "Shaka Zulu", "role": "Founder and military innovator", "link": "https://en.wikipedia.org/wiki/Shaka_Zulu" },
+    { "name": "Cetshwayo", "role": "King who defeated British at Isandlwana", "link": "https://en.wikipedia.org/wiki/Cetshwayo" },
+    { "name": "Dingiswayo", "role": "Last independent Zulu king", "link": "https://en.wikipedia.org/wiki/Dingiswayo" }
+  ],
+  "impacts": [
+    "Demonstrated African military innovation",
+    "Delayed British expansion in southern Africa",
+    "Preserved Zulu culture and identity",
+    "Influenced anti-colonial resistance movements"
+  ],
+  "sources": [
+    { "title": "Zulu Kingdom", "url": "https://en.wikipedia.org/wiki/Zulu_Kingdom", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["Zulu Empire", "Nguni Kingdom", "KwaZulu"],
+  "related_events": [
+    { "id": "british-raj", "title": "British Raj" },
+    { "id": "scramble-for-africa", "title": "Scramble for Africa" }
+  ]
+}

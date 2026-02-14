@@ -463,5 +463,93 @@
     "aliases": ["Tawantinsuyu", "Incan Empire", "Four Regions Empire"],
     "description": "Largest pre-columbian empire in Americas with sophisticated road network, agricultural terraces, and quipu knot system for record-keeping, conquered by Francisco Pizarro ending independent American civilization.",
     "tags": ["Americas", "South America", "pre-columbian", "Peru", "indigenous empire"]
+  },
+  {
+    "id": "maya-civilization",
+    "title": "Maya Civilization (c. 2000 BCE-1500 CE)",
+    "years": { "start": -2000, "end": 1500 },
+    "aliases": ["Mayan Culture", "Mesoamerican Civilization", "Classic Maya"],
+    "description": "Advanced Mesoamerican civilization with writing, mathematics, and astronomy, featuring city-states with monumental architecture and complex calendar system that mysteriously collapsed around 900 CE.",
+    "tags": ["Americas", "Mesoamerica", "pre-columbian", "Mexico", "civilization"]
+  },
+  {
+    "id": "maratha-empire",
+    "title": "Maratha Empire (1674-1818)",
+    "years": { "start": 1674, "end": 1818 },
+    "aliases": ["Maratha Confederacy", "Hindu Empire", "Western Indian Empire"],
+    "description": "Hindu warrior confederacy that challenged Mughal rule, controlling large parts of Indian subcontinent for 150 years with military innovation and establishing Pune as capital center.",
+    "tags": ["Asia", "India", "Hindu", "empire", "1674-1818"]
+  },
+  {
+    "id": "sikh-empire",
+    "title": "Sikh Empire (1799-1849)",
+    "years": { "start": 1799, "end": 1849 },
+    "aliases": ["Sikh Confederacy", "Punjab Empire", "Khalsa Raj"],
+    "description": "Religious empire founded by Guru Nanak, peaking under Maharaja Ranjit Singh controlling Punjab region with military organization challenging both Mughals and Afghans before British annexation.",
+    "tags": ["Asia", "India", "Sikhism", "empire", "1799-1849"]
+  },
+  {
+    "id": "british-raj",
+    "title": "British Raj (1858-1947)",
+    "years": { "start": 1858, "end": 1947 },
+    "aliases": ["British India", "Company Raj", "Crown Rule India"],
+    "description": "British colonial rule over Indian subcontinent including present-day India, Pakistan, Bangladesh, Myanmar, ending with partition creating modern nation-states and massive displacement.",
+    "tags": ["Asia", "India", "colonialism", "British Empire", "1858-1947"]
+  },
+  {
+    "id": "ghana-empire",
+    "title": "Ghana Empire (c. 300-1200 CE)",
+    "years": { "start": 300, "end": 1200 },
+    "aliases": ["Wagadu Empire", "Gold Coast Empire", "Ancient Ghana"],
+    "description": "First major West African empire south of Sahara, controlling trans-Saharan gold and salt trade routes with capital at Kumbi Saleh and influencing later empires.",
+    "tags": ["Africa", "West Africa", "empire", "trade", "300-1200"]
+  },
+  {
+    "id": "mali-empire",
+    "title": "Mali Empire (c. 1235-1600)",
+    "years": { "start": 1235, "end": 1600 },
+    "aliases": ["Manding Empire", "Manden Empire", "West African Islamic Empire"],
+    "description": "Wealthiest African empire known for Mansa Musa's pilgrimage and gold distribution, controlling trans-Saharan trade routes with Timbuktu as Islamic learning center.",
+    "tags": ["Africa", "West Africa", "Islamic empire", "trade", "1235-1600"]
+  },
+  {
+    "id": "ethiopian-empire",
+    "title": "Ethiopian Empire (c. 1137-1974)",
+    "years": { "start": 1137, "end": 1974 },
+    "aliases": ["Abyssinia", "Habesha Kingdom", "Ethiopian Kingdom"],
+    "description": "One of oldest Christian kingdoms in Africa, successfully resisting European colonization and defeating Italians at Battle of Adwa, maintaining independence through colonial period.",
+    "tags": ["Africa", "East Africa", "Christian", "independence", "1137-1974"]
+  },
+  {
+    "id": "zulu-kingdom",
+    "title": "Zulu Kingdom (c. 1816-1897)",
+    "years": { "start": 1816, "end": 1897 },
+    "aliases": ["Zulu Empire", "Nguni Kingdom", "KwaZulu"],
+    "description": "Powerful African kingdom founded by Shaka Zulu with military innovation, defeating British at Battle of Isandlwana before eventual conquest and incorporation into British South Africa.",
+    "tags": ["Africa", "Southern Africa", "Zulu", "military", "1816-1897"]
+  },
+  {
+    "id": "ottoman-empire",
+    "title": "Ottoman Empire (c. 1299-1922)",
+    "years": { "start": 1299, "end": 1922 },
+    "aliases": ["Turkish Empire", "Sublime Porte", "Osmanli Dynasty"],
+    "description": "Longest-lasting Islamic empire spanning three continents, capturing Constantinople in 1453 and controlling trade routes between Europe and Asia with diverse religious populations.",
+    "tags": ["Middle East", "Europe", "Islamic empire", "Ottoman", "1299-1922"]
+  },
+  {
+    "id": "byzantine-empire",
+    "title": "Byzantine Empire (330-1453)",
+    "years": { "start": 330, "end": 1453 },
+    "aliases": ["Eastern Roman Empire", "Greek Empire", "Constantinople Empire"],
+    "description": "Eastern Roman Empire continuation after Rome's fall, Christian Orthodox empire preserving classical knowledge with Constantinople as largest European city for centuries.",
+    "tags": ["Europe", "Middle East", "Christian", "Roman", "330-1453"]
+  },
+  {
+    "id": "trans-saharan-trade",
+    "title": "Trans-Saharan Trade Routes (c. 500-1500 CE)",
+    "years": { "start": 500, "end": 1500 },
+    "aliases": ["Saharan Trade Routes", "Desert Caravan Trade", "Gold-Salt Trade"],
+    "description": "Vast network of trade routes crossing Sahara Desert connecting Mediterranean world with sub-Saharan Africa, facilitating gold-salt trade and spread of Islam while creating economic foundation for West African empires.",
+    "tags": ["Africa", "trade", "Sahara", "Islamic", "500-1500"]
   }
 ]

@@ -1,0 +1,43 @@
+{
+  "id": "ghana-empire",
+  "title": "Ghana Empire (c. 300-1200 CE)",
+  "years": { "start": 300, "end": 1200 },
+  "region": ["West Africa", "Mauritania", "Mali", "Senegal"],
+  "key_facts": [
+    "First major West African empire south of Sahara",
+    "Wealth from gold and salt trade across Sahara",
+    "Capital at Kumbi Saleh, major trading center",
+    "Influenced development of later Mali and Songhai empires"
+  ],
+  "causes": [
+    "Control of trans-Saharan gold trade routes",
+    "Agricultural surplus supporting urban population",
+    "Military organization with cavalry and iron weapons",
+    "Strategic location between gold fields and desert"
+  ],
+  "outcome": [
+    "Declined due to environmental changes and competition",
+    "Absorbed by Mali Empire around 1200 CE",
+    "Legacy of gold trade and Islamic scholarship",
+    "Influenced later West African political organization"
+  ],
+  "figures": [
+    { "name": "Tunka Manin", "role": "Legendary founder figure", "link": "https://en.wikipedia.org/wiki/Ghana_Empire" },
+    { "name": "Bassi", "role": "Known ruler who expanded empire", "link": "https://en.wikipedia.org/wiki/Ghana_Empire" }
+  ],
+  "impacts": [
+    "Established trans-Saharan trade patterns",
+    "Spread Islam throughout West Africa",
+    "Created urban centers of learning and commerce",
+    "Influenced later African empires and kingdoms"
+  ],
+  "sources": [
+    { "title": "Ghana Empire", "url": "https://en.wikipedia.org/wiki/Ghana_Empire", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["Wagadu Empire", "Gold Coast Empire", "Ancient Ghana"],
+  "related_events": [
+    { "id": "mali-empire", "title": "Mali Empire" },
+    { "id": "songhai-empire", "title": "Songhai Empire" },
+    { "id": "trans-saharan-trade", "title": "Trans-Saharan Trade Routes" }
+  ]
+}

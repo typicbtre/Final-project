@@ -1,0 +1,45 @@
+{
+  "id": "ottoman-empire",
+  "title": "Ottoman Empire (c. 1299-1922)",
+  "years": { "start": 1299, "end": 1922 },
+  "region": ["Middle East", "Europe", "North Africa", "Turkey", "Balkans"],
+  "key_facts": [
+    "Longest-lasting Islamic empire spanning three continents",
+    "Captured Constantinople in 1453 ending Byzantine Empire",
+    "Controlled trade routes between Europe and Asia",
+    "Multicultural empire with diverse religious populations"
+  ],
+  "causes": [
+    "Turkic migration and military organization under Osman I",
+    "Decline of Byzantine Empire creating power vacuum",
+    "Strategic location between Europe, Asia, and Africa",
+    "Military innovation with gunpowder and siege tactics"
+  ],
+  "outcome": [
+    "Gradual decline from 17th century onward",
+    "Defeated in World War I after siding with Central Powers",
+    "Turkish Republic established after 1922",
+    "Legacy of Islamic architecture and legal systems"
+  ],
+  "figures": [
+    { "name": "Osman I", "role": "Founder of Ottoman dynasty", "link": "https://en.wikipedia.org/wiki/Osman_I" },
+    { "name": "Suleiman the Magnificent", "role": "Greatest sultan; expanded to peak", "link": "https://en.wikipedia.org/wiki/Suleiman_the_Magnificent" },
+    { "name": "Mehmed II", "role": "Conqueror of Constantinople", "link": "https://en.wikipedia.org/wiki/Mehmed_II" }
+  ],
+  "impacts": [
+    "Ended Byzantine Empire and Roman imperial continuity",
+    "Controlled key trade routes for centuries",
+    "Spread Islam throughout Southeastern Europe",
+    "Created lasting cultural and architectural legacy"
+  ],
+  "sources": [
+    { "title": "Ottoman Empire", "url": "https://en.wikipedia.org/wiki/Ottoman_Empire", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["Turkish Empire", "Sublime Porte", "Osmanli Dynasty"],
+  "related_events": [
+    { "id": "fall-of-constantinople", "title": "Fall of Constantinople" },
+    { "id": "byzantine-empire", "title": "Byzantine Empire" },
+    { "id": "crusades", "title": "The Crusades" },
+    { "id": "world-war-i", "title": "World War I" }
+  ]
+}

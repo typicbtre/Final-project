@@ -38,7 +38,6 @@
   "aliases": ["Mexica Empire", "Triple Alliance", "Tenochca Empire"],
   "related_events": [
     { "id": "inca-empire", "title": "Inca Empire" },
-    { "id": "maya-civilization", "title": "Maya Civilization" },
-    { "id": "spanish-colonization", "title": "Spanish Colonization of Americas" }
+    { "id": "maya-civilization", "title": "Maya Civilization" }
   ]
 }

@@ -38,7 +38,6 @@
   "aliases": ["Tawantinsuyu", "Incan Empire", "Four Regions Empire"],
   "related_events": [
     { "id": "aztec-empire", "title": "Aztec Empire" },
-    { "id": "maya-civilization", "title": "Maya Civilization" },
-    { "id": "spanish-colonization", "title": "Spanish Colonization of Americas" }
+    { "id": "maya-civilization", "title": "Maya Civilization" }
   ]
 }

@@ -1,0 +1,45 @@
+{
+  "id": "maratha-empire",
+  "title": "Maratha Empire (1674-1818)",
+  "years": { "start": 1674, "end": 1818 },
+  "region": ["South Asia", "India", "Pakistan", "Maharashtra"],
+  "key_facts": [
+    "Hindu warrior confederacy that challenged Mughal rule",
+    "Controlled large parts of Indian subcontinent for 150 years",
+    "Known for military innovation and guerrilla warfare tactics",
+    "Established Pune as capital center of power and culture"
+  ],
+  "causes": [
+    "Mughal Empire's decline after Aurangzeb's death",
+    "Shivaji's establishment of independent Hindu kingdom",
+    "Maratha military organization and light cavalry tactics",
+    "Support from various Indian kingdoms opposing Mughal authority"
+  ],
+  "outcome": [
+    "Eventually defeated by British East India Company",
+    "Third Anglo-Maratha War ended formal Maratha power",
+    "Left legacy of Hindu resistance and regional identity",
+    "Contributed to Indian independence movement centuries later"
+  ],
+  "figures": [
+    { "name": "Shivaji", "role": "Founder of Maratha Empire", "link": "https://en.wikipedia.org/wiki/Shivaji" },
+    { "name": "Bajirao I", "role": "First powerful Maratha ruler", "link": "https://en.wikipedia.org/wiki/Bajirao_I" },
+    { "name": "Madhavrao Peshwa", "role": "Prime minister under Bajirao", "link": "https://en.wikipedia.org/wiki/Madhavrao_Peshwa" },
+    { "name": "Nana Fadnavis", "role": "Key military commander", "link": "https://en.wikipedia.org/wiki/Nana_Fadnavis" }
+  ],
+  "impacts": [
+    "Weakened Mughal Empire permanently",
+    "Established Hindu military traditions in Indian warfare",
+    "Created regional power centers that influenced Indian politics",
+    "Contributed to rise of Indian nationalism against British rule"
+  ],
+  "sources": [
+    { "title": "Maratha Empire", "url": "https://en.wikipedia.org/wiki/Maratha_Empire", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["Maratha Confederacy", "Hindu Empire", "Western Indian Empire"],
+  "related_events": [
+    { "id": "mughal-empire", "title": "Mughal Empire" },
+    { "id": "british-raj", "title": "British Raj" },
+    { "id": "sikh-empire", "title": "Sikh Empire" }
+  ]
+}

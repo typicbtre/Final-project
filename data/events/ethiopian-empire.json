@@ -1,0 +1,42 @@
+{
+  "id": "ethiopian-empire",
+  "title": "Ethiopian Empire (c. 1137-1974)",
+  "years": { "start": 1137, "end": 1974 },
+  "region": ["East Africa", "Ethiopia", "Eritrea", "Djibouti"],
+  "key_facts": [
+    "One of oldest Christian kingdoms in Africa",
+    "Successfully resisted European colonization except Italian occupation",
+    "Defeated Italians at Battle of Adwa (1896)",
+    "Only African nation to defeat European colonial power in battle"
+  ],
+  "causes": [
+    "Zagwe dynasty's establishment of Christian kingdom",
+    "Control of highlands and trade routes",
+    "Military organization and unique terrain advantage",
+    "Orthodox Christianity providing cultural unity"
+  ],
+  "outcome": [
+    "Maintained independence through colonial period",
+    "Italian occupation during WWII ended imperial rule",
+    "Modern Ethiopia established after WWII",
+    "Legacy of African resistance and pride"
+  ],
+  "figures": [
+    { "name": "Emperor Haile Selassie I", "role": "Modernizer who defeated Italians", "link": "https://en.wikipedia.org/wiki/Haile_Selassie_I" },
+    { "name": "Emperor Menelik II", "role": "Expanded empire to modern borders", "link": "https://en.wikipedia.org/wiki/Menelik_II" },
+    { "name": "Queen Yodit", "role": "Legendary powerful female ruler", "link": "https://en.wikipedia.org/wiki/Yodit" }
+  ],
+  "impacts": [
+    "Demonstrated African capability to resist colonialism",
+    "Preserved Christian and cultural traditions",
+    "Inspired Pan-African and independence movements",
+    "Established Ethiopia as symbol of African sovereignty"
+  ],
+  "sources": [
+    { "title": "Ethiopian Empire", "url": "https://en.wikipedia.org/wiki/Ethiopian_Empire", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["Abyssinia", "Habesha Kingdom", "Ethiopian Kingdom"],
+  "related_events": [
+    { "id": "scramble-for-africa", "title": "Scramble for Africa" }
+  ]
+}

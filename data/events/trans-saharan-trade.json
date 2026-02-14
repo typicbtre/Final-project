@@ -1,0 +1,45 @@
+{
+  "id": "trans-saharan-trade",
+  "title": "Trans-Saharan Trade Routes (c. 500-1500 CE)",
+  "years": { "start": 500, "end": 1500 },
+  "region": ["North Africa", "West Africa", "Sahara Desert", "Mediterranean"],
+  "key_facts": [
+    "Vast network of trade routes crossing Sahara Desert",
+    "Connected Mediterranean world with sub-Saharan Africa",
+    "Major commodities: gold, salt, ivory, slaves, textiles",
+    "Facilitated spread of Islam and cultural exchange"
+  ],
+  "causes": [
+    "Demand for West African gold in Mediterranean markets",
+    "Need for salt in sub-Saharan Africa (vital for preservation)",
+    "Development of camel caravans enabling desert crossing",
+    "Islamic expansion creating unified commercial networks"
+  ],
+  "outcome": [
+    "Rise of powerful West African empires (Ghana, Mali, Songhai)",
+    "Spread of Islam throughout West Africa",
+    "Urban development of trading cities like Timbuktu and Gao",
+    "Cultural and intellectual exchange across continents"
+  ],
+  "figures": [
+    { "name": "Ibn Battuta", "role": "Traveler who documented trade routes", "link": "https://en.wikipedia.org/wiki/Ibn_Battuta" },
+    { "name": "Mansa Musa", "role": "Mali ruler whose pilgrimage showcased wealth", "link": "https://en.wikipedia.org/wiki/Mansa_Musa" },
+    { "name": "Leo Africanus", "role": "Scholar who described African trade", "link": "https://en.wikipedia.org/wiki/Leo_Africanus" }
+  ],
+  "impacts": [
+    "Economic foundation for West African empires' power",
+    "Islamic scholarship and learning centers in desert cities",
+    "Cultural exchange between Africa, Europe, and Middle East",
+    "Established trade patterns that lasted until colonial period"
+  ],
+  "sources": [
+    { "title": "Trans-Saharan trade", "url": "https://en.wikipedia.org/wiki/Trans-Saharan_trade", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["Saharan Trade Routes", "Desert Caravan Trade", "Gold-Salt Trade"],
+  "related_events": [
+    { "id": "ghana-empire", "title": "Ghana Empire" },
+    { "id": "mali-empire", "title": "Mali Empire" },
+    { "id": "songhai-empire", "title": "Songhai Empire" },
+    { "id": "islamic-expansion", "title": "Islamic Expansion in Africa" }
+  ]
+}

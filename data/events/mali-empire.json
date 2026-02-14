@@ -1,0 +1,44 @@
+{
+  "id": "mali-empire",
+  "title": "Mali Empire (c. 1235-1600)",
+  "years": { "start": 1235, "end": 1600 },
+  "region": ["West Africa", "Mali", "Guinea", "Senegal", "Ivory Coast"],
+  "key_facts": [
+    "Wealthiest African empire known for Mansa Musa's pilgrimage",
+    "Controlled gold fields and trans-Saharan trade routes",
+    "Cities of Timbuktu, Gao, Djenné as Islamic learning centers",
+    "Mansa Musa's gold distribution caused inflation in Cairo"
+  ],
+  "causes": [
+    "Succession to Ghana Empire's trade networks",
+    "Control of gold mines and agricultural surplus",
+    "Military organization and cavalry forces",
+    "Islamic administration and legal systems"
+  ],
+  "outcome": [
+    "Declined after 1500s due to succession disputes",
+    "Fragmented into smaller kingdoms",
+    "Timbuktu remained center of Islamic scholarship",
+    "Influenced later Songhai expansion"
+  ],
+  "figures": [
+    { "name": "Sundiata Keita", "role": "Legendary founder", "link": "https://en.wikipedia.org/wiki/Mali_Empire" },
+    { "name": "Mansa Musa I", "role": "Wealthiest ruler; made famous pilgrimage", "link": "https://en.wikipedia.org/wiki/Mansa_Musa_I" },
+    { "name": "Mansa Suleyman", "role": "Expanded empire to peak", "link": "https://en.wikipedia.org/wiki/Mali_Empire" }
+  ],
+  "impacts": [
+    "Spread Islam throughout West Africa",
+    "Created centers of Islamic scholarship and learning",
+    "Established trans-Saharan trade dominance",
+    "Influenced African political and cultural development"
+  ],
+  "sources": [
+    { "title": "Mali Empire", "url": "https://en.wikipedia.org/wiki/Mali_Empire", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["Manding Empire", "Manden Empire", "West African Islamic Empire"],
+  "related_events": [
+    { "id": "ghana-empire", "title": "Ghana Empire" },
+    { "id": "songhai-empire", "title": "Songhai Empire" },
+    { "id": "trans-saharan-trade", "title": "Trans-Saharan Trade Routes" }
+  ]
+}

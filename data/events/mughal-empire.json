@@ -36,7 +36,7 @@
   "sources": [
     { "title": "Mughal Empire", "url": "https://en.wikipedia.org/wiki/Mughal_Empire", "publisher": "Wikipedia" }
   ],
-  "aliases": ["Mogul Empire", "Timurid Renaissance", "Indo-Islamic Empire"],
+  "aliases": ["Mogul Empire", "Indo-Islamic Empire"],
   "related_events": [
     { "id": "british-raj", "title": "British Raj" },
     { "id": "maratha-empire", "title": "Maratha Empire" },

@@ -1,0 +1,45 @@
+{
+  "id": "byzantine-empire",
+  "title": "Byzantine Empire (330-1453)",
+  "years": { "start": 330, "end": 1453 },
+  "region": ["Eastern Europe", "Middle East", "Turkey", "Balkans"],
+  "key_facts": [
+    "Eastern Roman Empire continuation after Rome's fall",
+    "Christian Orthodox empire preserving classical knowledge",
+    "Constantinople as largest European city for centuries",
+    "Sophisticated diplomacy and espionage networks"
+  ],
+  "causes": [
+    "Diocletian's administrative reforms dividing empire",
+    "Constantine's founding of new capital Constantinople",
+    "Christianity as state religion unifying diverse populations",
+    "Military organization with theme system and Greek fire"
+  ],
+  "outcome": [
+    "Gradual territorial loss to Muslim powers",
+    "Fall of Constantinople ended empire in 1453",
+    "Legacy preserved in Orthodox Church and Russian claims",
+    "Cultural and scholarly contributions to Renaissance"
+  ],
+  "figures": [
+    { "name": "Constantine the Great", "role": "Founder who Christianized empire", "link": "https://en.wikipedia.org/wiki/Constantine_the_Great" },
+    { "name": "Justinian I", "role": "Great lawgiver and reconqueror", "link": "https://en.wikipedia.org/wiki/Justinian_I" },
+    { "name": "Theodora", "role": "Influential empress", "link": "https://en.wikipedia.org/wiki/Theodora" }
+  ],
+  "impacts": [
+    "Preserved classical Greek and Roman knowledge",
+    "Spread Orthodox Christianity throughout Eastern Europe",
+    "Influenced Islamic civilization through contact and conflict",
+    "Contributed to European Renaissance through scholars"
+  ],
+  "sources": [
+    { "title": "Byzantine Empire", "url": "https://en.wikipedia.org/wiki/Byzantine_Empire", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["Eastern Roman Empire", "Greek Empire", "Constantinople Empire"],
+  "related_events": [
+    { "id": "fall-of-constantinople", "title": "Fall of Constantinople" },
+    { "id": "ottoman-empire", "title": "Ottoman Empire" },
+    { "id": "crusades", "title": "The Crusades" },
+    { "id": "the-renaissance", "title": "The Renaissance" }
+  ]
+}

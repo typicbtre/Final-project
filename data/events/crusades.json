@@ -39,7 +39,7 @@
   "parts": ["first-crusade", "third-crusade", "fourth-crusade"],
   "related_events": [
     { "id": "fall-of-constantinople", "title": "Fall of Constantinople" },
-    { "id": "renaissance", "title": "The Renaissance" },
+    { "id": "the-renaissance", "title": "The Renaissance" },
     { "id": "byzantine-empire", "title": "Byzantine Empire" }
   ]
 }

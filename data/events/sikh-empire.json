@@ -1,0 +1,44 @@
+{
+  "id": "sikh-empire",
+  "title": "Sikh Empire (1799-1849)",
+  "years": { "start": 1799, "end": 1849 },
+  "region": ["South Asia", "India", "Pakistan", "Punjab"],
+  "key_facts": [
+    "Religious empire founded by Guru Nanak in 15th century",
+    "Peak under Maharaja Ranjit Singh controlling Punjab region",
+    "Military power challenged both Mughals and Afghans",
+    "Known for military organization and religious tolerance policies"
+  ],
+  "causes": [
+    "Religious reform movement challenging Hindu and Muslim orthodoxy",
+    "Mughal Empire's weakness after Maratha expansion",
+    "Military organization of Khalsa army by Guru Gobind Singh",
+    "Punjab's strategic location between Persian and Indian subcontinent"
+  ],
+  "outcome": [
+    "Empire fragmented after Ranjit Singh's death",
+    "British annexation after Anglo-Sikh Wars",
+    "Established Punjab as center of Sikh identity and culture",
+    "Legacy of religious syncretism and martial traditions"
+  ],
+  "figures": [
+    { "name": "Guru Nanak", "role": "Founder of Sikh faith", "link": "https://en.wikipedia.org/wiki/Guru_Nanak" },
+    { "name": "Maharaja Ranjit Singh", "role": "Greatest Sikh ruler", "link": "https://en.wikipedia.org/wiki/Ranjit_Singh" },
+    { "name": "Guru Gobind Singh", "role": "Established Khalsa military order", "link": "https://en.wikipedia.org/wiki/Guru_Gobind_Singh" }
+  ],
+  "impacts": [
+    "Established Sikhism as major world religion",
+    "Created Punjabi cultural and linguistic identity",
+    "Influenced Indian military traditions and organization",
+    "Left legacy of religious tolerance and martial arts"
+  ],
+  "sources": [
+    { "title": "Sikh Empire", "url": "https://en.wikipedia.org/wiki/Sikh_Empire", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["Sikh Confederacy", "Punjab Empire", "Khalsa Raj"],
+  "related_events": [
+    { "id": "mughal-empire", "title": "Mughal Empire" },
+    { "id": "maratha-empire", "title": "Maratha Empire" },
+    { "id": "british-raj", "title": "British Raj" }
+  ]
+}
