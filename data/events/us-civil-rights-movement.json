@@ -1,0 +1,45 @@
+{
+  "id": "us-civil-rights-movement",
+  "title": "US Civil Rights Movement",
+  "years": {"start": 1954,"end": 1968},
+  "region": ["North America", "United States"],
+  "key_facts": [
+    "Mass movement to end racial segregation and discrimination against African Americans.",
+    "Key moments included Brown v. Board of Education (1954), the Montgomery Bus Boycott (1955–1956), and the March on Washington (1963).",
+    "Major federal laws included the Civil Rights Act of 1964 and the Voting Rights Act of 1965.",
+    "Used nonviolent protest, legal challenges, and grassroots organizing to challenge Jim Crow laws."
+  ],
+  "causes": [
+    "Long history of slavery, segregation, and racial violence in the United States.",
+    "Exclusion of African Americans from political power, quality education, and economic opportunity.",
+    "Contradiction between American democratic ideals and racial inequality, especially after World War II.",
+    "Growing activism from Black churches, civil rights organizations, and youth movements."
+  ],
+  "outcome": [
+    "Legal end to de jure segregation in public facilities and schools.",
+    "Expansion of Black voting rights and political representation, especially in the South.",
+    "Creation of federal enforcement mechanisms against discrimination.",
+    "Inspired later social movements for gender equality, LGBTQ+ rights, and disability rights."
+  ],
+  "figures": [
+    {"name": "Martin Luther King Jr.","role": "Civil rights leader and Baptist minister","significance": "Advocated nonviolent resistance; led the Montgomery Bus Boycott and March on Washington."},
+    {"name": "Rosa Parks","role": "Civil rights activist","significance": "Refused to give up her bus seat in Montgomery, helping spark the bus boycott."},
+    {"name": "Thurgood Marshall","role": "NAACP attorney and later Supreme Court Justice","significance": "Argued Brown v. Board of Education, which declared segregated schools unconstitutional."},
+    {"name": "John Lewis","role": "Student activist and later congressman","significance": "Key organizer in the Student Nonviolent Coordinating Committee (SNCC) and Selma marches."}
+  ],
+  "impacts": [
+    "Transformed US law by prohibiting segregation and discrimination based on race in many areas of public life.",
+    "Shifted national attitudes on race and justice, though inequality persisted.",
+    "Created enduring civil rights organizations and a model for nonviolent protest worldwide.",
+    "Brought racial injustice to global attention during the Cold War."
+  ],
+  "sources": [
+    {"title": "Civil rights movement","url": "https://en.wikipedia.org/wiki/Civil_rights_movement","publisher": "Wikipedia"}
+  ],
+  "aliases": ["Civil Rights Movement","African American Civil Rights Movement","US Black Civil Rights Movement"],
+  "related_events": [
+    {"id": "american-civil-war","title": "The American Civil War"},
+    {"id": "great-depression","title": "The Great Depression"},
+    {"id": "world-war-ii","title": "World War II"}
+  ]
+}

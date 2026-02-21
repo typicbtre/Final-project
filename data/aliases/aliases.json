@@ -42,5 +42,8 @@
   "October Revolution": "russian-revolution",
   "1917 Revolution": "russian-revolution",
   "War Between the States": "american-civil-war",
-  "Union vs Confederacy": "american-civil-war"
+  "Union vs Confederacy": "american-civil-war",
+  "Civil Rights Movement": "us-civil-rights-movement",
+  "African American Civil Rights Movement": "us-civil-rights-movement",
+  "US Black Civil Rights Movement": "us-civil-rights-movement"
 }

@@ -1,0 +1,46 @@
+{
+  "id": "islamic-expansion",
+  "title": "Islamic Expansion in Africa (c. 650-1900)",
+  "years": { "start": 650, "end": 1900 },
+  "region": ["Africa", "North Africa", "West Africa", "East Africa"],
+  "key_facts": [
+    "Gradual spread of Islam across African continent through trade and conquest",
+    "North Africa fully Islamized by 10th century",
+    "West African kingdoms converted through trade networks",
+    "Swahili coast established Islamic city-states"
+  ],
+  "causes": [
+    "Trade routes connecting African kingdoms to Islamic world",
+    "Islamic scholarship and educational institutions",
+    "Political alliances with Muslim rulers",
+    "Military conquests by Islamic dynasties"
+  ],
+  "outcome": [
+    "Islam became major religion in North and West Africa",
+    "Creation of unique African Islamic cultures and traditions",
+    "Arabic script adopted for African languages",
+    "Islamic law and governance systems established"
+  ],
+  "figures": [
+    { "name": "Uqba ibn Nafi", "role": "Arab general who conquered North Africa", "link": "https://en.wikipedia.org/wiki/Uqba_ibn_Nafi" },
+    { "name": "Mansa Musa", "role": "Mali ruler who promoted Islam", "link": "https://en.wikipedia.org/wiki/Mansa_Musa" },
+    { "name": "Askia Muhammad", "role": "Songhai ruler who strengthened Islam", "link": "https://en.wikipedia.org/wiki/Askia_Muhammad_I" }
+  ],
+  "impacts": [
+    "Unified diverse African regions under common religious identity",
+    "Preservation and development of Islamic scholarship",
+    "Creation of trans-Saharan intellectual networks",
+    "Resistance to European colonization through Islamic solidarity"
+  ],
+  "sources": [
+    { "title": "Spread of Islam in Africa", "url": "https://en.wikipedia.org/wiki/Spread_of_Islam_in_Africa", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["Islamization of Africa", "African Islamic History", "Islamic Africa"],
+  "related_events": [
+    { "id": "trans-saharan-trade", "title": "Trans-Saharan Trade Routes" },
+    { "id": "ghana-empire", "title": "Ghana Empire" },
+    { "id": "mali-empire", "title": "Mali Empire" },
+    { "id": "songhai-empire", "title": "Songhai Empire" },
+    { "id": "ottoman-empire", "title": "Ottoman Empire" }
+  ]
+}

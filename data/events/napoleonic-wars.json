@@ -33,8 +33,7 @@
   ],
   "aliases": ["Napoleonic Era", "Coalition Wars", "French Revolutionary Wars", "Napoleonic Era"],
   "related_events": [
-    { "id": "french-revolution", "title": "French Revolution" },
-    { "id": "spanish-civil-war", "title": "Spanish Civil War" }
+    { "id": "french-revolution", "title": "French Revolution" }
   ],
   "parts": ["war-of-the-third-coalition", "peninsular-war", "hundred-days"]
 }

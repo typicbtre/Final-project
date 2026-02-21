@@ -28,6 +28,15 @@ export function renderSummary(root, event) {
   years.textContent = s && e ? `${s}–${e}` : "";
   header.appendChild(title);
   header.appendChild(years);
+
+  const bookmarkBtn = document.createElement("button");
+  bookmarkBtn.className = "bookmark-btn";
+  bookmarkBtn.id = "eventBookmarkBtn";
+  bookmarkBtn.dataset.id = event.id;
+  bookmarkBtn.innerHTML = "⭐";
+  bookmarkBtn.title = "Bookmark this event";
+  header.appendChild(bookmarkBtn);
+
   root.appendChild(header);
 
   const grid = document.createElement("div");
@@ -69,7 +78,7 @@ export function renderSummary(root, event) {
     connectedDiv.style.marginTop = "20px";
     connectedDiv.style.paddingTop = "10px";
     connectedDiv.style.borderTop = "1px solid var(--border-color)";
-    
+
     const h3 = document.createElement("h3");
     h3.textContent = "Related:";
     h3.style.marginBottom = "8px";
@@ -83,11 +92,11 @@ export function renderSummary(root, event) {
     list.style.flexWrap = "wrap";
     list.style.gap = "8px";
     list.style.padding = "0";
-    
+
     // Style for the list to make it look nice (horizontal or bubbles)
     // We'll stick to a simple list or buttons for now.
     // Let's use button-like links similar to the "Related sections" below but properly integrated.
-    
+
     const MAX_VISIBLE = 6;
     // Sort items alphabetically by display title
     const items = [...event.related_events].sort((a, b) => {
@@ -120,7 +129,7 @@ export function renderSummary(root, event) {
       btn.textContent = truncated;
       btn.title = fullLabel;
       btn.dataset.linkId = rel.id;
-      
+
       // Hide beyond initial batch
       if (index >= MAX_VISIBLE) {
         li.style.display = "none";
@@ -224,19 +233,18 @@ export function renderMiss(root, miss) {
   p.textContent = `We couldn't find "${miss.query}".`;
   const actions = document.createElement("div");
   actions.className = "miss-actions";
-  const gen = document.createElement("button");
-  gen.className = "btn btn-primary";
-  gen.textContent = "Generate summary now";
-  gen.dataset.action = "generate";
   const similar = document.createElement("button");
   similar.className = "btn";
   similar.textContent = "See similar topics";
   similar.dataset.action = "similar";
-  actions.appendChild(gen);
   actions.appendChild(similar);
   const sug = document.createElement("ul");
+  sug.className = "suggestions-list";
   // Hidden by default; revealed via the 'See similar topics' button
   sug.style.display = "none";
+  sug.style.listStyle = "none";
+  sug.style.padding = "0";
+  sug.style.marginTop = "15px";
   for (const s of miss.suggestions || []) {
     const li = document.createElement("li");
     const desc = typeof s.description === "string" ? s.description : "";

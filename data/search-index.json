@@ -551,5 +551,29 @@
     "aliases": ["Saharan Trade Routes", "Desert Caravan Trade", "Gold-Salt Trade"],
     "description": "Vast network of trade routes crossing Sahara Desert connecting Mediterranean world with sub-Saharan Africa, facilitating gold-salt trade and spread of Islam while creating economic foundation for West African empires.",
     "tags": ["Africa", "trade", "Sahara", "Islamic", "500-1500"]
+  },
+  {
+    "id": "scramble-for-africa",
+    "title": "Scramble for Africa (1881-1914)",
+    "years": { "start": 1881, "end": 1914 },
+    "aliases": ["Partition of Africa", "African Colonization", "New Imperialism in Africa"],
+    "description": "Period of rapid European colonization of African continent with Berlin Conference establishing rules for colonization, dividing Africa among European powers with little regard for ethnic boundaries, leaving only Ethiopia and Liberia independent by 1914.",
+    "tags": ["Africa", "colonialism", "European imperialism", "1881-1914", "Berlin Conference"]
+  },
+  {
+    "id": "islamic-expansion",
+    "title": "Islamic Expansion in Africa (c. 650-1900)",
+    "years": { "start": 650, "end": 1900 },
+    "aliases": ["Islamization of Africa", "African Islamic History", "Islamic Africa"],
+    "description": "Gradual spread of Islam across African continent through trade and conquest, with North Africa fully Islamized by 10th century and West African kingdoms converting through trade networks, creating unique African Islamic cultures and resistance to colonization.",
+    "tags": ["Africa", "Islam", "religion", "trade", "650-1900"]
+  },
+  {
+    "id": "us-civil-rights-movement",
+    "title": "US Civil Rights Movement (1954–1968)",
+    "years": { "start": 1954, "end": 1968 },
+    "aliases": ["Civil Rights Movement","African American Civil Rights Movement","US Black Civil Rights Movement"],
+    "description": "Mass movement to end racial segregation and discrimination against African Americans using nonviolent protest, legal challenges, and federal legislation.",
+    "tags": ["USA","civil rights","segregation","nonviolence","1950s","1960s","Martin Luther King Jr."]
   }
 ]

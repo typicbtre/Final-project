@@ -1,0 +1,45 @@
+{
+  "id": "scramble-for-africa",
+  "title": "Scramble for Africa (1881-1914)",
+  "years": { "start": 1881, "end": 1914 },
+  "region": ["Africa", "Europe", "Colonial Africa"],
+  "key_facts": [
+    "Period of rapid European colonization of African continent",
+    "Berlin Conference (1884-85) established rules for colonization",
+    "Africa divided among European powers with little regard for ethnic boundaries",
+    "By 1914, only Ethiopia and Liberia remained independent"
+  ],
+  "causes": [
+    "Industrial Revolution's demand for raw materials and markets",
+    "European nationalism and competition for imperial prestige",
+    "Medical advances (quinine) enabling European survival in tropical regions",
+    "Military superiority with modern weapons against African resistance"
+  ],
+  "outcome": [
+    "European control over 90% of African territory",
+    "Exploitation of African resources and labor",
+    "Imposition of European borders and administrative systems",
+    "Legacy of political instability and ethnic conflicts"
+  ],
+  "figures": [
+    { "name": "King Leopold II", "role": "Belgian king who exploited Congo", "link": "https://en.wikipedia.org/wiki/Leopold_II_of_Belgium" },
+    { "name": "Cecil Rhodes", "role": "British imperialist in Southern Africa", "link": "https://en.wikipedia.org/wiki/Cecil_Rhodes" },
+    { "name": "Otto von Bismarck", "role": "German chancellor who organized Berlin Conference", "link": "https://en.wikipedia.org/wiki/Otto_von_Bismarck" }
+  ],
+  "impacts": [
+    "Created arbitrary national boundaries causing lasting conflicts",
+    "Economic exploitation and resource extraction patterns",
+    "Destruction of traditional African political systems",
+    "Foundation for later independence movements and decolonization"
+  ],
+  "sources": [
+    { "title": "Scramble for Africa", "url": "https://en.wikipedia.org/wiki/Scramble_for_Africa", "publisher": "Wikipedia" }
+  ],
+  "aliases": ["Partition of Africa", "African Colonization", "New Imperialism in Africa"],
+  "related_events": [
+    { "id": "ethiopian-empire", "title": "Ethiopian Empire" },
+    { "id": "zulu-kingdom", "title": "Zulu Kingdom" },
+    { "id": "british-raj", "title": "British Raj" },
+    { "id": "world-war-i", "title": "World War I" }
+  ]
+}
